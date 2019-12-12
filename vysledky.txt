@@ -1,0 +1,39 @@
+dataset1:
+244/287 = 85.02%
++ 244
+- 43
+muz
+nar. 1976
+povod: Philadelphia (US)
+zije: Pariz (FR)
+
+
+datdaset2:
+148/185 = 80%
++ 148
+- 37
+zena
+nar. 1956
+povod: London (UK)
+zije: Medon la Medon la forêt (FR)
+
+
+dataset3:
+2980/3624 = 82.22%
++ 2980
+- 644
+zena
+nar. 1976
+povod: California (US)
+zije: San Jose (US)
+
+
+dataset4:
+1714/2688 = 63.76%
++ 1714
+- 974
+zena
+nar. 1940
+povod: Midwest(US)
+zije: Paris (FR)
+

@@ -1,0 +1,940 @@
+# Created by Octave 5.1.0, Tue Oct 22 13:59:40 2019 GMT <unknown@Alienovo>
+# name: positive_files
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 148
+# name: onion
+# type: scalar
+1
+
+
+# name: absent
+# type: scalar
+1
+
+
+# name: everybody
+# type: scalar
+1
+
+
+# name: army
+# type: scalar
+1
+
+
+# name: backpack
+# type: scalar
+1
+
+
+# name: society
+# type: scalar
+2
+
+
+# name: cupboard
+# type: scalar
+1
+
+
+# name: religion
+# type: scalar
+2
+
+
+# name: very
+# type: scalar
+1
+
+
+# name: occupied
+# type: scalar
+1
+
+
+# name: wednesday
+# type: scalar
+1
+
+
+# name: never
+# type: scalar
+1
+
+
+# name: minister
+# type: scalar
+1
+
+
+# name: mother
+# type: scalar
+1
+
+
+# name: patient
+# type: scalar
+1
+
+
+# name: trousers
+# type: scalar
+1
+
+
+# name: dictionary
+# type: scalar
+1
+
+
+# name: doctor
+# type: scalar
+1
+
+
+# name: progress
+# type: scalar
+1
+
+
+# name: tuesday
+# type: scalar
+1
+
+
+# name: sister
+# type: scalar
+1
+
+
+# name: tomorrow
+# type: scalar
+2
+
+
+# name: history
+# type: scalar
+1
+
+
+# name: ready
+# type: scalar
+1
+
+
+# name: city
+# type: scalar
+1
+
+
+# name: clothes
+# type: scalar
+1
+
+
+# name: shopkeeper
+# type: scalar
+1
+
+
+# name: pillow
+# type: scalar
+1
+
+
+# name: person
+# type: scalar
+1
+
+
+# name: hello
+# type: scalar
+2
+
+
+# name: garden
+# type: scalar
+1
+
+
+# name: midday
+# type: scalar
+1
+
+
+# name: carpet
+# type: scalar
+1
+
+
+# name: fireman
+# type: scalar
+1
+
+
+# name: refrigerator
+# type: scalar
+2
+
+
+# name: environment
+# type: scalar
+2
+
+
+# name: birthday
+# type: scalar
+1
+
+
+# name: easy
+# type: scalar
+1
+
+
+# name: classroom
+# type: scalar
+1
+
+
+# name: curtain
+# type: scalar
+1
+
+
+# name: paper
+# type: scalar
+1
+
+
+# name: company
+# type: scalar
+1
+
+
+# name: country
+# type: scalar
+1
+
+
+# name: translator
+# type: scalar
+2
+
+
+# name: mirror
+# type: scalar
+1
+
+
+# name: nobody
+# type: scalar
+1
+
+
+# name: heaven
+# type: scalar
+1
+
+
+# name: painting
+# type: scalar
+1
+
+
+# name: daughter
+# type: scalar
+1
+
+
+# name: mustard
+# type: scalar
+1
+
+
+# name: empty
+# type: scalar
+1
+
+
+# name: beautiful
+# type: scalar
+1
+
+
+# name: market
+# type: scalar
+1
+
+
+# name: difficult
+# type: scalar
+1
+
+
+# name: grandfather
+# type: scalar
+1
+
+
+# name: together
+# type: scalar
+2
+
+
+# name: neighbour
+# type: scalar
+1
+
+
+# name: woman
+# type: scalar
+1
+
+
+# name: professor
+# type: scalar
+2
+
+
+# name: politics
+# type: scalar
+1
+
+
+# name: evening
+# type: scalar
+1
+
+
+# name: dangerous
+# type: scalar
+1
+
+
+# name: apricot
+# type: scalar
+1
+
+
+# name: scissors
+# type: scalar
+1
+
+
+# name: internet
+# type: scalar
+1
+
+
+# name: baby
+# type: scalar
+1
+
+
+# name: biscuit
+# type: scalar
+1
+
+
+# name: tired
+# type: scalar
+1
+
+
+# name: dinner
+# type: scalar
+1
+
+
+# name: breakfast
+# type: scalar
+1
+
+
+# name: blanket
+# type: scalar
+1
+
+
+# name: window
+# type: scalar
+1
+
+
+# name: letter
+# type: scalar
+1
+
+
+# name: handbag
+# type: scalar
+1
+
+
+# name: alcohol
+# type: scalar
+1
+
+
+# name: engineer
+# type: scalar
+1
+
+
+# name: enough
+# type: scalar
+2
+
+
+# name: writer
+# type: scalar
+1
+
+
+# name: potato
+# type: scalar
+2
+
+
+# name: another
+# type: scalar
+2
+
+
+# name: lemon
+# type: scalar
+1
+
+
+# name: worker
+# type: scalar
+1
+
+
+# name: forehead
+# type: scalar
+1
+
+
+# name: computer
+# type: scalar
+2
+
+
+# name: early
+# type: scalar
+1
+
+
+# name: towel
+# type: scalar
+1
+
+
+# name: away
+# type: scalar
+2
+
+
+# name: always
+# type: scalar
+1
+
+
+# name: forest
+# type: scalar
+1
+
+
+# name: husband
+# type: scalar
+1
+
+
+# name: government
+# type: scalar
+1
+
+
+# name: cancer
+# type: scalar
+1
+
+
+# name: behind
+# type: scalar
+2
+
+
+# name: bathroom
+# type: scalar
+1
+
+
+# name: soldier
+# type: scalar
+1
+
+
+# name: teacher
+# type: scalar
+1
+
+
+# name: airman
+# type: scalar
+1
+
+
+# name: slowly
+# type: scalar
+1
+
+
+# name: friday
+# type: scalar
+1
+
+
+# name: student
+# type: scalar
+1
+
+
+# name: thursday
+# type: scalar
+1
+
+
+# name: money
+# type: scalar
+1
+
+
+# name: morning
+# type: scalar
+1
+
+
+# name: grandmother
+# type: scalar
+1
+
+
+# name: profession
+# type: scalar
+2
+
+
+# name: happy
+# type: scalar
+1
+
+
+# name: taxes
+# type: scalar
+1
+
+
+# name: sailor
+# type: scalar
+1
+
+
+# name: handkerchief
+# type: scalar
+1
+
+
+# name: foreign
+# type: scalar
+1
+
+
+# name: journalist
+# type: scalar
+1
+
+
+# name: sunday
+# type: scalar
+1
+
+
+# name: music
+# type: scalar
+1
+
+
+# name: industry
+# type: scalar
+1
+
+
+# name: father
+# type: scalar
+1
+
+
+# name: busy
+# type: scalar
+1
+
+
+# name: yellow
+# type: scalar
+1
+
+
+# name: cinema
+# type: scalar
+1
+
+
+# name: butter
+# type: scalar
+1
+
+
+# name: pharmacy
+# type: scalar
+1
+
+
+# name: monday
+# type: scalar
+1
+
+
+# name: brother
+# type: scalar
+1
+
+
+# name: dirty
+# type: scalar
+1
+
+
+# name: education
+# type: scalar
+3
+
+
+# name: ever
+# type: scalar
+1
+
+
+# name: body
+# type: scalar
+1
+
+
+# name: lighter
+# type: scalar
+1
+
+
+# name: garlic
+# type: scalar
+1
+
+
+# name: building
+# type: scalar
+1
+
+
+# name: relatives
+# type: scalar
+1
+
+
+# name: yesterday
+# type: scalar
+1
+
+
+# name: saturday
+# type: scalar
+1
+
+
+# name: contract
+# type: scalar
+1
+
+
+# name: kitchen
+# type: scalar
+1
+
+
+# name: diploma
+# type: scalar
+2
+
+
+# name: farmer
+# type: scalar
+1
+
+
+# name: economics
+# type: scalar
+3
+
+
+# name: ceiling
+# type: scalar
+1
+
+
+# name: river
+# type: scalar
+1
+
+
+# name: glasses
+# type: scalar
+1
+
+
+# name: illness
+# type: scalar
+1
+
+
+# name: lesson
+# type: scalar
+1
+
+
+# name: cherry
+# type: scalar
+1
+
+
+# name: water
+# type: scalar
+1
+
+
+# name: factory
+# type: scalar
+1
+
+
+# name: where
+# type: scalar
+1
+
+
+# name: parents
+# type: scalar
+1
+
+
+# name: petrol
+# type: scalar
+1
+
+
+
+
+# name: negative_files
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 37
+# name: address
+# type: scalar
+2
+
+
+# name: forbidden
+# type: scalar
+2
+
+
+# name: tomato
+# type: scalar
+1
+
+
+# name: policeman
+# type: scalar
+1
+
+
+# name: anniversary
+# type: scalar
+2
+
+
+# name: direction
+# type: scalar
+1
+
+
+# name: hospital
+# type: scalar
+2
+
+
+# name: apartment
+# type: scalar
+1
+
+
+# name: chemist
+# type: scalar
+2
+
+
+# name: wedding
+# type: scalar
+2
+
+
+# name: arrival
+# type: scalar
+1
+
+
+# name: television
+# type: scalar
+2
+
+
+# name: toilet
+# type: scalar
+2
+
+
+# name: ashtray
+# type: scalar
+2
+
+
+# name: pepper
+# type: scalar
+2
+
+
+# name: many
+# type: scalar
+2
+
+
+# name: chicken
+# type: scalar
+2
+
+
+# name: again
+# type: scalar
+1
+
+
+# name: exit
+# type: scalar
+2
+
+
+# name: vinegar
+# type: scalar
+2
+
+
+# name: mountain
+# type: scalar
+2
+
+
+# name: university
+# type: scalar
+1
+
+
+# name: celebration
+# type: scalar
+2
+
+
+# name: family
+# type: scalar
+2
+
+
+# name: flower
+# type: scalar
+2
+
+
+# name: afternoon
+# type: scalar
+1
+
+
+# name: island
+# type: scalar
+2
+
+
+# name: sugar
+# type: scalar
+2
+
+
+# name: today
+# type: scalar
+1
+
+
+# name: revolution
+# type: scalar
+2
+
+
+# name: ugly
+# type: scalar
+2
+
+
+# name: production
+# type: scalar
+1
+
+
+# name: other
+# type: scalar
+2
+
+
+# name: canal
+# type: scalar
+1
+
+
+# name: rucksack
+# type: scalar
+2
+
+
+# name: pollution
+# type: scalar
+1
+
+
+# name: perhaps
+# type: scalar
+1
+
+
+
+

@@ -1,0 +1,18135 @@
+# Created by Octave 5.1.0, Sat Nov 23 16:22:42 2019 GMT <unknown@Alienovo>
+# name: positive_files
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2980
+# name: about
+# type: scalar
+2
+
+
+# name: abridged
+# type: scalar
+2
+
+
+# name: accept
+# type: scalar
+2
+
+
+# name: accepted
+# type: scalar
+2
+
+
+# name: access
+# type: scalar
+1
+
+
+# name: accident
+# type: scalar
+1
+
+
+# name: according
+# type: scalar
+2
+
+
+# name: accordion
+# type: scalar
+2
+
+
+# name: achoo
+# type: scalar
+2
+
+
+# name: acid
+# type: scalar
+1
+
+
+# name: acorn
+# type: scalar
+1
+
+
+# name: acrid
+# type: scalar
+1
+
+
+# name: across
+# type: scalar
+2
+
+
+# name: action
+# type: scalar
+1
+
+
+# name: added
+# type: scalar
+1
+
+
+# name: additional
+# type: scalar
+2
+
+
+# name: adjustment
+# type: scalar
+2
+
+
+# name: adrift
+# type: scalar
+2
+
+
+# name: affair
+# type: scalar
+2
+
+
+# name: affiliated
+# type: scalar
+2
+
+
+# name: afford
+# type: scalar
+2
+
+
+# name: afghan
+# type: scalar
+1
+
+
+# name: after
+# type: scalar
+1
+
+
+# name: afterthought
+# type: scalar
+1
+
+
+# name: afterwards
+# type: scalar
+1
+
+
+# name: again
+# type: scalar
+2
+
+
+# name: against
+# type: scalar
+2
+
+
+# name: agenda
+# type: scalar
+2
+
+
+# name: agreed
+# type: scalar
+2
+
+
+# name: ahead
+# type: scalar
+2
+
+
+# name: ailment
+# type: scalar
+1
+
+
+# name: airport
+# type: scalar
+1
+
+
+# name: ajar
+# type: scalar
+2
+
+
+# name: alacrity
+# type: scalar
+2
+
+
+# name: alignment
+# type: scalar
+2
+
+
+# name: alimony
+# type: scalar
+1
+
+
+# name: allow
+# type: scalar
+2
+
+
+# name: almond
+# type: scalar
+1
+
+
+# name: also
+# type: scalar
+1
+
+
+# name: aluminum
+# type: scalar
+2
+
+
+# name: always
+# type: scalar
+1
+
+
+# name: amateur
+# type: scalar
+1
+
+
+# name: amateurish
+# type: scalar
+1
+
+
+# name: amazing
+# type: scalar
+2
+
+
+# name: ambergris
+# type: scalar
+1
+
+
+# name: ambiguous
+# type: scalar
+2
+
+
+# name: ambled
+# type: scalar
+1
+
+
+# name: ambles
+# type: scalar
+1
+
+
+# name: ambling
+# type: scalar
+1
+
+
+# name: ambulatory
+# type: scalar
+1
+
+
+# name: among
+# type: scalar
+2
+
+
+# name: amount
+# type: scalar
+2
+
+
+# name: ampersand
+# type: scalar
+1
+
+
+# name: amphibian
+# type: scalar
+2
+
+
+# name: amsterdam
+# type: scalar
+1
+
+
+# name: amusement
+# type: scalar
+2
+
+
+# name: anchor
+# type: scalar
+1
+
+
+# name: ancient
+# type: scalar
+1
+
+
+# name: angel
+# type: scalar
+1
+
+
+# name: angry
+# type: scalar
+1
+
+
+# name: animal
+# type: scalar
+1
+
+
+# name: animals
+# type: scalar
+1
+
+
+# name: anomalous
+# type: scalar
+2
+
+
+# name: another
+# type: scalar
+2
+
+
+# name: answer
+# type: scalar
+1
+
+
+# name: answered
+# type: scalar
+1
+
+
+# name: antithesis
+# type: scalar
+2
+
+
+# name: anxious
+# type: scalar
+1
+
+
+# name: any
+# type: scalar
+1
+
+
+# name: anybody
+# type: scalar
+1
+
+
+# name: anything
+# type: scalar
+1
+
+
+# name: apart
+# type: scalar
+2
+
+
+# name: apartment
+# type: scalar
+2
+
+
+# name: aplomb
+# type: scalar
+2
+
+
+# name: apologist
+# type: scalar
+2
+
+
+# name: apothecary
+# type: scalar
+2
+
+
+# name: appear
+# type: scalar
+2
+
+
+# name: appeared
+# type: scalar
+2
+
+
+# name: appears
+# type: scalar
+2
+
+
+# name: appendix
+# type: scalar
+2
+
+
+# name: approval
+# type: scalar
+2
+
+
+# name: apricot
+# type: scalar
+1
+
+
+# name: april
+# type: scalar
+1
+
+
+# name: apron
+# type: scalar
+1
+
+
+# name: aquarium
+# type: scalar
+2
+
+
+# name: arbitrary
+# type: scalar
+1
+
+
+# name: architect
+# type: scalar
+1
+
+
+# name: argument
+# type: scalar
+1
+
+
+# name: arid
+# type: scalar
+1
+
+
+# name: armchair
+# type: scalar
+1
+
+
+# name: army
+# type: scalar
+1
+
+
+# name: arrow
+# type: scalar
+1
+
+
+# name: artist
+# type: scalar
+1
+
+
+# name: asked
+# type: scalar
+1
+
+
+# name: assembling
+# type: scalar
+2
+
+
+# name: associated
+# type: scalar
+2
+
+
+# name: astonishingly
+# type: scalar
+2
+
+
+# name: astoundingly
+# type: scalar
+2
+
+
+# name: atheist
+# type: scalar
+1
+
+
+# name: attempt
+# type: scalar
+2
+
+
+# name: attend
+# type: scalar
+2
+
+
+# name: attendant
+# type: scalar
+2
+
+
+# name: attended
+# type: scalar
+2
+
+
+# name: attending
+# type: scalar
+2
+
+
+# name: attends
+# type: scalar
+2
+
+
+# name: attention
+# type: scalar
+2
+
+
+# name: attraction
+# type: scalar
+2
+
+
+# name: august
+# type: scalar
+1
+
+
+# name: austral
+# type: scalar
+1
+
+
+# name: author
+# type: scalar
+1
+
+
+# name: authority
+# type: scalar
+2
+
+
+# name: automobiles
+# type: scalar
+1
+
+
+# name: avail
+# type: scalar
+2
+
+
+# name: away
+# type: scalar
+2
+
+
+# name: baby
+# type: scalar
+1
+
+
+# name: babysit
+# type: scalar
+1
+
+
+# name: backhand
+# type: scalar
+1
+
+
+# name: backhanded
+# type: scalar
+1
+
+
+# name: backing
+# type: scalar
+1
+
+
+# name: backlash
+# type: scalar
+1
+
+
+# name: backpedal
+# type: scalar
+1
+
+
+# name: backtrack
+# type: scalar
+1
+
+
+# name: badger
+# type: scalar
+1
+
+
+# name: badminton
+# type: scalar
+1
+
+
+# name: bagpipes
+# type: scalar
+1
+
+
+# name: bakery
+# type: scalar
+1
+
+
+# name: balcony
+# type: scalar
+1
+
+
+# name: ballyhoo
+# type: scalar
+1
+
+
+# name: bamboo
+# type: scalar
+2
+
+
+# name: banana
+# type: scalar
+2
+
+
+# name: banter
+# type: scalar
+1
+
+
+# name: barber
+# type: scalar
+1
+
+
+# name: barest
+# type: scalar
+1
+
+
+# name: barrel
+# type: scalar
+1
+
+
+# name: basically
+# type: scalar
+1
+
+
+# name: basil
+# type: scalar
+1
+
+
+# name: basin
+# type: scalar
+1
+
+
+# name: bathroom
+# type: scalar
+1
+
+
+# name: beautiful
+# type: scalar
+1
+
+
+# name: beauty
+# type: scalar
+1
+
+
+# name: bedroom
+# type: scalar
+1
+
+
+# name: beginning
+# type: scalar
+2
+
+
+# name: belief
+# type: scalar
+2
+
+
+# name: bellow
+# type: scalar
+1
+
+
+# name: bellows
+# type: scalar
+1
+
+
+# name: belly
+# type: scalar
+1
+
+
+# name: beneath
+# type: scalar
+2
+
+
+# name: berry
+# type: scalar
+1
+
+
+# name: besides
+# type: scalar
+2
+
+
+# name: better
+# type: scalar
+1
+
+
+# name: between
+# type: scalar
+2
+
+
+# name: billow
+# type: scalar
+1
+
+
+# name: bimbo
+# type: scalar
+1
+
+
+# name: binder
+# type: scalar
+1
+
+
+# name: binoculars
+# type: scalar
+2
+
+
+# name: birdbrain
+# type: scalar
+1
+
+
+# name: birthday
+# type: scalar
+1
+
+
+# name: biscuit
+# type: scalar
+1
+
+
+# name: blackberry
+# type: scalar
+1
+
+
+# name: blackboard
+# type: scalar
+1
+
+
+# name: blacklist
+# type: scalar
+1
+
+
+# name: blanket
+# type: scalar
+1
+
+
+# name: bluegrass
+# type: scalar
+1
+
+
+# name: blunder
+# type: scalar
+1
+
+
+# name: bluster
+# type: scalar
+1
+
+
+# name: boastful
+# type: scalar
+1
+
+
+# name: body
+# type: scalar
+1
+
+
+# name: bonkers
+# type: scalar
+1
+
+
+# name: boolean
+# type: scalar
+2
+
+
+# name: boston
+# type: scalar
+1
+
+
+# name: bottom
+# type: scalar
+1
+
+
+# name: bountiful
+# type: scalar
+1
+
+
+# name: boyfriend
+# type: scalar
+1
+
+
+# name: bracket
+# type: scalar
+1
+
+
+# name: brainchild
+# type: scalar
+1
+
+
+# name: brandish
+# type: scalar
+1
+
+
+# name: breadbasket
+# type: scalar
+1
+
+
+# name: breakthrough
+# type: scalar
+1
+
+
+# name: breathtaking
+# type: scalar
+1
+
+
+# name: british
+# type: scalar
+1
+
+
+# name: broadcast
+# type: scalar
+1
+
+
+# name: broken
+# type: scalar
+1
+
+
+# name: brother
+# type: scalar
+1
+
+
+# name: brouhaha
+# type: scalar
+1
+
+
+# name: buddy
+# type: scalar
+1
+
+
+# name: buffalo
+# type: scalar
+1
+
+
+# name: bugaboo
+# type: scalar
+1
+
+
+# name: building
+# type: scalar
+1
+
+
+# name: bulkhead
+# type: scalar
+1
+
+
+# name: bullets
+# type: scalar
+1
+
+
+# name: bullpen
+# type: scalar
+1
+
+
+# name: bully
+# type: scalar
+1
+
+
+# name: bummer
+# type: scalar
+1
+
+
+# name: bumper
+# type: scalar
+1
+
+
+# name: bumpkin
+# type: scalar
+1
+
+
+# name: burgeon
+# type: scalar
+1
+
+
+# name: burrow
+# type: scalar
+1
+
+
+# name: bury
+# type: scalar
+1
+
+
+# name: business
+# type: scalar
+1
+
+
+# name: busy
+# type: scalar
+1
+
+
+# name: butter
+# type: scalar
+1
+
+
+# name: cacophony
+# type: scalar
+2
+
+
+# name: cagey
+# type: scalar
+1
+
+
+# name: called
+# type: scalar
+1
+
+
+# name: calling
+# type: scalar
+1
+
+
+# name: camera
+# type: scalar
+1
+
+
+# name: camouflaged
+# type: scalar
+1
+
+
+# name: camper
+# type: scalar
+1
+
+
+# name: cannot
+# type: scalar
+1
+
+
+# name: canvas
+# type: scalar
+1
+
+
+# name: capillary
+# type: scalar
+1
+
+
+# name: captain
+# type: scalar
+1
+
+
+# name: cardboard
+# type: scalar
+1
+
+
+# name: cardinal
+# type: scalar
+1
+
+
+# name: careful
+# type: scalar
+1
+
+
+# name: carefully
+# type: scalar
+1
+
+
+# name: carry
+# type: scalar
+1
+
+
+# name: cases
+# type: scalar
+1
+
+
+# name: catcher
+# type: scalar
+1
+
+
+# name: cater
+# type: scalar
+1
+
+
+# name: caterwaul
+# type: scalar
+1
+
+
+# name: catharsis
+# type: scalar
+2
+
+
+# name: caveat
+# type: scalar
+1
+
+
+# name: center
+# type: scalar
+1
+
+
+# name: century
+# type: scalar
+1
+
+
+# name: cereal
+# type: scalar
+1
+
+
+# name: certain
+# type: scalar
+1
+
+
+# name: certainly
+# type: scalar
+1
+
+
+# name: character
+# type: scalar
+1
+
+
+# name: charity
+# type: scalar
+1
+
+
+# name: chemical
+# type: scalar
+1
+
+
+# name: chewy
+# type: scalar
+1
+
+
+# name: chicken
+# type: scalar
+1
+
+
+# name: children
+# type: scalar
+1
+
+
+# name: chowder
+# type: scalar
+1
+
+
+# name: christmas
+# type: scalar
+1
+
+
+# name: chutzpah
+# type: scalar
+1
+
+
+# name: circumspect
+# type: scalar
+1
+
+
+# name: circumstances
+# type: scalar
+1
+
+
+# name: clamor
+# type: scalar
+1
+
+
+# name: clarion
+# type: scalar
+1
+
+
+# name: clearly
+# type: scalar
+1
+
+
+# name: clergy
+# type: scalar
+1
+
+
+# name: clincher
+# type: scalar
+1
+
+
+# name: clinches
+# type: scalar
+1
+
+
+# name: closed
+# type: scalar
+1
+
+
+# name: closer
+# type: scalar
+1
+
+
+# name: clothes
+# type: scalar
+1
+
+
+# name: clumsiness
+# type: scalar
+1
+
+
+# name: clunky
+# type: scalar
+1
+
+
+# name: collar
+# type: scalar
+1
+
+
+# name: collusion
+# type: scalar
+2
+
+
+# name: color
+# type: scalar
+1
+
+
+# name: colossal
+# type: scalar
+2
+
+
+# name: combust
+# type: scalar
+2
+
+
+# name: comes
+# type: scalar
+1
+
+
+# name: comet
+# type: scalar
+1
+
+
+# name: comfort
+# type: scalar
+1
+
+
+# name: coming
+# type: scalar
+1
+
+
+# name: common
+# type: scalar
+1
+
+
+# name: community
+# type: scalar
+2
+
+
+# name: companion
+# type: scalar
+2
+
+
+# name: company
+# type: scalar
+1
+
+
+# name: comparison
+# type: scalar
+2
+
+
+# name: compass
+# type: scalar
+1
+
+
+# name: competent
+# type: scalar
+1
+
+
+# name: complacent
+# type: scalar
+2
+
+
+# name: complains
+# type: scalar
+2
+
+
+# name: completely
+# type: scalar
+2
+
+
+# name: complex
+# type: scalar
+1
+
+
+# name: concerned
+# type: scalar
+2
+
+
+# name: concerning
+# type: scalar
+2
+
+
+# name: condition
+# type: scalar
+2
+
+
+# name: conditions
+# type: scalar
+2
+
+
+# name: condolences
+# type: scalar
+2
+
+
+# name: conductor
+# type: scalar
+2
+
+
+# name: confection
+# type: scalar
+2
+
+
+# name: confront
+# type: scalar
+2
+
+
+# name: connection
+# type: scalar
+2
+
+
+# name: conscious
+# type: scalar
+1
+
+
+# name: consider
+# type: scalar
+2
+
+
+# name: considered
+# type: scalar
+2
+
+
+# name: consist
+# type: scalar
+2
+
+
+# name: consolidated
+# type: scalar
+2
+
+
+# name: construct
+# type: scalar
+2
+
+
+# name: constructs
+# type: scalar
+2
+
+
+# name: consult
+# type: scalar
+2
+
+
+# name: contact
+# type: scalar
+1
+
+
+# name: contaminant
+# type: scalar
+2
+
+
+# name: contempt
+# type: scalar
+2
+
+
+# name: continued
+# type: scalar
+2
+
+
+# name: continuity
+# type: scalar
+3
+
+
+# name: contrary
+# type: scalar
+1
+
+
+# name: control
+# type: scalar
+2
+
+
+# name: convenient
+# type: scalar
+2
+
+
+# name: conversant
+# type: scalar
+2
+
+
+# name: convoluted
+# type: scalar
+1
+
+
+# name: cooler
+# type: scalar
+1
+
+
+# name: copies
+# type: scalar
+1
+
+
+# name: copper
+# type: scalar
+1
+
+
+# name: copyright
+# type: scalar
+1
+
+
+# name: corner
+# type: scalar
+1
+
+
+# name: cornmeal
+# type: scalar
+1
+
+
+# name: corroborates
+# type: scalar
+2
+
+
+# name: corsair
+# type: scalar
+1
+
+
+# name: costly
+# type: scalar
+1
+
+
+# name: council
+# type: scalar
+1
+
+
+# name: counselor
+# type: scalar
+1
+
+
+# name: counterpart
+# type: scalar
+1
+
+
+# name: country
+# type: scalar
+1
+
+
+# name: courtesy
+# type: scalar
+1
+
+
+# name: courtyard
+# type: scalar
+1
+
+
+# name: covered
+# type: scalar
+1
+
+
+# name: covers
+# type: scalar
+1
+
+
+# name: coworker
+# type: scalar
+1
+
+
+# name: cranky
+# type: scalar
+1
+
+
+# name: crazy
+# type: scalar
+1
+
+
+# name: created
+# type: scalar
+2
+
+
+# name: creation
+# type: scalar
+2
+
+
+# name: credit
+# type: scalar
+1
+
+
+# name: crestfallen
+# type: scalar
+1
+
+
+# name: croissant
+# type: scalar
+2
+
+
+# name: cuckoo
+# type: scalar
+1
+
+
+# name: culprit
+# type: scalar
+1
+
+
+# name: cultivates
+# type: scalar
+1
+
+
+# name: cupid
+# type: scalar
+1
+
+
+# name: curmudgeon
+# type: scalar
+2
+
+
+# name: current
+# type: scalar
+1
+
+
+# name: curtain
+# type: scalar
+1
+
+
+# name: cushion
+# type: scalar
+1
+
+
+# name: cutesy
+# type: scalar
+1
+
+
+# name: cymbal
+# type: scalar
+1
+
+
+# name: daddy
+# type: scalar
+1
+
+
+# name: dado
+# type: scalar
+1
+
+
+# name: daily
+# type: scalar
+1
+
+
+# name: dancer
+# type: scalar
+1
+
+
+# name: danger
+# type: scalar
+1
+
+
+# name: darkness
+# type: scalar
+1
+
+
+# name: dartboard
+# type: scalar
+1
+
+
+# name: data
+# type: scalar
+1
+
+
+# name: daughter
+# type: scalar
+1
+
+
+# name: david
+# type: scalar
+1
+
+
+# name: dearest
+# type: scalar
+1
+
+
+# name: debit
+# type: scalar
+1
+
+
+# name: december
+# type: scalar
+2
+
+
+# name: decent
+# type: scalar
+1
+
+
+# name: decided
+# type: scalar
+2
+
+
+# name: decision
+# type: scalar
+2
+
+
+# name: defeatism
+# type: scalar
+2
+
+
+# name: defendant
+# type: scalar
+2
+
+
+# name: defibrillator
+# type: scalar
+2
+
+
+# name: definitely
+# type: scalar
+1
+
+
+# name: demolish
+# type: scalar
+2
+
+
+# name: denotes
+# type: scalar
+2
+
+
+# name: dependent
+# type: scalar
+2
+
+
+# name: deposit
+# type: scalar
+2
+
+
+# name: depot
+# type: scalar
+1
+
+
+# name: descent
+# type: scalar
+2
+
+
+# name: dessert
+# type: scalar
+2
+
+
+# name: destined
+# type: scalar
+1
+
+
+# name: destiny
+# type: scalar
+1
+
+
+# name: destroy
+# type: scalar
+2
+
+
+# name: determined
+# type: scalar
+2
+
+
+# name: detritus
+# type: scalar
+2
+
+
+# name: development
+# type: scalar
+2
+
+
+# name: diction
+# type: scalar
+1
+
+
+# name: dictionary
+# type: scalar
+1
+
+
+# name: fathers
+# type: scalar
+1
+
+
+# name: different
+# type: scalar
+1
+
+
+# name: difficult
+# type: scalar
+1
+
+
+# name: difficulty
+# type: scalar
+1
+
+
+# name: dinner
+# type: scalar
+1
+
+
+# name: diphthong
+# type: scalar
+1
+
+
+# name: direction
+# type: scalar
+2
+
+
+# name: dirty
+# type: scalar
+1
+
+
+# name: disciplinary
+# type: scalar
+1
+
+
+# name: discovered
+# type: scalar
+2
+
+
+# name: discovery
+# type: scalar
+2
+
+
+# name: discredit
+# type: scalar
+2
+
+
+# name: discreet
+# type: scalar
+2
+
+
+# name: discrepancy
+# type: scalar
+2
+
+
+# name: discussion
+# type: scalar
+2
+
+
+# name: disenfranchised
+# type: scalar
+3
+
+
+# name: disinterest
+# type: scalar
+2
+
+
+# name: disjointed
+# type: scalar
+2
+
+
+# name: dislocation
+# type: scalar
+2
+
+
+# name: disposing
+# type: scalar
+2
+
+
+# name: disputed
+# type: scalar
+2
+
+
+# name: disrespectful
+# type: scalar
+3
+
+
+# name: dissipates
+# type: scalar
+1
+
+
+# name: distant
+# type: scalar
+1
+
+
+# name: ditty
+# type: scalar
+1
+
+
+# name: dizzy
+# type: scalar
+1
+
+
+# name: doctor
+# type: scalar
+1
+
+
+# name: doctored
+# type: scalar
+1
+
+
+# name: document
+# type: scalar
+1
+
+
+# name: doldrums
+# type: scalar
+1
+
+
+# name: donations
+# type: scalar
+2
+
+
+# name: doozy
+# type: scalar
+1
+
+
+# name: downplay
+# type: scalar
+1
+
+
+# name: drawer
+# type: scalar
+1
+
+
+# name: dreamed
+# type: scalar
+1
+
+
+# name: dreary
+# type: scalar
+1
+
+
+# name: drivel
+# type: scalar
+1
+
+
+# name: driven
+# type: scalar
+1
+
+
+# name: dropped
+# type: scalar
+1
+
+
+# name: druthers
+# type: scalar
+1
+
+
+# name: duckling
+# type: scalar
+1
+
+
+# name: duffer
+# type: scalar
+1
+
+
+# name: during
+# type: scalar
+1
+
+
+# name: duty
+# type: scalar
+1
+
+
+# name: dwelled
+# type: scalar
+1
+
+
+# name: early
+# type: scalar
+1
+
+
+# name: earmark
+# type: scalar
+1
+
+
+# name: earmuffs
+# type: scalar
+1
+
+
+# name: earnest
+# type: scalar
+1
+
+
+# name: earphones
+# type: scalar
+1
+
+
+# name: earshot
+# type: scalar
+1
+
+
+# name: easily
+# type: scalar
+1
+
+
+# name: eastern
+# type: scalar
+1
+
+
+# name: easy
+# type: scalar
+1
+
+
+# name: eavesdrop
+# type: scalar
+1
+
+
+# name: ebbed
+# type: scalar
+1
+
+
+# name: eccentric
+# type: scalar
+2
+
+
+# name: ecstatic
+# type: scalar
+2
+
+
+# name: ecumenical
+# type: scalar
+3
+
+
+# name: effect
+# type: scalar
+2
+
+
+# name: effectiveness
+# type: scalar
+2
+
+
+# name: effort
+# type: scalar
+1
+
+
+# name: efforts
+# type: scalar
+1
+
+
+# name: eggplant
+# type: scalar
+1
+
+
+# name: egregious
+# type: scalar
+2
+
+
+# name: either
+# type: scalar
+1
+
+
+# name: elastic
+# type: scalar
+2
+
+
+# name: elbow
+# type: scalar
+1
+
+
+# name: electric
+# type: scalar
+2
+
+
+# name: elitism
+# type: scalar
+1
+
+
+# name: emaciated
+# type: scalar
+2
+
+
+# name: embitter
+# type: scalar
+2
+
+
+# name: embittered
+# type: scalar
+2
+
+
+# name: emboss
+# type: scalar
+2
+
+
+# name: eminently
+# type: scalar
+1
+
+
+# name: emotion
+# type: scalar
+2
+
+
+# name: empower
+# type: scalar
+2
+
+
+# name: encounter
+# type: scalar
+2
+
+
+# name: enemy
+# type: scalar
+1
+
+
+# name: engaged
+# type: scalar
+2
+
+
+# name: abacus
+# type: scalar
+1
+
+
+# name: enjoy
+# type: scalar
+2
+
+
+# name: enmity
+# type: scalar
+1
+
+
+# name: enroll
+# type: scalar
+2
+
+
+# name: ensign
+# type: scalar
+1
+
+
+# name: entail
+# type: scalar
+2
+
+
+# name: enter
+# type: scalar
+1
+
+
+# name: entered
+# type: scalar
+1
+
+
+# name: entirely
+# type: scalar
+2
+
+
+# name: entropy
+# type: scalar
+1
+
+
+# name: envelop
+# type: scalar
+2
+
+
+# name: epiphany
+# type: scalar
+2
+
+
+# name: epoch
+# type: scalar
+1
+
+
+# name: equal
+# type: scalar
+1
+
+
+# name: error
+# type: scalar
+1
+
+
+# name: ersatz
+# type: scalar
+1
+
+
+# name: escarpment
+# type: scalar
+2
+
+
+# name: eschew
+# type: scalar
+2
+
+
+# name: especially
+# type: scalar
+2
+
+
+# name: ether
+# type: scalar
+1
+
+
+# name: even
+# type: scalar
+1
+
+
+# name: events
+# type: scalar
+2
+
+
+# name: ever
+# type: scalar
+1
+
+
+# name: every
+# type: scalar
+1
+
+
+# name: everything
+# type: scalar
+1
+
+
+# name: evil
+# type: scalar
+1
+
+
+# name: exact
+# type: scalar
+2
+
+
+# name: exactly
+# type: scalar
+2
+
+
+# name: exasperated
+# type: scalar
+2
+
+
+# name: excellent
+# type: scalar
+1
+
+
+# name: except
+# type: scalar
+2
+
+
+# name: exorbitant
+# type: scalar
+2
+
+
+# name: expansion
+# type: scalar
+2
+
+
+# name: expect
+# type: scalar
+2
+
+
+# name: expected
+# type: scalar
+2
+
+
+# name: expectorant
+# type: scalar
+2
+
+
+# name: expert
+# type: scalar
+1
+
+
+# name: explain
+# type: scalar
+2
+
+
+# name: explicit
+# type: scalar
+2
+
+
+# name: exploring
+# type: scalar
+2
+
+
+# name: explosion
+# type: scalar
+2
+
+
+# name: expressed
+# type: scalar
+2
+
+
+# name: extent
+# type: scalar
+2
+
+
+# name: extraneous
+# type: scalar
+2
+
+
+# name: extrovert
+# type: scalar
+1
+
+
+# name: exuberant
+# type: scalar
+2
+
+
+# name: eyelet
+# type: scalar
+1
+
+
+# name: eyelets
+# type: scalar
+1
+
+
+# name: faces
+# type: scalar
+1
+
+
+# name: failed
+# type: scalar
+1
+
+
+# name: faintest
+# type: scalar
+1
+
+
+# name: fallen
+# type: scalar
+1
+
+
+# name: falsetto
+# type: scalar
+2
+
+
+# name: family
+# type: scalar
+1
+
+
+# name: famished
+# type: scalar
+1
+
+
+# name: fanaticism
+# type: scalar
+2
+
+
+# name: fanciful
+# type: scalar
+1
+
+
+# name: fancy
+# type: scalar
+1
+
+
+# name: father
+# type: scalar
+1
+
+
+# name: fathom
+# type: scalar
+1
+
+
+# name: faulty
+# type: scalar
+1
+
+
+# name: favor
+# type: scalar
+1
+
+
+# name: favors
+# type: scalar
+1
+
+
+# name: february
+# type: scalar
+1
+
+
+# name: fecundity
+# type: scalar
+2
+
+
+# name: feeling
+# type: scalar
+1
+
+
+# name: feelings
+# type: scalar
+1
+
+
+# name: fellow
+# type: scalar
+1
+
+
+# name: ferry
+# type: scalar
+1
+
+
+# name: festival
+# type: scalar
+1
+
+
+# name: fetching
+# type: scalar
+1
+
+
+# name: fetter
+# type: scalar
+1
+
+
+# name: fiction
+# type: scalar
+1
+
+
+# name: fidget
+# type: scalar
+1
+
+
+# name: filial
+# type: scalar
+1
+
+
+# name: filibuster
+# type: scalar
+1
+
+
+# name: filled
+# type: scalar
+1
+
+
+# name: filly
+# type: scalar
+1
+
+
+# name: filter
+# type: scalar
+1
+
+
+# name: filters
+# type: scalar
+1
+
+
+# name: finally
+# type: scalar
+1
+
+
+# name: fined
+# type: scalar
+1
+
+
+# name: finger
+# type: scalar
+1
+
+
+# name: fingers
+# type: scalar
+1
+
+
+# name: finish
+# type: scalar
+1
+
+
+# name: finished
+# type: scalar
+1
+
+
+# name: firmly
+# type: scalar
+1
+
+
+# name: fitful
+# type: scalar
+1
+
+
+# name: fitfully
+# type: scalar
+1
+
+
+# name: fitted
+# type: scalar
+1
+
+
+# name: fitting
+# type: scalar
+1
+
+
+# name: fixed
+# type: scalar
+1
+
+
+# name: flabbergast
+# type: scalar
+1
+
+
+# name: flagship
+# type: scalar
+1
+
+
+# name: flaky
+# type: scalar
+1
+
+
+# name: flamboyant
+# type: scalar
+2
+
+
+# name: flared
+# type: scalar
+1
+
+
+# name: flashing
+# type: scalar
+1
+
+
+# name: flashy
+# type: scalar
+1
+
+
+# name: flattering
+# type: scalar
+1
+
+
+# name: fledgling
+# type: scalar
+1
+
+
+# name: flimsy
+# type: scalar
+1
+
+
+# name: floppy
+# type: scalar
+1
+
+
+# name: flounder
+# type: scalar
+1
+
+
+# name: flourish
+# type: scalar
+1
+
+
+# name: flower
+# type: scalar
+1
+
+
+# name: flowers
+# type: scalar
+1
+
+
+# name: flurry
+# type: scalar
+1
+
+
+# name: fluster
+# type: scalar
+1
+
+
+# name: fodder
+# type: scalar
+1
+
+
+# name: follicles
+# type: scalar
+1
+
+
+# name: follow
+# type: scalar
+1
+
+
+# name: followed
+# type: scalar
+1
+
+
+# name: following
+# type: scalar
+1
+
+
+# name: foolhardy
+# type: scalar
+1
+
+
+# name: foolish
+# type: scalar
+1
+
+
+# name: forced
+# type: scalar
+1
+
+
+# name: forefront
+# type: scalar
+1
+
+
+# name: foreign
+# type: scalar
+1
+
+
+# name: foresaw
+# type: scalar
+2
+
+
+# name: foreword
+# type: scalar
+1
+
+
+# name: forgiven
+# type: scalar
+2
+
+
+# name: forgot
+# type: scalar
+2
+
+
+# name: forgotten
+# type: scalar
+2
+
+
+# name: formed
+# type: scalar
+1
+
+
+# name: former
+# type: scalar
+1
+
+
+# name: forsaken
+# type: scalar
+2
+
+
+# name: forsook
+# type: scalar
+2
+
+
+# name: forward
+# type: scalar
+1
+
+
+# name: fossil
+# type: scalar
+1
+
+
+# name: frantic
+# type: scalar
+1
+
+
+# name: frenetic
+# type: scalar
+2
+
+
+# name: frenzied
+# type: scalar
+1
+
+
+# name: frenzy
+# type: scalar
+1
+
+
+# name: frequent
+# type: scalar
+1
+
+
+# name: friday
+# type: scalar
+1
+
+
+# name: frightfully
+# type: scalar
+1
+
+
+# name: frisco
+# type: scalar
+1
+
+
+# name: frisky
+# type: scalar
+1
+
+
+# name: frozen
+# type: scalar
+1
+
+
+# name: fucking
+# type: scalar
+1
+
+
+# name: fully
+# type: scalar
+1
+
+
+# name: funded
+# type: scalar
+1
+
+
+# name: funny
+# type: scalar
+1
+
+
+# name: furiously
+# type: scalar
+1
+
+
+# name: further
+# type: scalar
+1
+
+
+# name: fury
+# type: scalar
+1
+
+
+# name: fuzzy
+# type: scalar
+1
+
+
+# name: gadget
+# type: scalar
+1
+
+
+# name: gander
+# type: scalar
+1
+
+
+# name: gangbanger
+# type: scalar
+1
+
+
+# name: gangbusters
+# type: scalar
+1
+
+
+# name: generally
+# type: scalar
+1
+
+
+# name: genital
+# type: scalar
+1
+
+
+# name: gentleman
+# type: scalar
+1
+
+
+# name: gentlemen
+# type: scalar
+1
+
+
+# name: gerrymander
+# type: scalar
+1
+
+
+# name: getting
+# type: scalar
+1
+
+
+# name: gewgaw
+# type: scalar
+1
+
+
+# name: girlfriend
+# type: scalar
+1
+
+
+# name: given
+# type: scalar
+1
+
+
+# name: gives
+# type: scalar
+1
+
+
+# name: giving
+# type: scalar
+1
+
+
+# name: glimmer
+# type: scalar
+1
+
+
+# name: glitter
+# type: scalar
+1
+
+
+# name: gloaming
+# type: scalar
+1
+
+
+# name: glory
+# type: scalar
+1
+
+
+# name: gonna
+# type: scalar
+1
+
+
+# name: gotcha
+# type: scalar
+1
+
+
+# name: gotta
+# type: scalar
+1
+
+
+# name: gotten
+# type: scalar
+1
+
+
+# name: government
+# type: scalar
+1
+
+
+# name: grandstand
+# type: scalar
+1
+
+
+# name: grater
+# type: scalar
+1
+
+
+# name: greatest
+# type: scalar
+1
+
+
+# name: greatly
+# type: scalar
+1
+
+
+# name: gregarious
+# type: scalar
+2
+
+
+# name: gremlin
+# type: scalar
+1
+
+
+# name: groceries
+# type: scalar
+1
+
+
+# name: groggy
+# type: scalar
+1
+
+
+# name: guffaw
+# type: scalar
+2
+
+
+# name: gumption
+# type: scalar
+1
+
+
+# name: halcyon
+# type: scalar
+1
+
+
+# name: halfhearted
+# type: scalar
+1
+
+
+# name: haltingly
+# type: scalar
+1
+
+
+# name: handball
+# type: scalar
+1
+
+
+# name: handiwork
+# type: scalar
+1
+
+
+# name: hanging
+# type: scalar
+1
+
+
+# name: hanukkah
+# type: scalar
+1
+
+
+# name: hapless
+# type: scalar
+1
+
+
+# name: happen
+# type: scalar
+1
+
+
+# name: happens
+# type: scalar
+1
+
+
+# name: happiness
+# type: scalar
+1
+
+
+# name: happy
+# type: scalar
+1
+
+
+# name: harbor
+# type: scalar
+1
+
+
+# name: hardly
+# type: scalar
+1
+
+
+# name: harem
+# type: scalar
+1
+
+
+# name: harried
+# type: scalar
+1
+
+
+# name: hasta
+# type: scalar
+1
+
+
+# name: having
+# type: scalar
+1
+
+
+# name: haystack
+# type: scalar
+1
+
+
+# name: headstrong
+# type: scalar
+1
+
+
+# name: healthy
+# type: scalar
+1
+
+
+# name: hearing
+# type: scalar
+1
+
+
+# name: hearsay
+# type: scalar
+1
+
+
+# name: heartfelt
+# type: scalar
+1
+
+
+# name: heartthrob
+# type: scalar
+1
+
+
+# name: heartwarming
+# type: scalar
+1
+
+
+# name: heaven
+# type: scalar
+1
+
+
+# name: heavy
+# type: scalar
+1
+
+
+# name: hefty
+# type: scalar
+1
+
+
+# name: heinous
+# type: scalar
+1
+
+
+# name: helped
+# type: scalar
+1
+
+
+# name: henceforth
+# type: scalar
+1
+
+
+# name: henpecked
+# type: scalar
+1
+
+
+# name: henry
+# type: scalar
+1
+
+
+# name: heron
+# type: scalar
+1
+
+
+# name: heyday
+# type: scalar
+1
+
+
+# name: hidden
+# type: scalar
+1
+
+
+# name: higher
+# type: scalar
+1
+
+
+# name: highest
+# type: scalar
+1
+
+
+# name: hillbilly
+# type: scalar
+1
+
+
+# name: himself
+# type: scalar
+2
+
+
+# name: hinder
+# type: scalar
+1
+
+
+# name: history
+# type: scalar
+1
+
+
+# name: hogwash
+# type: scalar
+1
+
+
+# name: holding
+# type: scalar
+1
+
+
+# name: holdover
+# type: scalar
+1
+
+
+# name: holler
+# type: scalar
+1
+
+
+# name: hollow
+# type: scalar
+1
+
+
+# name: holy
+# type: scalar
+1
+
+
+# name: homogeneous
+# type: scalar
+3
+
+
+# name: homologous
+# type: scalar
+2
+
+
+# name: honest
+# type: scalar
+1
+
+
+# name: honey
+# type: scalar
+1
+
+
+# name: honor
+# type: scalar
+1
+
+
+# name: hoodwink
+# type: scalar
+1
+
+
+# name: hooked
+# type: scalar
+1
+
+
+# name: hooves
+# type: scalar
+1
+
+
+# name: hoping
+# type: scalar
+1
+
+
+# name: horrid
+# type: scalar
+1
+
+
+# name: horrify
+# type: scalar
+1
+
+
+# name: horsepower
+# type: scalar
+1
+
+
+# name: horses
+# type: scalar
+1
+
+
+# name: hotel
+# type: scalar
+2
+
+
+# name: houses
+# type: scalar
+1
+
+
+# name: hubris
+# type: scalar
+1
+
+
+# name: huckster
+# type: scalar
+1
+
+
+# name: human
+# type: scalar
+1
+
+
+# name: hummingbird
+# type: scalar
+1
+
+
+# name: humor
+# type: scalar
+1
+
+
+# name: hundreds
+# type: scalar
+1
+
+
+# name: hurry
+# type: scalar
+1
+
+
+# name: husband
+# type: scalar
+1
+
+
+# name: hybrid
+# type: scalar
+1
+
+
+# name: hypothesis
+# type: scalar
+2
+
+
+# name: idea
+# type: scalar
+2
+
+
+# name: ideas
+# type: scalar
+2
+
+
+# name: illiteracy
+# type: scalar
+2
+
+
+# name: imagery
+# type: scalar
+1
+
+
+# name: imaginary
+# type: scalar
+2
+
+
+# name: imbroglio
+# type: scalar
+2
+
+
+# name: immediately
+# type: scalar
+2
+
+
+# name: important
+# type: scalar
+2
+
+
+# name: imprudent
+# type: scalar
+2
+
+
+# name: inadvertent
+# type: scalar
+3
+
+
+# name: inches
+# type: scalar
+1
+
+
+# name: including
+# type: scalar
+2
+
+
+# name: indemnity
+# type: scalar
+2
+
+
+# name: indict
+# type: scalar
+2
+
+
+# name: indifferent
+# type: scalar
+2
+
+
+# name: industry
+# type: scalar
+1
+
+
+# name: inebriated
+# type: scalar
+2
+
+
+# name: infighting
+# type: scalar
+1
+
+
+# name: inflected
+# type: scalar
+2
+
+
+# name: inflection
+# type: scalar
+2
+
+
+# name: information
+# type: scalar
+3
+
+
+# name: inimical
+# type: scalar
+2
+
+
+# name: inland
+# type: scalar
+1
+
+
+# name: innards
+# type: scalar
+1
+
+
+# name: insect
+# type: scalar
+1
+
+
+# name: insomnia
+# type: scalar
+2
+
+
+# name: insomniac
+# type: scalar
+2
+
+
+# name: instant
+# type: scalar
+1
+
+
+# name: instead
+# type: scalar
+2
+
+
+# name: instrument
+# type: scalar
+1
+
+
+# name: integrity
+# type: scalar
+2
+
+
+# name: interest
+# type: scalar
+1
+
+
+# name: interested
+# type: scalar
+1
+
+
+# name: interesting
+# type: scalar
+1
+
+
+# name: interim
+# type: scalar
+1
+
+
+# name: internship
+# type: scalar
+1
+
+
+# name: interwoven
+# type: scalar
+3
+
+
+# name: into
+# type: scalar
+1
+
+
+# name: introvert
+# type: scalar
+1
+
+
+# name: invalid
+# type: scalar
+1
+
+
+# name: invent
+# type: scalar
+2
+
+
+# name: invention
+# type: scalar
+2
+
+
+# name: investors
+# type: scalar
+2
+
+
+# name: involved
+# type: scalar
+2
+
+
+# name: iron
+# type: scalar
+1
+
+
+# name: ironclad
+# type: scalar
+1
+
+
+# name: iroquois
+# type: scalar
+1
+
+
+# name: island
+# type: scalar
+1
+
+
+# name: issued
+# type: scalar
+1
+
+
+# name: isthmus
+# type: scalar
+1
+
+
+# name: jaguar
+# type: scalar
+1
+
+
+# name: january
+# type: scalar
+1
+
+
+# name: jelly
+# type: scalar
+1
+
+
+# name: jewel
+# type: scalar
+1
+
+
+# name: judgment
+# type: scalar
+1
+
+
+# name: juggernaut
+# type: scalar
+1
+
+
+# name: juicy
+# type: scalar
+1
+
+
+# name: juror
+# type: scalar
+1
+
+
+# name: jury
+# type: scalar
+1
+
+
+# name: kabuki
+# type: scalar
+2
+
+
+# name: kappa
+# type: scalar
+1
+
+
+# name: keeper
+# type: scalar
+1
+
+
+# name: keeping
+# type: scalar
+1
+
+
+# name: kicker
+# type: scalar
+1
+
+
+# name: kidding
+# type: scalar
+1
+
+
+# name: killed
+# type: scalar
+1
+
+
+# name: kinda
+# type: scalar
+1
+
+
+# name: kitten
+# type: scalar
+1
+
+
+# name: knickknack
+# type: scalar
+1
+
+
+# name: knitted
+# type: scalar
+1
+
+
+# name: knotty
+# type: scalar
+1
+
+
+# name: knowing
+# type: scalar
+1
+
+
+# name: kowtow
+# type: scalar
+1
+
+
+# name: labor
+# type: scalar
+1
+
+
+# name: lackluster
+# type: scalar
+1
+
+
+# name: ladies
+# type: scalar
+1
+
+
+# name: lady
+# type: scalar
+1
+
+
+# name: lambda
+# type: scalar
+1
+
+
+# name: landed
+# type: scalar
+1
+
+
+# name: largess
+# type: scalar
+1
+
+
+# name: larva
+# type: scalar
+1
+
+
+# name: later
+# type: scalar
+1
+
+
+# name: latter
+# type: scalar
+1
+
+
+# name: laughed
+# type: scalar
+1
+
+
+# name: laughter
+# type: scalar
+1
+
+
+# name: lawnmower
+# type: scalar
+1
+
+
+# name: lawyer
+# type: scalar
+1
+
+
+# name: learned
+# type: scalar
+1
+
+
+# name: learning
+# type: scalar
+1
+
+
+# name: leather
+# type: scalar
+1
+
+
+# name: leathery
+# type: scalar
+1
+
+
+# name: leaven
+# type: scalar
+1
+
+
+# name: leaves
+# type: scalar
+1
+
+
+# name: leaving
+# type: scalar
+1
+
+
+# name: leeway
+# type: scalar
+1
+
+
+# name: legacy
+# type: scalar
+1
+
+
+# name: legal
+# type: scalar
+1
+
+
+# name: letter
+# type: scalar
+1
+
+
+# name: letters
+# type: scalar
+1
+
+
+# name: level
+# type: scalar
+1
+
+
+# name: lexicon
+# type: scalar
+1
+
+
+# name: liberty
+# type: scalar
+1
+
+
+# name: library
+# type: scalar
+1
+
+
+# name: lifeboat
+# type: scalar
+1
+
+
+# name: lighted
+# type: scalar
+1
+
+
+# name: likely
+# type: scalar
+1
+
+
+# name: limelight
+# type: scalar
+1
+
+
+# name: limit
+# type: scalar
+1
+
+
+# name: linen
+# type: scalar
+1
+
+
+# name: lines
+# type: scalar
+1
+
+
+# name: lingo
+# type: scalar
+1
+
+
+# name: linguistic
+# type: scalar
+2
+
+
+# name: liquid
+# type: scalar
+1
+
+
+# name: listen
+# type: scalar
+1
+
+
+# name: listless
+# type: scalar
+1
+
+
+# name: literacy
+# type: scalar
+1
+
+
+# name: lived
+# type: scalar
+1
+
+
+# name: lives
+# type: scalar
+1
+
+
+# name: living
+# type: scalar
+1
+
+
+# name: lofty
+# type: scalar
+1
+
+
+# name: logogram
+# type: scalar
+1
+
+
+# name: loiter
+# type: scalar
+1
+
+
+# name: longer
+# type: scalar
+1
+
+
+# name: looked
+# type: scalar
+1
+
+
+# name: looking
+# type: scalar
+1
+
+
+# name: lopsided
+# type: scalar
+1
+
+
+# name: lotion
+# type: scalar
+1
+
+
+# name: loved
+# type: scalar
+1
+
+
+# name: lower
+# type: scalar
+1
+
+
+# name: lucky
+# type: scalar
+1
+
+
+# name: lucy
+# type: scalar
+1
+
+
+# name: lukewarm
+# type: scalar
+2
+
+
+# name: lumbar
+# type: scalar
+1
+
+
+# name: lumber
+# type: scalar
+1
+
+
+# name: lurid
+# type: scalar
+1
+
+
+# name: luster
+# type: scalar
+1
+
+
+# name: lutheran
+# type: scalar
+1
+
+
+# name: madcap
+# type: scalar
+1
+
+
+# name: mainstream
+# type: scalar
+1
+
+
+# name: makes
+# type: scalar
+1
+
+
+# name: makeshift
+# type: scalar
+1
+
+
+# name: makeup
+# type: scalar
+1
+
+
+# name: making
+# type: scalar
+1
+
+
+# name: mallet
+# type: scalar
+1
+
+
+# name: ones
+# type: scalar
+1
+
+
+# name: manager
+# type: scalar
+1
+
+
+# name: manifest
+# type: scalar
+1
+
+
+# name: manner
+# type: scalar
+1
+
+
+# name: many
+# type: scalar
+1
+
+
+# name: marked
+# type: scalar
+1
+
+
+# name: market
+# type: scalar
+1
+
+
+# name: married
+# type: scalar
+1
+
+
+# name: marry
+# type: scalar
+1
+
+
+# name: mary
+# type: scalar
+1
+
+
+# name: material
+# type: scalar
+2
+
+
+# name: matter
+# type: scalar
+1
+
+
+# name: matters
+# type: scalar
+1
+
+
+# name: maverick
+# type: scalar
+1
+
+
+# name: meaning
+# type: scalar
+1
+
+
+# name: measles
+# type: scalar
+1
+
+
+# name: medical
+# type: scalar
+1
+
+
+# name: medium
+# type: scalar
+1
+
+
+# name: meeting
+# type: scalar
+1
+
+
+# name: members
+# type: scalar
+1
+
+
+# name: memory
+# type: scalar
+1
+
+
+# name: mention
+# type: scalar
+1
+
+
+# name: mentioned
+# type: scalar
+1
+
+
+# name: merciful
+# type: scalar
+1
+
+
+# name: mercy
+# type: scalar
+1
+
+
+# name: merely
+# type: scalar
+1
+
+
+# name: metal
+# type: scalar
+1
+
+
+# name: metaphor
+# type: scalar
+1
+
+
+# name: method
+# type: scalar
+1
+
+
+# name: michael
+# type: scalar
+1
+
+
+# name: micro
+# type: scalar
+1
+
+
+# name: microcosm
+# type: scalar
+1
+
+
+# name: miffed
+# type: scalar
+1
+
+
+# name: mighty
+# type: scalar
+1
+
+
+# name: miles
+# type: scalar
+1
+
+
+# name: military
+# type: scalar
+1
+
+
+# name: millions
+# type: scalar
+1
+
+
+# name: mindboggling
+# type: scalar
+1
+
+
+# name: mindset
+# type: scalar
+1
+
+
+# name: minimal
+# type: scalar
+1
+
+
+# name: minimalist
+# type: scalar
+1
+
+
+# name: minnesota
+# type: scalar
+3
+
+
+# name: minstrel
+# type: scalar
+1
+
+
+# name: minutes
+# type: scalar
+1
+
+
+# name: mirror
+# type: scalar
+1
+
+
+# name: mischief
+# type: scalar
+1
+
+
+# name: misgivings
+# type: scalar
+2
+
+
+# name: mislaid
+# type: scalar
+2
+
+
+# name: missed
+# type: scalar
+1
+
+
+# name: missing
+# type: scalar
+1
+
+
+# name: misspelled
+# type: scalar
+2
+
+
+# name: mistaken
+# type: scalar
+2
+
+
+# name: mistook
+# type: scalar
+2
+
+
+# name: mixed
+# type: scalar
+1
+
+
+# name: mnemonic
+# type: scalar
+2
+
+
+# name: modern
+# type: scalar
+1
+
+
+# name: moisten
+# type: scalar
+1
+
+
+# name: mollify
+# type: scalar
+1
+
+
+# name: moment
+# type: scalar
+1
+
+
+# name: mommy
+# type: scalar
+1
+
+
+# name: monday
+# type: scalar
+1
+
+
+# name: money
+# type: scalar
+1
+
+
+# name: monkey
+# type: scalar
+1
+
+
+# name: monotheism
+# type: scalar
+1
+
+
+# name: moral
+# type: scalar
+1
+
+
+# name: morning
+# type: scalar
+1
+
+
+# name: morsel
+# type: scalar
+1
+
+
+# name: morton
+# type: scalar
+1
+
+
+# name: mother
+# type: scalar
+1
+
+
+# name: motion
+# type: scalar
+1
+
+
+# name: mountains
+# type: scalar
+1
+
+
+# name: mousepad
+# type: scalar
+1
+
+
+# name: moved
+# type: scalar
+1
+
+
+# name: movement
+# type: scalar
+1
+
+
+# name: movements
+# type: scalar
+1
+
+
+# name: moving
+# type: scalar
+1
+
+
+# name: mower
+# type: scalar
+1
+
+
+# name: muddy
+# type: scalar
+1
+
+
+# name: mural
+# type: scalar
+1
+
+
+# name: murder
+# type: scalar
+1
+
+
+# name: murmur
+# type: scalar
+1
+
+
+# name: mushroom
+# type: scalar
+1
+
+
+# name: music
+# type: scalar
+1
+
+
+# name: mutual
+# type: scalar
+1
+
+
+# name: nadir
+# type: scalar
+1
+
+
+# name: named
+# type: scalar
+1
+
+
+# name: names
+# type: scalar
+1
+
+
+# name: narrow
+# type: scalar
+1
+
+
+# name: narrowly
+# type: scalar
+1
+
+
+# name: nation
+# type: scalar
+1
+
+
+# name: nations
+# type: scalar
+1
+
+
+# name: natural
+# type: scalar
+1
+
+
+# name: natures
+# type: scalar
+1
+
+
+# name: naughty
+# type: scalar
+1
+
+
+# name: nearby
+# type: scalar
+1
+
+
+# name: nearly
+# type: scalar
+1
+
+
+# name: necessary
+# type: scalar
+1
+
+
+# name: needed
+# type: scalar
+1
+
+
+# name: needlepoint
+# type: scalar
+1
+
+
+# name: negatively
+# type: scalar
+1
+
+
+# name: neither
+# type: scalar
+1
+
+
+# name: neoplasm
+# type: scalar
+1
+
+
+# name: nephew
+# type: scalar
+1
+
+
+# name: never
+# type: scalar
+1
+
+
+# name: nimbus
+# type: scalar
+1
+
+
+# name: nincompoop
+# type: scalar
+1
+
+
+# name: nobody
+# type: scalar
+1
+
+
+# name: noisily
+# type: scalar
+1
+
+
+# name: noncommittal
+# type: scalar
+1
+
+
+# name: nondescript
+# type: scalar
+1
+
+
+# name: noodles
+# type: scalar
+1
+
+
+# name: normal
+# type: scalar
+1
+
+
+# name: northern
+# type: scalar
+1
+
+
+# name: northernmost
+# type: scalar
+1
+
+
+# name: nosy
+# type: scalar
+1
+
+
+# name: nothing
+# type: scalar
+1
+
+
+# name: novel
+# type: scalar
+1
+
+
+# name: november
+# type: scalar
+2
+
+
+# name: nuclear
+# type: scalar
+1
+
+
+# name: nucleus
+# type: scalar
+1
+
+
+# name: number
+# type: scalar
+1
+
+
+# name: numismatist
+# type: scalar
+2
+
+
+# name: object
+# type: scalar
+1
+
+
+# name: observatory
+# type: scalar
+2
+
+
+# name: observed
+# type: scalar
+2
+
+
+# name: obstinacy
+# type: scalar
+1
+
+
+# name: obviously
+# type: scalar
+1
+
+
+# name: occasion
+# type: scalar
+2
+
+
+# name: occupied
+# type: scalar
+1
+
+
+# name: october
+# type: scalar
+2
+
+
+# name: odious
+# type: scalar
+1
+
+
+# name: offer
+# type: scalar
+1
+
+
+# name: offered
+# type: scalar
+1
+
+
+# name: offhand
+# type: scalar
+1
+
+
+# name: officer
+# type: scalar
+1
+
+
+# name: officers
+# type: scalar
+1
+
+
+# name: official
+# type: scalar
+2
+
+
+# name: often
+# type: scalar
+1
+
+
+# name: oldest
+# type: scalar
+1
+
+
+# name: olympiad
+# type: scalar
+2
+
+
+# name: omen
+# type: scalar
+1
+
+
+# name: omnipotent
+# type: scalar
+2
+
+
+# name: omniscient
+# type: scalar
+2
+
+
+# name: oncologist
+# type: scalar
+2
+
+
+# name: oncology
+# type: scalar
+2
+
+
+# name: oncoming
+# type: scalar
+1
+
+
+# name: onion
+# type: scalar
+1
+
+
+# name: only
+# type: scalar
+1
+
+
+# name: onslaught
+# type: scalar
+1
+
+
+# name: oodles
+# type: scalar
+1
+
+
+# name: opened
+# type: scalar
+1
+
+
+# name: opening
+# type: scalar
+1
+
+
+# name: opinion
+# type: scalar
+2
+
+
+# name: orchestra
+# type: scalar
+1
+
+
+# name: order
+# type: scalar
+1
+
+
+# name: ordered
+# type: scalar
+1
+
+
+# name: orders
+# type: scalar
+1
+
+
+# name: ordinary
+# type: scalar
+1
+
+
+# name: organ
+# type: scalar
+1
+
+
+# name: original
+# type: scalar
+2
+
+
+# name: ornament
+# type: scalar
+1
+
+
+# name: ostrich
+# type: scalar
+1
+
+
+# name: other
+# type: scalar
+1
+
+
+# name: others
+# type: scalar
+1
+
+
+# name: outcry
+# type: scalar
+1
+
+
+# name: outset
+# type: scalar
+1
+
+
+# name: outskirts
+# type: scalar
+1
+
+
+# name: oven
+# type: scalar
+1
+
+
+# name: over
+# type: scalar
+1
+
+
+# name: overalls
+# type: scalar
+1
+
+
+# name: overeager
+# type: scalar
+1
+
+
+# name: overhang
+# type: scalar
+1
+
+
+# name: overhanging
+# type: scalar
+1
+
+
+# name: overhangs
+# type: scalar
+1
+
+
+# name: overhaul
+# type: scalar
+1
+
+
+# name: overhead
+# type: scalar
+1
+
+
+# name: overreact
+# type: scalar
+1
+
+
+# name: overreaction
+# type: scalar
+1
+
+
+# name: overshoot
+# type: scalar
+1
+
+
+# name: overstep
+# type: scalar
+1
+
+
+# name: owner
+# type: scalar
+1
+
+
+# name: paddy
+# type: scalar
+1
+
+
+# name: pander
+# type: scalar
+1
+
+
+# name: panoply
+# type: scalar
+1
+
+
+# name: paper
+# type: scalar
+1
+
+
+# name: papers
+# type: scalar
+1
+
+
+# name: paradigm
+# type: scalar
+1
+
+
+# name: paragraph
+# type: scalar
+1
+
+
+# name: parcel
+# type: scalar
+1
+
+
+# name: parent
+# type: scalar
+1
+
+
+# name: parents
+# type: scalar
+1
+
+
+# name: pariah
+# type: scalar
+2
+
+
+# name: paris
+# type: scalar
+1
+
+
+# name: parrot
+# type: scalar
+1
+
+
+# name: particularly
+# type: scalar
+2
+
+
+# name: party
+# type: scalar
+1
+
+
+# name: passed
+# type: scalar
+1
+
+
+# name: passing
+# type: scalar
+1
+
+
+# name: passion
+# type: scalar
+1
+
+
+# name: patches
+# type: scalar
+1
+
+
+# name: patchy
+# type: scalar
+1
+
+
+# name: pauses
+# type: scalar
+1
+
+
+# name: paved
+# type: scalar
+1
+
+
+# name: pavilion
+# type: scalar
+2
+
+
+# name: payment
+# type: scalar
+1
+
+
+# name: peanuts
+# type: scalar
+1
+
+
+# name: pecuniary
+# type: scalar
+2
+
+
+# name: pedantic
+# type: scalar
+2
+
+
+# name: pedestrian
+# type: scalar
+2
+
+
+# name: peltier
+# type: scalar
+1
+
+
+# name: pencil
+# type: scalar
+1
+
+
+# name: penitent
+# type: scalar
+1
+
+
+# name: peony
+# type: scalar
+1
+
+
+# name: perfect
+# type: scalar
+2
+
+
+# name: perfectly
+# type: scalar
+1
+
+
+# name: period
+# type: scalar
+1
+
+
+# name: permission
+# type: scalar
+2
+
+
+# name: permit
+# type: scalar
+2
+
+
+# name: person
+# type: scalar
+1
+
+
+# name: personal
+# type: scalar
+1
+
+
+# name: persons
+# type: scalar
+1
+
+
+# name: perturb
+# type: scalar
+2
+
+
+# name: phalanx
+# type: scalar
+1
+
+
+# name: phallic
+# type: scalar
+1
+
+
+# name: phoenix
+# type: scalar
+1
+
+
+# name: phoney
+# type: scalar
+1
+
+
+# name: physical
+# type: scalar
+1
+
+
+# name: picket
+# type: scalar
+1
+
+
+# name: pieces
+# type: scalar
+1
+
+
+# name: piglet
+# type: scalar
+1
+
+
+# name: pitfall
+# type: scalar
+1
+
+
+# name: pitiful
+# type: scalar
+1
+
+
+# name: pizza
+# type: scalar
+1
+
+
+# name: placed
+# type: scalar
+1
+
+
+# name: placement
+# type: scalar
+1
+
+
+# name: places
+# type: scalar
+1
+
+
+# name: placid
+# type: scalar
+1
+
+
+# name: plainly
+# type: scalar
+1
+
+
+# name: plaster
+# type: scalar
+1
+
+
+# name: pleasant
+# type: scalar
+1
+
+
+# name: pleased
+# type: scalar
+1
+
+
+# name: plentiful
+# type: scalar
+1
+
+
+# name: plethora
+# type: scalar
+1
+
+
+# name: plummet
+# type: scalar
+1
+
+
+# name: pocket
+# type: scalar
+1
+
+
+# name: pointless
+# type: scalar
+1
+
+
+# name: poison
+# type: scalar
+1
+
+
+# name: political
+# type: scalar
+2
+
+
+# name: polygon
+# type: scalar
+1
+
+
+# name: polymer
+# type: scalar
+1
+
+
+# name: pompon
+# type: scalar
+1
+
+
+# name: posses
+# type: scalar
+1
+
+
+# name: possessed
+# type: scalar
+2
+
+
+# name: possession
+# type: scalar
+2
+
+
+# name: possibly
+# type: scalar
+1
+
+
+# name: postmark
+# type: scalar
+1
+
+
+# name: potato
+# type: scalar
+2
+
+
+# name: powder
+# type: scalar
+1
+
+
+# name: powers
+# type: scalar
+1
+
+
+# name: precipitous
+# type: scalar
+2
+
+
+# name: pregnant
+# type: scalar
+1
+
+
+# name: prepared
+# type: scalar
+2
+
+
+# name: presented
+# type: scalar
+2
+
+
+# name: presently
+# type: scalar
+1
+
+
+# name: president
+# type: scalar
+1
+
+
+# name: pretty
+# type: scalar
+1
+
+
+# name: previous
+# type: scalar
+1
+
+
+# name: prison
+# type: scalar
+1
+
+
+# name: problem
+# type: scalar
+1
+
+
+# name: process
+# type: scalar
+1
+
+
+# name: processes
+# type: scalar
+1
+
+
+# name: procession
+# type: scalar
+2
+
+
+# name: produced
+# type: scalar
+2
+
+
+# name: proficient
+# type: scalar
+2
+
+
+# name: profusion
+# type: scalar
+2
+
+
+# name: prohibition
+# type: scalar
+3
+
+
+# name: promised
+# type: scalar
+1
+
+
+# name: propeller
+# type: scalar
+2
+
+
+# name: proper
+# type: scalar
+1
+
+
+# name: protect
+# type: scalar
+2
+
+
+# name: protest
+# type: scalar
+1
+
+
+# name: proved
+# type: scalar
+1
+
+
+# name: provided
+# type: scalar
+2
+
+
+# name: prurient
+# type: scalar
+1
+
+
+# name: pseudonym
+# type: scalar
+1
+
+
+# name: public
+# type: scalar
+1
+
+
+# name: punctual
+# type: scalar
+1
+
+
+# name: pungent
+# type: scalar
+1
+
+
+# name: punishment
+# type: scalar
+1
+
+
+# name: puppy
+# type: scalar
+1
+
+
+# name: purified
+# type: scalar
+1
+
+
+# name: pushover
+# type: scalar
+1
+
+
+# name: putting
+# type: scalar
+1
+
+
+# name: quantity
+# type: scalar
+1
+
+
+# name: quarantined
+# type: scalar
+1
+
+
+# name: quaternary
+# type: scalar
+1
+
+
+# name: question
+# type: scalar
+1
+
+
+# name: questions
+# type: scalar
+1
+
+
+# name: quickly
+# type: scalar
+1
+
+
+# name: quietly
+# type: scalar
+1
+
+
+# name: quilter
+# type: scalar
+1
+
+
+# name: quirky
+# type: scalar
+1
+
+
+# name: quitting
+# type: scalar
+1
+
+
+# name: quixotic
+# type: scalar
+2
+
+
+# name: raced
+# type: scalar
+1
+
+
+# name: radiator
+# type: scalar
+1
+
+
+# name: raised
+# type: scalar
+1
+
+
+# name: rapport
+# type: scalar
+2
+
+
+# name: ratty
+# type: scalar
+1
+
+
+# name: raveling
+# type: scalar
+1
+
+
+# name: reached
+# type: scalar
+1
+
+
+# name: reading
+# type: scalar
+1
+
+
+# name: ready
+# type: scalar
+1
+
+
+# name: realization
+# type: scalar
+1
+
+
+# name: really
+# type: scalar
+1
+
+
+# name: reason
+# type: scalar
+1
+
+
+# name: received
+# type: scalar
+2
+
+
+# name: record
+# type: scalar
+2
+
+
+# name: recycling
+# type: scalar
+2
+
+
+# name: refinish
+# type: scalar
+2
+
+
+# name: refund
+# type: scalar
+2
+
+
+# name: refurbish
+# type: scalar
+2
+
+
+# name: regard
+# type: scalar
+2
+
+
+# name: regimen
+# type: scalar
+1
+
+
+# name: regional
+# type: scalar
+1
+
+
+# name: regular
+# type: scalar
+1
+
+
+# name: relationship
+# type: scalar
+2
+
+
+# name: religious
+# type: scalar
+2
+
+
+# name: relish
+# type: scalar
+1
+
+
+# name: reluctant
+# type: scalar
+2
+
+
+# name: remember
+# type: scalar
+2
+
+
+# name: remembered
+# type: scalar
+2
+
+
+# name: removed
+# type: scalar
+2
+
+
+# name: rendezvous
+# type: scalar
+1
+
+
+# name: replied
+# type: scalar
+2
+
+
+# name: reply
+# type: scalar
+2
+
+
+# name: repository
+# type: scalar
+2
+
+
+# name: requirements
+# type: scalar
+2
+
+
+# name: resent
+# type: scalar
+2
+
+
+# name: reserves
+# type: scalar
+2
+
+
+# name: resolutely
+# type: scalar
+1
+
+
+# name: resonates
+# type: scalar
+1
+
+
+# name: respects
+# type: scalar
+2
+
+
+# name: restless
+# type: scalar
+1
+
+
+# name: restlessness
+# type: scalar
+1
+
+
+# name: result
+# type: scalar
+2
+
+
+# name: reticent
+# type: scalar
+1
+
+
+# name: retool
+# type: scalar
+2
+
+
+# name: rhythmic
+# type: scalar
+1
+
+
+# name: ridges
+# type: scalar
+1
+
+
+# name: riser
+# type: scalar
+1
+
+
+# name: river
+# type: scalar
+1
+
+
+# name: roamed
+# type: scalar
+1
+
+
+# name: robot
+# type: scalar
+1
+
+
+# name: rocky
+# type: scalar
+1
+
+
+# name: roman
+# type: scalar
+1
+
+
+# name: rooster
+# type: scalar
+1
+
+
+# name: rootkit
+# type: scalar
+1
+
+
+# name: rosemary
+# type: scalar
+1
+
+
+# name: roster
+# type: scalar
+1
+
+
+# name: rudiment
+# type: scalar
+1
+
+
+# name: running
+# type: scalar
+1
+
+
+# name: runoff
+# type: scalar
+1
+
+
+# name: rustic
+# type: scalar
+1
+
+
+# name: safeguard
+# type: scalar
+1
+
+
+# name: salient
+# type: scalar
+1
+
+
+# name: sanction
+# type: scalar
+1
+
+
+# name: sanitary
+# type: scalar
+1
+
+
+# name: saturday
+# type: scalar
+1
+
+
+# name: savory
+# type: scalar
+1
+
+
+# name: scales
+# type: scalar
+1
+
+
+# name: scamper
+# type: scalar
+1
+
+
+# name: scarcely
+# type: scalar
+1
+
+
+# name: scared
+# type: scalar
+1
+
+
+# name: scattershot
+# type: scalar
+1
+
+
+# name: scissors
+# type: scalar
+1
+
+
+# name: scorcher
+# type: scalar
+1
+
+
+# name: scorned
+# type: scalar
+1
+
+
+# name: scrawny
+# type: scalar
+1
+
+
+# name: screwball
+# type: scalar
+1
+
+
+# name: screwed
+# type: scalar
+1
+
+
+# name: scumbag
+# type: scalar
+1
+
+
+# name: second
+# type: scalar
+1
+
+
+# name: secret
+# type: scalar
+1
+
+
+# name: secretary
+# type: scalar
+1
+
+
+# name: seemed
+# type: scalar
+1
+
+
+# name: sensed
+# type: scalar
+1
+
+
+# name: sentiments
+# type: scalar
+1
+
+
+# name: september
+# type: scalar
+2
+
+
+# name: servant
+# type: scalar
+1
+
+
+# name: servants
+# type: scalar
+1
+
+
+# name: setback
+# type: scalar
+1
+
+
+# name: settled
+# type: scalar
+1
+
+
+# name: seven
+# type: scalar
+1
+
+
+# name: several
+# type: scalar
+1
+
+
+# name: shabby
+# type: scalar
+1
+
+
+# name: shady
+# type: scalar
+1
+
+
+# name: shaggy
+# type: scalar
+1
+
+
+# name: shaken
+# type: scalar
+1
+
+
+# name: shambles
+# type: scalar
+1
+
+
+# name: shavings
+# type: scalar
+1
+
+
+# name: shekel
+# type: scalar
+1
+
+
+# name: shiver
+# type: scalar
+1
+
+
+# name: shoebox
+# type: scalar
+1
+
+
+# name: shoehorn
+# type: scalar
+1
+
+
+# name: shoulder
+# type: scalar
+1
+
+
+# name: shoulders
+# type: scalar
+1
+
+
+# name: showcases
+# type: scalar
+1
+
+
+# name: showmanship
+# type: scalar
+1
+
+
+# name: shrivel
+# type: scalar
+1
+
+
+# name: shunned
+# type: scalar
+1
+
+
+# name: shutter
+# type: scalar
+1
+
+
+# name: sidebar
+# type: scalar
+1
+
+
+# name: sightseeing
+# type: scalar
+1
+
+
+# name: sightseer
+# type: scalar
+1
+
+
+# name: silent
+# type: scalar
+1
+
+
+# name: silken
+# type: scalar
+1
+
+
+# name: silver
+# type: scalar
+1
+
+
+# name: similar
+# type: scalar
+1
+
+
+# name: simper
+# type: scalar
+1
+
+
+# name: simply
+# type: scalar
+1
+
+
+# name: sinister
+# type: scalar
+1
+
+
+# name: sister
+# type: scalar
+1
+
+
+# name: sitting
+# type: scalar
+1
+
+
+# name: sketchy
+# type: scalar
+1
+
+
+# name: skimpy
+# type: scalar
+1
+
+
+# name: skinny
+# type: scalar
+1
+
+
+# name: skittish
+# type: scalar
+1
+
+
+# name: slapdash
+# type: scalar
+1
+
+
+# name: sleazy
+# type: scalar
+1
+
+
+# name: sleepy
+# type: scalar
+1
+
+
+# name: sliver
+# type: scalar
+1
+
+
+# name: slogan
+# type: scalar
+1
+
+
+# name: slowly
+# type: scalar
+1
+
+
+# name: smarmy
+# type: scalar
+1
+
+
+# name: smatter
+# type: scalar
+1
+
+
+# name: smattering
+# type: scalar
+1
+
+
+# name: smidgen
+# type: scalar
+1
+
+
+# name: smiled
+# type: scalar
+1
+
+
+# name: smokescreen
+# type: scalar
+1
+
+
+# name: snapshot
+# type: scalar
+1
+
+
+# name: sneaker
+# type: scalar
+1
+
+
+# name: snippet
+# type: scalar
+1
+
+
+# name: snowboard
+# type: scalar
+1
+
+
+# name: social
+# type: scalar
+1
+
+
+# name: society
+# type: scalar
+2
+
+
+# name: sofa
+# type: scalar
+1
+
+
+# name: softspoken
+# type: scalar
+2
+
+
+# name: solder
+# type: scalar
+1
+
+
+# name: soldier
+# type: scalar
+1
+
+
+# name: soldiers
+# type: scalar
+1
+
+
+# name: solicit
+# type: scalar
+2
+
+
+# name: solid
+# type: scalar
+1
+
+
+# name: somebody
+# type: scalar
+1
+
+
+# name: something
+# type: scalar
+1
+
+
+# name: somewhat
+# type: scalar
+1
+
+
+# name: sonny
+# type: scalar
+1
+
+
+# name: soprano
+# type: scalar
+2
+
+
+# name: sorry
+# type: scalar
+1
+
+
+# name: speaking
+# type: scalar
+1
+
+
+# name: special
+# type: scalar
+1
+
+
+# name: species
+# type: scalar
+1
+
+
+# name: spinning
+# type: scalar
+1
+
+
+# name: spirit
+# type: scalar
+1
+
+
+# name: spoken
+# type: scalar
+1
+
+
+# name: springboard
+# type: scalar
+1
+
+
+# name: sprinkles
+# type: scalar
+1
+
+
+# name: squared
+# type: scalar
+1
+
+
+# name: stabbed
+# type: scalar
+1
+
+
+# name: standing
+# type: scalar
+1
+
+
+# name: standoff
+# type: scalar
+1
+
+
+# name: statement
+# type: scalar
+1
+
+
+# name: states
+# type: scalar
+1
+
+
+# name: station
+# type: scalar
+1
+
+
+# name: sticky
+# type: scalar
+1
+
+
+# name: stonewall
+# type: scalar
+1
+
+
+# name: stopgap
+# type: scalar
+1
+
+
+# name: stopped
+# type: scalar
+1
+
+
+# name: straighten
+# type: scalar
+1
+
+
+# name: stranger
+# type: scalar
+1
+
+
+# name: stranglehold
+# type: scalar
+1
+
+
+# name: stroller
+# type: scalar
+1
+
+
+# name: strollers
+# type: scalar
+1
+
+
+# name: strolling
+# type: scalar
+1
+
+
+# name: stronger
+# type: scalar
+1
+
+
+# name: strongest
+# type: scalar
+1
+
+
+# name: stronghold
+# type: scalar
+1
+
+
+# name: stubborn
+# type: scalar
+1
+
+
+# name: study
+# type: scalar
+1
+
+
+# name: stupid
+# type: scalar
+1
+
+
+# name: suasion
+# type: scalar
+1
+
+
+# name: subject
+# type: scalar
+2
+
+
+# name: subpoena
+# type: scalar
+2
+
+
+# name: subtlety
+# type: scalar
+1
+
+
+# name: subtract
+# type: scalar
+2
+
+
+# name: success
+# type: scalar
+2
+
+
+# name: successful
+# type: scalar
+2
+
+
+# name: sudden
+# type: scalar
+1
+
+
+# name: suddenly
+# type: scalar
+1
+
+
+# name: sufficient
+# type: scalar
+2
+
+
+# name: sugar
+# type: scalar
+1
+
+
+# name: suggestion
+# type: scalar
+2
+
+
+# name: sully
+# type: scalar
+1
+
+
+# name: summer
+# type: scalar
+1
+
+
+# name: sunday
+# type: scalar
+1
+
+
+# name: supplying
+# type: scalar
+2
+
+
+# name: support
+# type: scalar
+2
+
+
+# name: supposed
+# type: scalar
+2
+
+
+# name: surfeit
+# type: scalar
+1
+
+
+# name: suspect
+# type: scalar
+2
+
+
+# name: sustain
+# type: scalar
+2
+
+
+# name: swallow
+# type: scalar
+1
+
+
+# name: sweatshirt
+# type: scalar
+1
+
+
+# name: sweeten
+# type: scalar
+1
+
+
+# name: sweetheart
+# type: scalar
+1
+
+
+# name: sweetness
+# type: scalar
+1
+
+
+# name: swelter
+# type: scalar
+1
+
+
+# name: swimsuit
+# type: scalar
+1
+
+
+# name: synonym
+# type: scalar
+1
+
+
+# name: system
+# type: scalar
+1
+
+
+# name: taken
+# type: scalar
+1
+
+
+# name: takes
+# type: scalar
+1
+
+
+# name: taking
+# type: scalar
+1
+
+
+# name: talked
+# type: scalar
+1
+
+
+# name: talking
+# type: scalar
+1
+
+
+# name: tantric
+# type: scalar
+1
+
+
+# name: tardy
+# type: scalar
+1
+
+
+# name: target
+# type: scalar
+1
+
+
+# name: tarnish
+# type: scalar
+1
+
+
+# name: tassel
+# type: scalar
+1
+
+
+# name: tasteful
+# type: scalar
+1
+
+
+# name: teaching
+# type: scalar
+1
+
+
+# name: teaspoon
+# type: scalar
+1
+
+
+# name: telling
+# type: scalar
+1
+
+
+# name: temper
+# type: scalar
+1
+
+
+# name: tendency
+# type: scalar
+1
+
+
+# name: tenner
+# type: scalar
+1
+
+
+# name: tenor
+# type: scalar
+1
+
+
+# name: tesla
+# type: scalar
+1
+
+
+# name: tested
+# type: scalar
+1
+
+
+# name: theocracy
+# type: scalar
+2
+
+
+# name: theory
+# type: scalar
+1
+
+
+# name: theta
+# type: scalar
+1
+
+
+# name: thinking
+# type: scalar
+1
+
+
+# name: thorough
+# type: scalar
+1
+
+
+# name: thoroughly
+# type: scalar
+1
+
+
+# name: thoughtful
+# type: scalar
+1
+
+
+# name: thunder
+# type: scalar
+1
+
+
+# name: thursday
+# type: scalar
+1
+
+
+# name: ticket
+# type: scalar
+1
+
+
+# name: tidbit
+# type: scalar
+1
+
+
+# name: timber
+# type: scalar
+1
+
+
+# name: timer
+# type: scalar
+1
+
+
+# name: times
+# type: scalar
+1
+
+
+# name: tipsy
+# type: scalar
+1
+
+
+# name: tired
+# type: scalar
+1
+
+
+# name: today
+# type: scalar
+2
+
+
+# name: together
+# type: scalar
+2
+
+
+# name: toiletries
+# type: scalar
+1
+
+
+# name: toiletry
+# type: scalar
+1
+
+
+# name: tomato
+# type: scalar
+2
+
+
+# name: tomorrow
+# type: scalar
+2
+
+
+# name: tonight
+# type: scalar
+2
+
+
+# name: totally
+# type: scalar
+1
+
+
+# name: towel
+# type: scalar
+1
+
+
+# name: tractor
+# type: scalar
+1
+
+
+# name: trademark
+# type: scalar
+1
+
+
+# name: transport
+# type: scalar
+2
+
+
+# name: trappings
+# type: scalar
+1
+
+
+# name: travel
+# type: scalar
+1
+
+
+# name: treacherous
+# type: scalar
+1
+
+
+# name: tremulous
+# type: scalar
+1
+
+
+# name: trickery
+# type: scalar
+1
+
+
+# name: trinket
+# type: scalar
+1
+
+
+# name: troublemaker
+# type: scalar
+1
+
+
+# name: trustworthy
+# type: scalar
+1
+
+
+# name: tubes
+# type: scalar
+1
+
+
+# name: tuesday
+# type: scalar
+1
+
+
+# name: tumult
+# type: scalar
+1
+
+
+# name: tundra
+# type: scalar
+1
+
+
+# name: turned
+# type: scalar
+1
+
+
+# name: turning
+# type: scalar
+1
+
+
+# name: tutor
+# type: scalar
+1
+
+
+# name: tweezers
+# type: scalar
+1
+
+
+# name: twenty
+# type: scalar
+1
+
+
+# name: twisting
+# type: scalar
+1
+
+
+# name: ubiquitous
+# type: scalar
+2
+
+
+# name: umbrella
+# type: scalar
+2
+
+
+# name: unaffiliated
+# type: scalar
+3
+
+
+# name: under
+# type: scalar
+1
+
+
+# name: underdog
+# type: scalar
+1
+
+
+# name: undergarments
+# type: scalar
+1
+
+
+# name: underwear
+# type: scalar
+1
+
+
+# name: union
+# type: scalar
+1
+
+
+# name: unit
+# type: scalar
+1
+
+
+# name: united
+# type: scalar
+2
+
+
+# name: unsightly
+# type: scalar
+2
+
+
+# name: until
+# type: scalar
+2
+
+
+# name: unto
+# type: scalar
+1
+
+
+# name: unwieldy
+# type: scalar
+2
+
+
+# name: unyielding
+# type: scalar
+2
+
+
+# name: upbeat
+# type: scalar
+1
+
+
+# name: upon
+# type: scalar
+2
+
+
+# name: uproar
+# type: scalar
+1
+
+
+# name: uptick
+# type: scalar
+1
+
+
+# name: urchin
+# type: scalar
+1
+
+
+# name: used
+# type: scalar
+1
+
+
+# name: usher
+# type: scalar
+1
+
+
+# name: using
+# type: scalar
+1
+
+
+# name: usual
+# type: scalar
+1
+
+
+# name: usury
+# type: scalar
+1
+
+
+# name: vacant
+# type: scalar
+1
+
+
+# name: various
+# type: scalar
+1
+
+
+# name: vector
+# type: scalar
+1
+
+
+# name: veggies
+# type: scalar
+1
+
+
+# name: verbatim
+# type: scalar
+2
+
+
+# name: verifies
+# type: scalar
+1
+
+
+# name: very
+# type: scalar
+1
+
+
+# name: vessel
+# type: scalar
+1
+
+
+# name: victor
+# type: scalar
+1
+
+
+# name: violent
+# type: scalar
+1
+
+
+# name: visit
+# type: scalar
+1
+
+
+# name: vivid
+# type: scalar
+1
+
+
+# name: vixen
+# type: scalar
+1
+
+
+# name: vortex
+# type: scalar
+1
+
+
+# name: vowel
+# type: scalar
+1
+
+
+# name: waiting
+# type: scalar
+1
+
+
+# name: walked
+# type: scalar
+1
+
+
+# name: wanna
+# type: scalar
+1
+
+
+# name: wanted
+# type: scalar
+1
+
+
+# name: watched
+# type: scalar
+1
+
+
+# name: watercolor
+# type: scalar
+1
+
+
+# name: waterfall
+# type: scalar
+1
+
+
+# name: watershed
+# type: scalar
+1
+
+
+# name: wearing
+# type: scalar
+1
+
+
+# name: weather
+# type: scalar
+1
+
+
+# name: wedding
+# type: scalar
+1
+
+
+# name: wednesday
+# type: scalar
+1
+
+
+# name: weirdo
+# type: scalar
+1
+
+
+# name: western
+# type: scalar
+1
+
+
+# name: westernmost
+# type: scalar
+1
+
+
+# name: wherewithal
+# type: scalar
+1
+
+
+# name: whether
+# type: scalar
+1
+
+
+# name: whimsical
+# type: scalar
+1
+
+
+# name: whopping
+# type: scalar
+1
+
+
+# name: wiki
+# type: scalar
+1
+
+
+# name: wikipedia
+# type: scalar
+1
+
+
+# name: wily
+# type: scalar
+1
+
+
+# name: window
+# type: scalar
+1
+
+
+# name: wines
+# type: scalar
+1
+
+
+# name: winnow
+# type: scalar
+1
+
+
+# name: winter
+# type: scalar
+1
+
+
+# name: wiseguy
+# type: scalar
+1
+
+
+# name: wiser
+# type: scalar
+1
+
+
+# name: wished
+# type: scalar
+1
+
+
+# name: wispy
+# type: scalar
+1
+
+
+# name: within
+# type: scalar
+2
+
+
+# name: witness
+# type: scalar
+1
+
+
+# name: wobbled
+# type: scalar
+1
+
+
+# name: wobbling
+# type: scalar
+1
+
+
+# name: woman
+# type: scalar
+1
+
+
+# name: wonder
+# type: scalar
+1
+
+
+# name: wonderful
+# type: scalar
+1
+
+
+# name: wondering
+# type: scalar
+1
+
+
+# name: woozy
+# type: scalar
+1
+
+
+# name: worked
+# type: scalar
+1
+
+
+# name: working
+# type: scalar
+1
+
+
+# name: worried
+# type: scalar
+1
+
+
+# name: worries
+# type: scalar
+1
+
+
+# name: worry
+# type: scalar
+1
+
+
+# name: worthy
+# type: scalar
+1
+
+
+# name: writing
+# type: scalar
+1
+
+
+# name: written
+# type: scalar
+1
+
+
+# name: yellow
+# type: scalar
+1
+
+
+# name: yesterday
+# type: scalar
+1
+
+
+# name: yikes
+# type: scalar
+1
+
+
+# name: yonder
+# type: scalar
+1
+
+
+# name: anew
+# type: scalar
+2
+
+
+# name: zealous
+# type: scalar
+1
+
+
+# name: zebra
+# type: scalar
+1
+
+
+# name: zeitgeist
+# type: scalar
+1
+
+
+# name: abandoned
+# type: scalar
+2
+
+
+# name: abandon
+# type: scalar
+2
+
+
+# name: abandonment
+# type: scalar
+2
+
+
+# name: abbot
+# type: scalar
+1
+
+
+# name: abdication
+# type: scalar
+3
+
+
+# name: abolish
+# type: scalar
+2
+
+
+# name: abortion
+# type: scalar
+2
+
+
+# name: abreast
+# type: scalar
+2
+
+
+# name: abruptly
+# type: scalar
+2
+
+
+# name: absorbent
+# type: scalar
+2
+
+
+# name: absorb
+# type: scalar
+2
+
+
+# name: absorption
+# type: scalar
+2
+
+
+# name: abstention
+# type: scalar
+2
+
+
+# name: abstraction
+# type: scalar
+2
+
+
+# name: absurd
+# type: scalar
+2
+
+
+# name: abundant
+# type: scalar
+2
+
+
+# name: abyss
+# type: scalar
+2
+
+
+# name: acacia
+# type: scalar
+2
+
+
+# name: academic
+# type: scalar
+3
+
+
+# name: academy
+# type: scalar
+2
+
+
+# name: accidentally
+# type: scalar
+3
+
+
+# name: admitted
+# type: scalar
+2
+
+
+# name: accompaniment
+# type: scalar
+2
+
+
+# name: accomplished
+# type: scalar
+2
+
+
+# name: accordingly
+# type: scalar
+2
+
+
+# name: accost
+# type: scalar
+2
+
+
+# name: accredit
+# type: scalar
+2
+
+
+# name: accumulator
+# type: scalar
+2
+
+
+# name: accuracy
+# type: scalar
+1
+
+
+# name: accusation
+# type: scalar
+3
+
+
+# name: accustom
+# type: scalar
+2
+
+
+# name: achievement
+# type: scalar
+2
+
+
+# name: acknowledgement
+# type: scalar
+2
+
+
+# name: acoustic
+# type: scalar
+2
+
+
+# name: acoustics
+# type: scalar
+2
+
+
+# name: acquainted
+# type: scalar
+2
+
+
+# name: acquired
+# type: scalar
+2
+
+
+# name: acted
+# type: scalar
+1
+
+
+# name: actions
+# type: scalar
+1
+
+
+# name: actor
+# type: scalar
+1
+
+
+# name: actual
+# type: scalar
+1
+
+
+# name: adapt
+# type: scalar
+2
+
+
+# name: addressed
+# type: scalar
+2
+
+
+# name: adherent
+# type: scalar
+2
+
+
+# name: administrator
+# type: scalar
+2
+
+
+# name: adopt
+# type: scalar
+2
+
+
+# name: adult
+# type: scalar
+2
+
+
+# name: advanced
+# type: scalar
+2
+
+
+# name: adverb
+# type: scalar
+1
+
+
+# name: adversary
+# type: scalar
+1
+
+
+# name: affection
+# type: scalar
+2
+
+
+# name: adviser
+# type: scalar
+2
+
+
+# name: affected
+# type: scalar
+2
+
+
+# name: arrival
+# type: scalar
+2
+
+
+# name: afterward
+# type: scalar
+1
+
+
+# name: agent
+# type: scalar
+1
+
+
+# name: ages
+# type: scalar
+1
+
+
+# name: agony
+# type: scalar
+1
+
+
+# name: aircraft
+# type: scalar
+1
+
+
+# name: alchemist
+# type: scalar
+1
+
+
+# name: alchemy
+# type: scalar
+1
+
+
+# name: alcohol
+# type: scalar
+1
+
+
+# name: alcoholic
+# type: scalar
+3
+
+
+# name: algebra
+# type: scalar
+1
+
+
+# name: alien
+# type: scalar
+1
+
+
+# name: allegory
+# type: scalar
+1
+
+
+# name: alley
+# type: scalar
+1
+
+
+# name: alloy
+# type: scalar
+1
+
+
+# name: alphabet
+# type: scalar
+1
+
+
+# name: alphabetical
+# type: scalar
+3
+
+
+# name: alpha
+# type: scalar
+1
+
+
+# name: altar
+# type: scalar
+1
+
+
+# name: alto
+# type: scalar
+1
+
+
+# name: amber
+# type: scalar
+1
+
+
+# name: ambition
+# type: scalar
+2
+
+
+# name: amid
+# type: scalar
+2
+
+
+# name: amongst
+# type: scalar
+2
+
+
+# name: analyst
+# type: scalar
+1
+
+
+# name: anatomy
+# type: scalar
+2
+
+
+# name: anger
+# type: scalar
+1
+
+
+# name: anguish
+# type: scalar
+1
+
+
+# name: angular
+# type: scalar
+1
+
+
+# name: aniseed
+# type: scalar
+1
+
+
+# name: annoy
+# type: scalar
+2
+
+
+# name: annual
+# type: scalar
+1
+
+
+# name: anthropologist
+# type: scalar
+3
+
+
+# name: anthropology
+# type: scalar
+3
+
+
+# name: antler
+# type: scalar
+1
+
+
+# name: antwerp
+# type: scalar
+1
+
+
+# name: anxiety
+# type: scalar
+2
+
+
+# name: apparent
+# type: scalar
+2
+
+
+# name: apparently
+# type: scalar
+2
+
+
+# name: appeal
+# type: scalar
+2
+
+
+# name: applaud
+# type: scalar
+2
+
+
+# name: applied
+# type: scalar
+2
+
+
+# name: apply
+# type: scalar
+2
+
+
+# name: appointed
+# type: scalar
+2
+
+
+# name: approached
+# type: scalar
+2
+
+
+# name: approach
+# type: scalar
+2
+
+
+# name: approaching
+# type: scalar
+2
+
+
+# name: arab
+# type: scalar
+1
+
+
+# name: arabic
+# type: scalar
+1
+
+
+# name: arbor
+# type: scalar
+1
+
+
+# name: archbishop
+# type: scalar
+1
+
+
+# name: archenemy
+# type: scalar
+1
+
+
+# name: armed
+# type: scalar
+1
+
+
+# name: armenian
+# type: scalar
+2
+
+
+# name: armor
+# type: scalar
+1
+
+
+# name: armpit
+# type: scalar
+1
+
+
+# name: arrangement
+# type: scalar
+2
+
+
+# name: bearing
+# type: scalar
+1
+
+
+# name: arrogant
+# type: scalar
+1
+
+
+# name: arsenic
+# type: scalar
+1
+
+
+# name: artery
+# type: scalar
+1
+
+
+# name: articles
+# type: scalar
+1
+
+
+# name: ashamed
+# type: scalar
+2
+
+
+# name: ashtray
+# type: scalar
+1
+
+
+# name: asleep
+# type: scalar
+2
+
+
+# name: aspect
+# type: scalar
+1
+
+
+# name: assiduous
+# type: scalar
+2
+
+
+# name: assumed
+# type: scalar
+2
+
+
+# name: assured
+# type: scalar
+2
+
+
+# name: asterisk
+# type: scalar
+1
+
+
+# name: astonished
+# type: scalar
+2
+
+
+# name: astonishment
+# type: scalar
+2
+
+
+# name: astronomy
+# type: scalar
+2
+
+
+# name: asylum
+# type: scalar
+2
+
+
+# name: atrocity
+# type: scalar
+2
+
+
+# name: attached
+# type: scalar
+2
+
+
+# name: attacked
+# type: scalar
+2
+
+
+# name: attempted
+# type: scalar
+2
+
+
+# name: attempting
+# type: scalar
+2
+
+
+# name: adjourn
+# type: scalar
+2
+
+
+# name: awareness
+# type: scalar
+2
+
+
+# name: awful
+# type: scalar
+1
+
+
+# name: axiom
+# type: scalar
+1
+
+
+# name: baboon
+# type: scalar
+2
+
+
+# name: bachelor
+# type: scalar
+1
+
+
+# name: baker
+# type: scalar
+1
+
+
+# name: banjo
+# type: scalar
+1
+
+
+# name: baptism
+# type: scalar
+1
+
+
+# name: barrow
+# type: scalar
+1
+
+
+# name: baseball
+# type: scalar
+1
+
+
+# name: based
+# type: scalar
+1
+
+
+# name: basketball
+# type: scalar
+1
+
+
+# name: empty
+# type: scalar
+1
+
+
+# name: breakfast
+# type: scalar
+1
+
+
+# name: beaver
+# type: scalar
+1
+
+
+# name: becomes
+# type: scalar
+2
+
+
+# name: becoming
+# type: scalar
+2
+
+
+# name: begged
+# type: scalar
+1
+
+
+# name: begins
+# type: scalar
+2
+
+
+# name: behold
+# type: scalar
+2
+
+
+# name: benefit
+# type: scalar
+1
+
+
+# name: bishop
+# type: scalar
+1
+
+
+# name: blackbird
+# type: scalar
+1
+
+
+# name: blacksmith
+# type: scalar
+1
+
+
+# name: bladder
+# type: scalar
+1
+
+
+# name: blooming
+# type: scalar
+1
+
+
+# name: blowjob
+# type: scalar
+1
+
+
+# name: blueberry
+# type: scalar
+1
+
+
+# name: bombard
+# type: scalar
+2
+
+
+# name: bones
+# type: scalar
+1
+
+
+# name: borrow
+# type: scalar
+1
+
+
+# name: bosnian
+# type: scalar
+1
+
+
+# name: bosom
+# type: scalar
+1
+
+
+# name: boulder
+# type: scalar
+1
+
+
+# name: boundary
+# type: scalar
+1
+
+
+# name: bowed
+# type: scalar
+1
+
+
+# name: branches
+# type: scalar
+1
+
+
+# name: bravery
+# type: scalar
+1
+
+
+# name: burning
+# type: scalar
+1
+
+
+# name: breaking
+# type: scalar
+1
+
+
+# name: brilliant
+# type: scalar
+1
+
+
+# name: bringing
+# type: scalar
+1
+
+
+# name: brothers
+# type: scalar
+1
+
+
+# name: buddhism
+# type: scalar
+1
+
+
+# name: bullet
+# type: scalar
+1
+
+
+# name: burden
+# type: scalar
+1
+
+
+# name: bureau
+# type: scalar
+1
+
+
+# name: buried
+# type: scalar
+1
+
+
+# name: burned
+# type: scalar
+1
+
+
+# name: businessman
+# type: scalar
+1
+
+
+# name: businesswoman
+# type: scalar
+1
+
+
+# name: buttock
+# type: scalar
+1
+
+
+# name: cabin
+# type: scalar
+1
+
+
+# name: cadaver
+# type: scalar
+2
+
+
+# name: calcium
+# type: scalar
+1
+
+
+# name: calculated
+# type: scalar
+1
+
+
+# name: calendar
+# type: scalar
+1
+
+
+# name: camel
+# type: scalar
+1
+
+
+# name: canary
+# type: scalar
+2
+
+
+# name: cannon
+# type: scalar
+1
+
+
+# name: capacity
+# type: scalar
+2
+
+
+# name: capital
+# type: scalar
+1
+
+
+# name: cared
+# type: scalar
+1
+
+
+# name: carpet
+# type: scalar
+1
+
+
+# name: ceased
+# type: scalar
+1
+
+
+# name: catalan
+# type: scalar
+1
+
+
+# name: catholic
+# type: scalar
+1
+
+
+# name: cauliflower
+# type: scalar
+1
+
+
+# name: causes
+# type: scalar
+1
+
+
+# name: constant
+# type: scalar
+1
+
+
+# name: ceiling
+# type: scalar
+1
+
+
+# name: celebrated
+# type: scalar
+1
+
+
+# name: celery
+# type: scalar
+1
+
+
+# name: celtic
+# type: scalar
+1
+
+
+# name: cemetery
+# type: scalar
+1
+
+
+# name: central
+# type: scalar
+1
+
+
+# name: centuries
+# type: scalar
+1
+
+
+# name: chairman
+# type: scalar
+1
+
+
+# name: chamber
+# type: scalar
+1
+
+
+# name: champion
+# type: scalar
+1
+
+
+# name: changes
+# type: scalar
+1
+
+
+# name: chapter
+# type: scalar
+1
+
+
+# name: charcoal
+# type: scalar
+1
+
+
+# name: characters
+# type: scalar
+1
+
+
+# name: charming
+# type: scalar
+1
+
+
+# name: cheerful
+# type: scalar
+1
+
+
+# name: chemistry
+# type: scalar
+1
+
+
+# name: cherry
+# type: scalar
+1
+
+
+# name: chestnut
+# type: scalar
+1
+
+
+# name: chiefly
+# type: scalar
+1
+
+
+# name: china
+# type: scalar
+1
+
+
+# name: chopstick
+# type: scalar
+1
+
+
+# name: chosen
+# type: scalar
+1
+
+
+# name: christian
+# type: scalar
+1
+
+
+# name: chromium
+# type: scalar
+1
+
+
+# name: cigar
+# type: scalar
+2
+
+
+# name: cities
+# type: scalar
+1
+
+
+# name: citizen
+# type: scalar
+1
+
+
+# name: civil
+# type: scalar
+1
+
+
+# name: civilian
+# type: scalar
+2
+
+
+# name: classes
+# type: scalar
+1
+
+
+# name: clever
+# type: scalar
+1
+
+
+# name: closely
+# type: scalar
+1
+
+
+# name: cockroach
+# type: scalar
+1
+
+
+# name: cocoa
+# type: scalar
+1
+
+
+# name: coldly
+# type: scalar
+1
+
+
+# name: comical
+# type: scalar
+1
+
+
+# name: comic
+# type: scalar
+1
+
+
+# name: comma
+# type: scalar
+1
+
+
+# name: commanded
+# type: scalar
+2
+
+
+# name: commercial
+# type: scalar
+2
+
+
+# name: commission
+# type: scalar
+2
+
+
+# name: committed
+# type: scalar
+2
+
+
+# name: communication
+# type: scalar
+4
+
+
+# name: companions
+# type: scalar
+2
+
+
+# name: compared
+# type: scalar
+2
+
+
+# name: compelled
+# type: scalar
+2
+
+
+# name: completed
+# type: scalar
+2
+
+
+# name: composed
+# type: scalar
+2
+
+
+# name: computing
+# type: scalar
+2
+
+
+# name: concealed
+# type: scalar
+2
+
+
+# name: concerns
+# type: scalar
+2
+
+
+# name: conclusion
+# type: scalar
+2
+
+
+# name: condom
+# type: scalar
+1
+
+
+# name: confess
+# type: scalar
+2
+
+
+# name: confirmed
+# type: scalar
+2
+
+
+# name: confirm
+# type: scalar
+2
+
+
+# name: consciousness
+# type: scalar
+1
+
+
+# name: consent
+# type: scalar
+2
+
+
+# name: countries
+# type: scalar
+1
+
+
+# name: constantly
+# type: scalar
+1
+
+
+# name: consumption
+# type: scalar
+2
+
+
+# name: contained
+# type: scalar
+2
+
+
+# name: containing
+# type: scalar
+2
+
+
+# name: contains
+# type: scalar
+2
+
+
+# name: content
+# type: scalar
+1
+
+
+# name: contents
+# type: scalar
+1
+
+
+# name: continent
+# type: scalar
+1
+
+
+# name: convention
+# type: scalar
+2
+
+
+# name: conviction
+# type: scalar
+2
+
+
+# name: convinced
+# type: scalar
+2
+
+
+# name: cookbook
+# type: scalar
+1
+
+
+# name: cooked
+# type: scalar
+1
+
+
+# name: coppersmith
+# type: scalar
+1
+
+
+# name: copying
+# type: scalar
+1
+
+
+# name: correct
+# type: scalar
+2
+
+
+# name: corsican
+# type: scalar
+1
+
+
+# name: counsel
+# type: scalar
+1
+
+
+# name: discover
+# type: scalar
+2
+
+
+# name: coupon
+# type: scalar
+1
+
+
+# name: cousin
+# type: scalar
+1
+
+
+# name: crayfish
+# type: scalar
+1
+
+
+# name: creatures
+# type: scalar
+1
+
+
+# name: cricket
+# type: scalar
+1
+
+
+# name: crisis
+# type: scalar
+1
+
+
+# name: critical
+# type: scalar
+1
+
+
+# name: crossed
+# type: scalar
+1
+
+
+# name: crossword
+# type: scalar
+1
+
+
+# name: crowded
+# type: scalar
+1
+
+
+# name: cucumber
+# type: scalar
+1
+
+
+# name: currency
+# type: scalar
+1
+
+
+# name: currently
+# type: scalar
+1
+
+
+# name: custom
+# type: scalar
+1
+
+
+# name: cylinder
+# type: scalar
+1
+
+
+# name: damages
+# type: scalar
+1
+
+
+# name: dancing
+# type: scalar
+1
+
+
+# name: dangerous
+# type: scalar
+1
+
+
+# name: dared
+# type: scalar
+1
+
+
+# name: daughters
+# type: scalar
+1
+
+
+# name: debris
+# type: scalar
+2
+
+
+# name: decidedly
+# type: scalar
+2
+
+
+# name: deciduous
+# type: scalar
+2
+
+
+# name: decimal
+# type: scalar
+1
+
+
+# name: deeply
+# type: scalar
+1
+
+
+# name: adultery
+# type: scalar
+2
+
+
+# name: degrees
+# type: scalar
+2
+
+
+# name: delicious
+# type: scalar
+2
+
+
+# name: delightful
+# type: scalar
+2
+
+
+# name: delivered
+# type: scalar
+2
+
+
+# name: demanded
+# type: scalar
+2
+
+
+# name: dressed
+# type: scalar
+1
+
+
+# name: departed
+# type: scalar
+2
+
+
+# name: depart
+# type: scalar
+2
+
+
+# name: depends
+# type: scalar
+2
+
+
+# name: depict
+# type: scalar
+2
+
+
+# name: descended
+# type: scalar
+2
+
+
+# name: description
+# type: scalar
+2
+
+
+# name: deserted
+# type: scalar
+2
+
+
+# name: desired
+# type: scalar
+2
+
+
+# name: despair
+# type: scalar
+2
+
+
+# name: destroyed
+# type: scalar
+2
+
+
+# name: destruction
+# type: scalar
+2
+
+
+# name: devil
+# type: scalar
+1
+
+
+# name: devoted
+# type: scalar
+2
+
+
+# name: dialect
+# type: scalar
+1
+
+
+# name: advisor
+# type: scalar
+2
+
+
+# name: diamond
+# type: scalar
+1
+
+
+# name: diamonds
+# type: scalar
+1
+
+
+# name: diaper
+# type: scalar
+1
+
+
+# name: dickhead
+# type: scalar
+1
+
+
+# name: differ
+# type: scalar
+1
+
+
+# name: difficulties
+# type: scalar
+1
+
+
+# name: digital
+# type: scalar
+1
+
+
+# name: digit
+# type: scalar
+1
+
+
+# name: dignity
+# type: scalar
+1
+
+
+# name: disappeared
+# type: scalar
+3
+
+
+# name: disappear
+# type: scalar
+3
+
+
+# name: duties
+# type: scalar
+1
+
+
+# name: dismay
+# type: scalar
+2
+
+
+# name: displayed
+# type: scalar
+2
+
+
+# name: display
+# type: scalar
+2
+
+
+# name: displaying
+# type: scalar
+2
+
+
+# name: disposed
+# type: scalar
+2
+
+
+# name: disposition
+# type: scalar
+3
+
+
+# name: distinct
+# type: scalar
+2
+
+
+# name: distinction
+# type: scalar
+2
+
+
+# name: distinguished
+# type: scalar
+2
+
+
+# name: distributed
+# type: scalar
+2
+
+
+# name: explanation
+# type: scalar
+3
+
+
+# name: district
+# type: scalar
+1
+
+
+# name: dolphin
+# type: scalar
+1
+
+
+# name: domestic
+# type: scalar
+2
+
+
+# name: donkey
+# type: scalar
+1
+
+
+# name: doubtless
+# type: scalar
+1
+
+
+# name: downstairs
+# type: scalar
+1
+
+
+# name: dozen
+# type: scalar
+1
+
+
+# name: dreadful
+# type: scalar
+1
+
+
+# name: falling
+# type: scalar
+1
+
+
+# name: dresses
+# type: scalar
+1
+
+
+# name: driver
+# type: scalar
+1
+
+
+# name: dulcet
+# type: scalar
+1
+
+
+# name: dumpling
+# type: scalar
+1
+
+
+# name: farther
+# type: scalar
+1
+
+
+# name: eagerly
+# type: scalar
+1
+
+
+# name: earlier
+# type: scalar
+1
+
+
+# name: earthworm
+# type: scalar
+1
+
+
+# name: eating
+# type: scalar
+1
+
+
+# name: echo
+# type: scalar
+1
+
+
+# name: effects
+# type: scalar
+2
+
+
+# name: egyptian
+# type: scalar
+2
+
+
+# name: elements
+# type: scalar
+1
+
+
+# name: eleventh
+# type: scalar
+2
+
+
+# name: emperor
+# type: scalar
+1
+
+
+# name: employed
+# type: scalar
+2
+
+
+# name: employment
+# type: scalar
+2
+
+
+# name: ended
+# type: scalar
+1
+
+
+# name: enemies
+# type: scalar
+1
+
+
+# name: energy
+# type: scalar
+1
+
+
+# name: enjoyed
+# type: scalar
+2
+
+
+# name: enormous
+# type: scalar
+2
+
+
+# name: entering
+# type: scalar
+1
+
+
+# name: envy
+# type: scalar
+1
+
+
+# name: equally
+# type: scalar
+1
+
+
+# name: equipment
+# type: scalar
+2
+
+
+# name: equivalent
+# type: scalar
+2
+
+
+# name: era
+# type: scalar
+1
+
+
+# name: errors
+# type: scalar
+1
+
+
+# name: escaped
+# type: scalar
+2
+
+
+# name: essential
+# type: scalar
+2
+
+
+# name: established
+# type: scalar
+2
+
+
+# name: establishment
+# type: scalar
+2
+
+
+# name: eternal
+# type: scalar
+2
+
+
+# name: evident
+# type: scalar
+1
+
+
+# name: evidently
+# type: scalar
+1
+
+
+# name: examined
+# type: scalar
+2
+
+
+# name: exceedingly
+# type: scalar
+2
+
+
+# name: excited
+# type: scalar
+2
+
+
+# name: excitement
+# type: scalar
+2
+
+
+# name: exclamation
+# type: scalar
+3
+
+
+# name: exist
+# type: scalar
+2
+
+
+# name: exit
+# type: scalar
+1
+
+
+# name: expedition
+# type: scalar
+3
+
+
+# name: expenses
+# type: scalar
+2
+
+
+# name: admittedly
+# type: scalar
+2
+
+
+# name: explained
+# type: scalar
+2
+
+
+# name: extraordinary
+# type: scalar
+3
+
+
+# name: extended
+# type: scalar
+2
+
+
+# name: favour
+# type: scalar
+1
+
+
+# name: extremely
+# type: scalar
+2
+
+
+# name: eyelid
+# type: scalar
+1
+
+
+# name: factor
+# type: scalar
+1
+
+
+# name: fairly
+# type: scalar
+1
+
+
+# name: fairy
+# type: scalar
+1
+
+
+# name: faithful
+# type: scalar
+1
+
+
+# name: falcon
+# type: scalar
+1
+
+
+# name: fighting
+# type: scalar
+1
+
+
+# name: familiar
+# type: scalar
+2
+
+
+# name: famous
+# type: scalar
+1
+
+
+# name: farmer
+# type: scalar
+1
+
+
+# name: follows
+# type: scalar
+1
+
+
+# name: fatal
+# type: scalar
+1
+
+
+# name: forces
+# type: scalar
+1
+
+
+# name: feared
+# type: scalar
+1
+
+
+# name: features
+# type: scalar
+1
+
+
+# name: fellows
+# type: scalar
+1
+
+
+# name: fender
+# type: scalar
+1
+
+
+# name: fever
+# type: scalar
+1
+
+
+# name: fewer
+# type: scalar
+1
+
+
+# name: fewest
+# type: scalar
+1
+
+
+# name: figures
+# type: scalar
+1
+
+
+# name: files
+# type: scalar
+1
+
+
+# name: final
+# type: scalar
+1
+
+
+# name: finding
+# type: scalar
+1
+
+
+# name: fingernail
+# type: scalar
+1
+
+
+# name: fingerprint
+# type: scalar
+1
+
+
+# name: firearm
+# type: scalar
+1
+
+
+# name: fired
+# type: scalar
+1
+
+
+# name: flatfish
+# type: scalar
+1
+
+
+# name: flemish
+# type: scalar
+1
+
+
+# name: included
+# type: scalar
+2
+
+
+# name: folly
+# type: scalar
+1
+
+
+# name: forecast
+# type: scalar
+1
+
+
+# name: forehead
+# type: scalar
+1
+
+
+# name: foreigner
+# type: scalar
+1
+
+
+# name: forgetting
+# type: scalar
+2
+
+
+# name: format
+# type: scalar
+1
+
+
+# name: formerly
+# type: scalar
+1
+
+
+# name: founded
+# type: scalar
+1
+
+
+# name: fountain
+# type: scalar
+1
+
+
+# name: freedom
+# type: scalar
+1
+
+
+# name: freeway
+# type: scalar
+1
+
+
+# name: frequently
+# type: scalar
+1
+
+
+# name: friendly
+# type: scalar
+1
+
+
+# name: frightened
+# type: scalar
+1
+
+
+# name: fulcrum
+# type: scalar
+1
+
+
+# name: function
+# type: scalar
+1
+
+
+# name: furnished
+# type: scalar
+1
+
+
+# name: gained
+# type: scalar
+1
+
+
+# name: gates
+# type: scalar
+1
+
+
+# name: gathered
+# type: scalar
+1
+
+
+# name: gazed
+# type: scalar
+1
+
+
+# name: gearbox
+# type: scalar
+1
+
+
+# name: generous
+# type: scalar
+1
+
+
+# name: genius
+# type: scalar
+1
+
+
+# name: gently
+# type: scalar
+1
+
+
+# name: genus
+# type: scalar
+1
+
+
+# name: geography
+# type: scalar
+2
+
+
+# name: geology
+# type: scalar
+2
+
+
+# name: glanced
+# type: scalar
+1
+
+
+# name: glorious
+# type: scalar
+1
+
+
+# name: goalkeeper
+# type: scalar
+1
+
+
+# name: godfather
+# type: scalar
+1
+
+
+# name: godly
+# type: scalar
+1
+
+
+# name: goggles
+# type: scalar
+1
+
+
+# name: golden
+# type: scalar
+1
+
+
+# name: goldfish
+# type: scalar
+1
+
+
+# name: goodness
+# type: scalar
+1
+
+
+# name: govern
+# type: scalar
+1
+
+
+# name: governor
+# type: scalar
+1
+
+
+# name: gradually
+# type: scalar
+1
+
+
+# name: grammar
+# type: scalar
+1
+
+
+# name: grandfather
+# type: scalar
+1
+
+
+# name: grandmother
+# type: scalar
+1
+
+
+# name: grandson
+# type: scalar
+1
+
+
+# name: granted
+# type: scalar
+1
+
+
+# name: grapefruit
+# type: scalar
+1
+
+
+# name: grasshopper
+# type: scalar
+1
+
+
+# name: grateful
+# type: scalar
+1
+
+
+# name: gravity
+# type: scalar
+1
+
+
+# name: gravy
+# type: scalar
+1
+
+
+# name: growing
+# type: scalar
+1
+
+
+# name: guilty
+# type: scalar
+1
+
+
+# name: habit
+# type: scalar
+1
+
+
+# name: habits
+# type: scalar
+1
+
+
+# name: haircut
+# type: scalar
+1
+
+
+# name: handed
+# type: scalar
+1
+
+
+# name: handful
+# type: scalar
+1
+
+
+# name: handkerchief
+# type: scalar
+1
+
+
+# name: handy
+# type: scalar
+1
+
+
+# name: hangar
+# type: scalar
+1
+
+
+# name: hanged
+# type: scalar
+1
+
+
+# name: hastily
+# type: scalar
+1
+
+
+# name: hazel
+# type: scalar
+1
+
+
+# name: hazelnut
+# type: scalar
+1
+
+
+# name: heater
+# type: scalar
+1
+
+
+# name: heating
+# type: scalar
+1
+
+
+# name: heavens
+# type: scalar
+1
+
+
+# name: hebrew
+# type: scalar
+1
+
+
+# name: interests
+# type: scalar
+1
+
+
+# name: helen
+# type: scalar
+1
+
+
+# name: helium
+# type: scalar
+1
+
+
+# name: hero
+# type: scalar
+1
+
+
+# name: hiccups
+# type: scalar
+1
+
+
+# name: highway
+# type: scalar
+1
+
+
+# name: hitherto
+# type: scalar
+1
+
+
+# name: holder
+# type: scalar
+1
+
+
+# name: honesty
+# type: scalar
+1
+
+
+# name: hooker
+# type: scalar
+1
+
+
+# name: hoped
+# type: scalar
+1
+
+
+# name: hopes
+# type: scalar
+1
+
+
+# name: horror
+# type: scalar
+1
+
+
+# name: horseradish
+# type: scalar
+1
+
+
+# name: hostel
+# type: scalar
+1
+
+
+# name: household
+# type: scalar
+1
+
+
+# name: humanity
+# type: scalar
+2
+
+
+# name: humongous
+# type: scalar
+2
+
+
+# name: humour
+# type: scalar
+1
+
+
+# name: hungry
+# type: scalar
+1
+
+
+# name: hunter
+# type: scalar
+1
+
+
+# name: hurried
+# type: scalar
+1
+
+
+# name: hurrying
+# type: scalar
+1
+
+
+# name: hyphen
+# type: scalar
+1
+
+
+# name: ideal
+# type: scalar
+2
+
+
+# name: identify
+# type: scalar
+2
+
+
+# name: idiom
+# type: scalar
+1
+
+
+# name: idiot
+# type: scalar
+1
+
+
+# name: ignorant
+# type: scalar
+1
+
+
+# name: impression
+# type: scalar
+2
+
+
+# name: imply
+# type: scalar
+2
+
+
+# name: inhabitants
+# type: scalar
+2
+
+
+# name: incident
+# type: scalar
+1
+
+
+# name: larger
+# type: scalar
+1
+
+
+# name: indian
+# type: scalar
+1
+
+
+# name: industrial
+# type: scalar
+2
+
+
+# name: infamous
+# type: scalar
+1
+
+
+# name: influenza
+# type: scalar
+3
+
+
+# name: informed
+# type: scalar
+2
+
+
+# name: laughing
+# type: scalar
+1
+
+
+# name: inherit
+# type: scalar
+2
+
+
+# name: inner
+# type: scalar
+1
+
+
+# name: inquired
+# type: scalar
+2
+
+
+# name: insects
+# type: scalar
+1
+
+
+# name: lifted
+# type: scalar
+1
+
+
+# name: instantly
+# type: scalar
+1
+
+
+# name: instinct
+# type: scalar
+1
+
+
+# name: integer
+# type: scalar
+1
+
+
+# name: intelligent
+# type: scalar
+2
+
+
+# name: listened
+# type: scalar
+1
+
+
+# name: international
+# type: scalar
+3
+
+
+# name: interval
+# type: scalar
+1
+
+
+# name: introduced
+# type: scalar
+3
+
+
+# name: invest
+# type: scalar
+2
+
+
+# name: invited
+# type: scalar
+2
+
+
+# name: irish
+# type: scalar
+1
+
+
+# name: jackal
+# type: scalar
+1
+
+
+# name: jackass
+# type: scalar
+1
+
+
+# name: jacket
+# type: scalar
+1
+
+
+# name: jellyfish
+# type: scalar
+1
+
+
+# name: jenny
+# type: scalar
+1
+
+
+# name: joined
+# type: scalar
+1
+
+
+# name: joystick
+# type: scalar
+1
+
+
+# name: jumpy
+# type: scalar
+1
+
+
+# name: keyboard
+# type: scalar
+1
+
+
+# name: killer
+# type: scalar
+1
+
+
+# name: kilogram
+# type: scalar
+1
+
+
+# name: kilometer
+# type: scalar
+2
+
+
+# name: kimono
+# type: scalar
+2
+
+
+# name: kindly
+# type: scalar
+1
+
+
+# name: kindness
+# type: scalar
+1
+
+
+# name: kingdom
+# type: scalar
+1
+
+
+# name: kingfisher
+# type: scalar
+1
+
+
+# name: kissed
+# type: scalar
+1
+
+
+# name: korean
+# type: scalar
+2
+
+
+# name: kurdish
+# type: scalar
+1
+
+
+# name: ladybird
+# type: scalar
+1
+
+
+# name: ladybug
+# type: scalar
+1
+
+
+# name: lovely
+# type: scalar
+1
+
+
+# name: lately
+# type: scalar
+1
+
+
+# name: latin
+# type: scalar
+1
+
+
+# name: mistress
+# type: scalar
+1
+
+
+# name: laundry
+# type: scalar
+1
+
+
+# name: laurel
+# type: scalar
+1
+
+
+# name: layman
+# type: scalar
+1
+
+
+# name: leaflet
+# type: scalar
+1
+
+
+# name: leaned
+# type: scalar
+1
+
+
+# name: leaning
+# type: scalar
+1
+
+
+# name: leopard
+# type: scalar
+1
+
+
+# name: liability
+# type: scalar
+3
+
+
+# name: nearer
+# type: scalar
+1
+
+
+# name: lightning
+# type: scalar
+1
+
+
+# name: liked
+# type: scalar
+1
+
+
+# name: limited
+# type: scalar
+1
+
+
+# name: linked
+# type: scalar
+1
+
+
+# name: occurred
+# type: scalar
+2
+
+
+# name: listening
+# type: scalar
+1
+
+
+# name: literary
+# type: scalar
+1
+
+
+# name: lithium
+# type: scalar
+1
+
+
+# name: liver
+# type: scalar
+1
+
+
+# name: lizard
+# type: scalar
+1
+
+
+# name: lobster
+# type: scalar
+1
+
+
+# name: local
+# type: scalar
+1
+
+
+# name: located
+# type: scalar
+1
+
+
+# name: locust
+# type: scalar
+1
+
+
+# name: logic
+# type: scalar
+1
+
+
+# name: lonely
+# type: scalar
+1
+
+
+# name: lover
+# type: scalar
+1
+
+
+# name: loving
+# type: scalar
+1
+
+
+# name: luxury
+# type: scalar
+1
+
+
+# name: mackerel
+# type: scalar
+1
+
+
+# name: magic
+# type: scalar
+1
+
+
+# name: magnesium
+# type: scalar
+2
+
+
+# name: maiden
+# type: scalar
+1
+
+
+# name: majesty
+# type: scalar
+1
+
+
+# name: majority
+# type: scalar
+2
+
+
+# name: mallard
+# type: scalar
+1
+
+
+# name: mammal
+# type: scalar
+1
+
+
+# name: managed
+# type: scalar
+1
+
+
+# name: mankind
+# type: scalar
+1
+
+
+# name: manners
+# type: scalar
+1
+
+
+# name: marigold
+# type: scalar
+1
+
+
+# name: marten
+# type: scalar
+1
+
+
+# name: martyr
+# type: scalar
+1
+
+
+# name: masters
+# type: scalar
+1
+
+
+# name: matrix
+# type: scalar
+1
+
+
+# name: mattress
+# type: scalar
+1
+
+
+# name: measures
+# type: scalar
+1
+
+
+# name: melancholy
+# type: scalar
+1
+
+
+# name: melody
+# type: scalar
+1
+
+
+# name: melon
+# type: scalar
+1
+
+
+# name: member
+# type: scalar
+1
+
+
+# name: membership
+# type: scalar
+1
+
+
+# name: mental
+# type: scalar
+1
+
+
+# name: menu
+# type: scalar
+1
+
+
+# name: mercury
+# type: scalar
+1
+
+
+# name: merit
+# type: scalar
+1
+
+
+# name: merry
+# type: scalar
+1
+
+
+# name: messenger
+# type: scalar
+1
+
+
+# name: meter
+# type: scalar
+1
+
+
+# name: methods
+# type: scalar
+1
+
+
+# name: metro
+# type: scalar
+1
+
+
+# name: midnight
+# type: scalar
+1
+
+
+# name: miner
+# type: scalar
+1
+
+
+# name: minister
+# type: scalar
+1
+
+
+# name: minor
+# type: scalar
+1
+
+
+# name: misery
+# type: scalar
+1
+
+
+# name: mission
+# type: scalar
+1
+
+
+# name: modest
+# type: scalar
+1
+
+
+# name: moments
+# type: scalar
+1
+
+
+# name: monthly
+# type: scalar
+1
+
+
+# name: morals
+# type: scalar
+1
+
+
+# name: mortal
+# type: scalar
+1
+
+
+# name: motorcar
+# type: scalar
+1
+
+
+# name: mounted
+# type: scalar
+1
+
+
+# name: murderer
+# type: scalar
+1
+
+
+# name: murmured
+# type: scalar
+1
+
+
+# name: musician
+# type: scalar
+2
+
+
+# name: mussel
+# type: scalar
+1
+
+
+# name: mystery
+# type: scalar
+1
+
+
+# name: national
+# type: scalar
+1
+
+
+# name: natives
+# type: scalar
+1
+
+
+# name: naturally
+# type: scalar
+1
+
+
+# name: navy
+# type: scalar
+1
+
+
+# name: nearest
+# type: scalar
+1
+
+
+# name: necessity
+# type: scalar
+2
+
+
+# name: neighbour
+# type: scalar
+1
+
+
+# name: nervous
+# type: scalar
+1
+
+
+# name: network
+# type: scalar
+1
+
+
+# name: neuter
+# type: scalar
+1
+
+
+# name: newspaper
+# type: scalar
+1
+
+
+# name: nickel
+# type: scalar
+1
+
+
+# name: nineteenth
+# type: scalar
+1
+
+
+# name: nitrogen
+# type: scalar
+1
+
+
+# name: nodded
+# type: scalar
+1
+
+
+# name: notes
+# type: scalar
+1
+
+
+# name: noticed
+# type: scalar
+1
+
+
+# name: notion
+# type: scalar
+1
+
+
+# name: nowadays
+# type: scalar
+1
+
+
+# name: nullify
+# type: scalar
+1
+
+
+# name: numbers
+# type: scalar
+1
+
+
+# name: numeral
+# type: scalar
+1
+
+
+# name: numerous
+# type: scalar
+1
+
+
+# name: occasions
+# type: scalar
+2
+
+
+# name: occur
+# type: scalar
+2
+
+
+# name: ocean
+# type: scalar
+1
+
+
+# name: octopus
+# type: scalar
+1
+
+
+# name: older
+# type: scalar
+1
+
+
+# name: opinions
+# type: scalar
+2
+
+
+# name: opposed
+# type: scalar
+2
+
+
+# name: orbit
+# type: scalar
+1
+
+
+# name: origin
+# type: scalar
+1
+
+
+# name: airlift
+# type: scalar
+1
+
+
+# name: outlet
+# type: scalar
+1
+
+
+# name: overthrow
+# type: scalar
+1
+
+
+# name: owing
+# type: scalar
+1
+
+
+# name: oxygen
+# type: scalar
+1
+
+
+# name: pages
+# type: scalar
+1
+
+
+# name: painful
+# type: scalar
+1
+
+
+# name: painted
+# type: scalar
+1
+
+
+# name: pajamas
+# type: scalar
+2
+
+
+# name: proceeded
+# type: scalar
+2
+
+
+# name: panda
+# type: scalar
+1
+
+
+# name: papa
+# type: scalar
+1
+
+
+# name: pardon
+# type: scalar
+1
+
+
+# name: parliament
+# type: scalar
+1
+
+
+# name: parted
+# type: scalar
+1
+
+
+# name: parties
+# type: scalar
+1
+
+
+# name: partly
+# type: scalar
+1
+
+
+# name: passport
+# type: scalar
+1
+
+
+# name: pathetic
+# type: scalar
+2
+
+
+# name: patient
+# type: scalar
+1
+
+
+# name: paused
+# type: scalar
+1
+
+
+# name: peacock
+# type: scalar
+1
+
+
+# name: peanut
+# type: scalar
+1
+
+
+# name: peculiar
+# type: scalar
+2
+
+
+# name: pelican
+# type: scalar
+1
+
+
+# name: penguin
+# type: scalar
+1
+
+
+# name: penis
+# type: scalar
+1
+
+
+# name: perceived
+# type: scalar
+2
+
+
+# name: percent
+# type: scalar
+2
+
+
+# name: perception
+# type: scalar
+2
+
+
+# name: perform
+# type: scalar
+2
+
+
+# name: performing
+# type: scalar
+2
+
+
+# name: permanent
+# type: scalar
+1
+
+
+# name: petroleum
+# type: scalar
+2
+
+
+# name: petrol
+# type: scalar
+1
+
+
+# name: petty
+# type: scalar
+1
+
+
+# name: pheasant
+# type: scalar
+1
+
+
+# name: philosophy
+# type: scalar
+2
+
+
+# name: phosphorus
+# type: scalar
+1
+
+
+# name: photo
+# type: scalar
+1
+
+
+# name: photograph
+# type: scalar
+1
+
+
+# name: photography
+# type: scalar
+2
+
+
+# name: proposed
+# type: scalar
+2
+
+
+# name: picked
+# type: scalar
+1
+
+
+# name: pictures
+# type: scalar
+1
+
+
+# name: pierced
+# type: scalar
+1
+
+
+# name: pigeon
+# type: scalar
+1
+
+
+# name: pistil
+# type: scalar
+1
+
+
+# name: pity
+# type: scalar
+1
+
+
+# name: planet
+# type: scalar
+1
+
+
+# name: playwright
+# type: scalar
+1
+
+
+# name: plaza
+# type: scalar
+1
+
+
+# name: plenty
+# type: scalar
+1
+
+
+# name: plutonium
+# type: scalar
+2
+
+
+# name: poetry
+# type: scalar
+1
+
+
+# name: pointed
+# type: scalar
+1
+
+
+# name: pointer
+# type: scalar
+1
+
+
+# name: policy
+# type: scalar
+1
+
+
+# name: politics
+# type: scalar
+1
+
+
+# name: popular
+# type: scalar
+1
+
+
+# name: rapidly
+# type: scalar
+1
+
+
+# name: portion
+# type: scalar
+1
+
+
+# name: posted
+# type: scalar
+1
+
+
+# name: rules
+# type: scalar
+1
+
+
+# name: poured
+# type: scalar
+1
+
+
+# name: pouring
+# type: scalar
+1
+
+
+# name: poverty
+# type: scalar
+1
+
+
+# name: powerful
+# type: scalar
+1
+
+
+# name: practical
+# type: scalar
+1
+
+
+# name: practically
+# type: scalar
+1
+
+
+# name: precedent
+# type: scalar
+1
+
+
+# name: precious
+# type: scalar
+1
+
+
+# name: prefix
+# type: scalar
+1
+
+
+# name: preserved
+# type: scalar
+2
+
+
+# name: pressed
+# type: scalar
+1
+
+
+# name: resolved
+# type: scalar
+2
+
+
+# name: princes
+# type: scalar
+1
+
+
+# name: princess
+# type: scalar
+1
+
+
+# name: principal
+# type: scalar
+1
+
+
+# name: principles
+# type: scalar
+1
+
+
+# name: printed
+# type: scalar
+1
+
+
+# name: prisoner
+# type: scalar
+1
+
+
+# name: prisoners
+# type: scalar
+1
+
+
+# name: series
+# type: scalar
+1
+
+
+# name: proceed
+# type: scalar
+2
+
+
+# name: product
+# type: scalar
+1
+
+
+# name: production
+# type: scalar
+2
+
+
+# name: professor
+# type: scalar
+2
+
+
+# name: profits
+# type: scalar
+1
+
+
+# name: albatross
+# type: scalar
+1
+
+
+# name: properly
+# type: scalar
+1
+
+
+# name: prophet
+# type: scalar
+1
+
+
+# name: proportion
+# type: scalar
+2
+
+
+# name: prospect
+# type: scalar
+1
+
+
+# name: proverb
+# type: scalar
+1
+
+
+# name: providing
+# type: scalar
+2
+
+
+# name: provisions
+# type: scalar
+2
+
+
+# name: psychologist
+# type: scalar
+2
+
+
+# name: psychology
+# type: scalar
+2
+
+
+# name: published
+# type: scalar
+1
+
+
+# name: pulled
+# type: scalar
+1
+
+
+# name: punish
+# type: scalar
+1
+
+
+# name: pupa
+# type: scalar
+1
+
+
+# name: puppet
+# type: scalar
+1
+
+
+# name: purposes
+# type: scalar
+1
+
+
+# name: pursued
+# type: scalar
+2
+
+
+# name: pushed
+# type: scalar
+1
+
+
+# name: pyramid
+# type: scalar
+1
+
+
+# name: quarrel
+# type: scalar
+1
+
+
+# name: quarry
+# type: scalar
+1
+
+
+# name: quarter
+# type: scalar
+1
+
+
+# name: quarters
+# type: scalar
+1
+
+
+# name: rabbit
+# type: scalar
+1
+
+
+# name: radio
+# type: scalar
+1
+
+
+# name: railroad
+# type: scalar
+1
+
+
+# name: railway
+# type: scalar
+1
+
+
+# name: rainbow
+# type: scalar
+1
+
+
+# name: raising
+# type: scalar
+1
+
+
+# name: random
+# type: scalar
+1
+
+
+# name: rapid
+# type: scalar
+1
+
+
+# name: rational
+# type: scalar
+1
+
+
+# name: reaching
+# type: scalar
+1
+
+
+# name: reader
+# type: scalar
+1
+
+
+# name: readers
+# type: scalar
+1
+
+
+# name: readily
+# type: scalar
+1
+
+
+# name: reasons
+# type: scalar
+1
+
+
+# name: receiving
+# type: scalar
+2
+
+
+# name: recent
+# type: scalar
+1
+
+
+# name: recognized
+# type: scalar
+1
+
+
+# name: redo
+# type: scalar
+2
+
+
+# name: reduced
+# type: scalar
+2
+
+
+# name: referred
+# type: scalar
+2
+
+
+# name: region
+# type: scalar
+1
+
+
+# name: register
+# type: scalar
+1
+
+
+# name: remainder
+# type: scalar
+2
+
+
+# name: remaining
+# type: scalar
+2
+
+
+# name: rendered
+# type: scalar
+1
+
+
+# name: render
+# type: scalar
+1
+
+
+# name: repeal
+# type: scalar
+2
+
+
+# name: reported
+# type: scalar
+2
+
+
+# name: republic
+# type: scalar
+2
+
+
+# name: requires
+# type: scalar
+2
+
+
+# name: research
+# type: scalar
+2
+
+
+# name: rested
+# type: scalar
+1
+
+
+# name: restored
+# type: scalar
+2
+
+
+# name: resumed
+# type: scalar
+2
+
+
+# name: retail
+# type: scalar
+1
+
+
+# name: rethink
+# type: scalar
+2
+
+
+# name: retreat
+# type: scalar
+2
+
+
+# name: revealed
+# type: scalar
+2
+
+
+# name: reveal
+# type: scalar
+2
+
+
+# name: reverend
+# type: scalar
+1
+
+
+# name: ribbon
+# type: scalar
+1
+
+
+# name: riding
+# type: scalar
+1
+
+
+# name: rigid
+# type: scalar
+1
+
+
+# name: robin
+# type: scalar
+1
+
+
+# name: roebuck
+# type: scalar
+1
+
+
+# name: rolled
+# type: scalar
+1
+
+
+# name: rowing
+# type: scalar
+1
+
+
+# name: rubber
+# type: scalar
+1
+
+
+# name: rushed
+# type: scalar
+1
+
+
+# name: safety
+# type: scalar
+1
+
+
+# name: salad
+# type: scalar
+1
+
+
+# name: salary
+# type: scalar
+1
+
+
+# name: salmon
+# type: scalar
+1
+
+
+# name: sandbox
+# type: scalar
+1
+
+
+# name: satisfied
+# type: scalar
+1
+
+
+# name: saved
+# type: scalar
+1
+
+
+# name: scanty
+# type: scalar
+1
+
+
+# name: scattered
+# type: scalar
+1
+
+
+# name: scatter
+# type: scalar
+1
+
+
+# name: scenario
+# type: scalar
+2
+
+
+# name: scenes
+# type: scalar
+1
+
+
+# name: scholars
+# type: scalar
+1
+
+
+# name: screwdriver
+# type: scalar
+1
+
+
+# name: season
+# type: scalar
+1
+
+
+# name: seated
+# type: scalar
+1
+
+
+# name: secured
+# type: scalar
+2
+
+
+# name: seeking
+# type: scalar
+1
+
+
+# name: seized
+# type: scalar
+1
+
+
+# name: seldom
+# type: scalar
+1
+
+
+# name: sending
+# type: scalar
+1
+
+
+# name: senses
+# type: scalar
+1
+
+
+# name: sentiment
+# type: scalar
+1
+
+
+# name: separated
+# type: scalar
+1
+
+
+# name: seriously
+# type: scalar
+1
+
+
+# name: serpent
+# type: scalar
+1
+
+
+# name: served
+# type: scalar
+1
+
+
+# name: services
+# type: scalar
+1
+
+
+# name: setting
+# type: scalar
+1
+
+
+# name: seventeenth
+# type: scalar
+1
+
+
+# name: seventh
+# type: scalar
+1
+
+
+# name: shadow
+# type: scalar
+1
+
+
+# name: shadowing
+# type: scalar
+1
+
+
+# name: shadows
+# type: scalar
+1
+
+
+# name: shallow
+# type: scalar
+1
+
+
+# name: shelter
+# type: scalar
+1
+
+
+# name: shepherd
+# type: scalar
+1
+
+
+# name: sherry
+# type: scalar
+1
+
+
+# name: shining
+# type: scalar
+1
+
+
+# name: shouted
+# type: scalar
+1
+
+
+# name: shovel
+# type: scalar
+1
+
+
+# name: showing
+# type: scalar
+1
+
+
+# name: sidewalk
+# type: scalar
+1
+
+
+# name: signal
+# type: scalar
+1
+
+
+# name: singer
+# type: scalar
+1
+
+
+# name: singing
+# type: scalar
+1
+
+
+# name: singular
+# type: scalar
+1
+
+
+# name: sisters
+# type: scalar
+1
+
+
+# name: skeleton
+# type: scalar
+1
+
+
+# name: skylark
+# type: scalar
+1
+
+
+# name: slaves
+# type: scalar
+1
+
+
+# name: sleeping
+# type: scalar
+1
+
+
+# name: slightest
+# type: scalar
+1
+
+
+# name: slightly
+# type: scalar
+1
+
+
+# name: slipped
+# type: scalar
+1
+
+
+# name: slovak
+# type: scalar
+1
+
+
+# name: smaller
+# type: scalar
+1
+
+
+# name: snorkel
+# type: scalar
+1
+
+
+# name: snowball
+# type: scalar
+1
+
+
+# name: snowman
+# type: scalar
+1
+
+
+# name: snowstorm
+# type: scalar
+1
+
+
+# name: sodium
+# type: scalar
+1
+
+
+# name: softly
+# type: scalar
+1
+
+
+# name: sojourn
+# type: scalar
+1
+
+
+# name: solemn
+# type: scalar
+1
+
+
+# name: somehow
+# type: scalar
+1
+
+
+# name: sooner
+# type: scalar
+1
+
+
+# name: sorrow
+# type: scalar
+1
+
+
+# name: sovereign
+# type: scalar
+1
+
+
+# name: spaniard
+# type: scalar
+1
+
+
+# name: spanner
+# type: scalar
+1
+
+
+# name: sparrow
+# type: scalar
+1
+
+
+# name: spectacles
+# type: scalar
+1
+
+
+# name: spelling
+# type: scalar
+1
+
+
+# name: spider
+# type: scalar
+1
+
+
+# name: spirits
+# type: scalar
+1
+
+
+# name: splendid
+# type: scalar
+1
+
+
+# name: stallion
+# type: scalar
+1
+
+
+# name: standard
+# type: scalar
+1
+
+
+# name: standpoint
+# type: scalar
+1
+
+
+# name: starter
+# type: scalar
+1
+
+
+# name: stated
+# type: scalar
+1
+
+
+# name: status
+# type: scalar
+1
+
+
+# name: steady
+# type: scalar
+1
+
+
+# name: stepped
+# type: scalar
+1
+
+
+# name: stepson
+# type: scalar
+1
+
+
+# name: stones
+# type: scalar
+1
+
+
+# name: stories
+# type: scalar
+1
+
+
+# name: strangers
+# type: scalar
+1
+
+
+# name: strawberry
+# type: scalar
+1
+
+
+# name: stretched
+# type: scalar
+1
+
+
+# name: striking
+# type: scalar
+1
+
+
+# name: strongly
+# type: scalar
+1
+
+
+# name: student
+# type: scalar
+1
+
+
+# name: stunner
+# type: scalar
+1
+
+
+# name: sturgeon
+# type: scalar
+1
+
+
+# name: subjected
+# type: scalar
+2
+
+
+# name: subway
+# type: scalar
+1
+
+
+# name: suffered
+# type: scalar
+1
+
+
+# name: sufficiently
+# type: scalar
+2
+
+
+# name: suffix
+# type: scalar
+1
+
+
+# name: suggested
+# type: scalar
+2
+
+
+# name: sulfur
+# type: scalar
+1
+
+
+# name: sunset
+# type: scalar
+1
+
+
+# name: supper
+# type: scalar
+1
+
+
+# name: suppressed
+# type: scalar
+2
+
+
+# name: surely
+# type: scalar
+1
+
+
+# name: suspicion
+# type: scalar
+2
+
+
+# name: symbol
+# type: scalar
+1
+
+
+# name: tablespoon
+# type: scalar
+1
+
+
+# name: tailor
+# type: scalar
+1
+
+
+# name: tantrum
+# type: scalar
+1
+
+
+# name: taxi
+# type: scalar
+1
+
+
+# name: teacher
+# type: scalar
+1
+
+
+# name: television
+# type: scalar
+1
+
+
+# name: tender
+# type: scalar
+1
+
+
+# name: tepid
+# type: scalar
+1
+
+
+# name: territory
+# type: scalar
+1
+
+
+# name: terror
+# type: scalar
+1
+
+
+# name: thermometer
+# type: scalar
+2
+
+
+# name: thesis
+# type: scalar
+1
+
+
+# name: thirteenth
+# type: scalar
+1
+
+
+# name: thousands
+# type: scalar
+1
+
+
+# name: threatened
+# type: scalar
+1
+
+
+# name: threaten
+# type: scalar
+1
+
+
+# name: tiger
+# type: scalar
+1
+
+
+# name: titanium
+# type: scalar
+2
+
+
+# name: tobacco
+# type: scalar
+2
+
+
+# name: toilet
+# type: scalar
+1
+
+
+# name: torso
+# type: scalar
+1
+
+
+# name: total
+# type: scalar
+1
+
+
+# name: touched
+# type: scalar
+1
+
+
+# name: traffic
+# type: scalar
+1
+
+
+# name: treasurer
+# type: scalar
+1
+
+
+# name: treatment
+# type: scalar
+1
+
+
+# name: treaty
+# type: scalar
+1
+
+
+# name: trembling
+# type: scalar
+1
+
+
+# name: tribes
+# type: scalar
+1
+
+
+# name: troubled
+# type: scalar
+1
+
+
+# name: truly
+# type: scalar
+1
+
+
+# name: trumpet
+# type: scalar
+1
+
+
+# name: tuna
+# type: scalar
+1
+
+
+# name: turkey
+# type: scalar
+1
+
+
+# name: turnip
+# type: scalar
+1
+
+
+# name: turnover
+# type: scalar
+1
+
+
+# name: twentieth
+# type: scalar
+1
+
+
+# name: typewriter
+# type: scalar
+1
+
+
+# name: typhoon
+# type: scalar
+2
+
+
+# name: uniform
+# type: scalar
+1
+
+
+# name: unknown
+# type: scalar
+2
+
+
+# name: unmarried
+# type: scalar
+2
+
+
+# name: uranium
+# type: scalar
+2
+
+
+# name: urged
+# type: scalar
+1
+
+
+# name: useful
+# type: scalar
+1
+
+
+# name: useless
+# type: scalar
+1
+
+
+# name: utmost
+# type: scalar
+1
+
+
+# name: uttered
+# type: scalar
+1
+
+
+# name: utter
+# type: scalar
+1
+
+
+# name: vacuum
+# type: scalar
+1
+
+
+# name: valley
+# type: scalar
+1
+
+
+# name: vanquish
+# type: scalar
+1
+
+
+# name: vapor
+# type: scalar
+1
+
+
+# name: variety
+# type: scalar
+2
+
+
+# name: vary
+# type: scalar
+1
+
+
+# name: vendor
+# type: scalar
+1
+
+
+# name: venom
+# type: scalar
+1
+
+
+# name: version
+# type: scalar
+1
+
+
+# name: vertical
+# type: scalar
+1
+
+
+# name: vessels
+# type: scalar
+1
+
+
+# name: victim
+# type: scalar
+1
+
+
+# name: victory
+# type: scalar
+1
+
+
+# name: vineyard
+# type: scalar
+1
+
+
+# name: vision
+# type: scalar
+1
+
+
+# name: visited
+# type: scalar
+1
+
+
+# name: vodka
+# type: scalar
+1
+
+
+# name: voices
+# type: scalar
+1
+
+
+# name: vomit
+# type: scalar
+1
+
+
+# name: wafer
+# type: scalar
+1
+
+
+# name: voyager
+# type: scalar
+1
+
+
+# name: waited
+# type: scalar
+1
+
+
+# name: waiter
+# type: scalar
+1
+
+
+# name: walking
+# type: scalar
+1
+
+
+# name: wallpaper
+# type: scalar
+1
+
+
+# name: walnut
+# type: scalar
+1
+
+
+# name: wander
+# type: scalar
+1
+
+
+# name: warning
+# type: scalar
+1
+
+
+# name: waters
+# type: scalar
+1
+
+
+# name: waves
+# type: scalar
+1
+
+
+# name: weakness
+# type: scalar
+1
+
+
+# name: weapon
+# type: scalar
+1
+
+
+# name: weary
+# type: scalar
+1
+
+
+# name: weasel
+# type: scalar
+1
+
+
+# name: weekday
+# type: scalar
+1
+
+
+# name: weekend
+# type: scalar
+1
+
+
+# name: weekly
+# type: scalar
+1
+
+
+# name: whispered
+# type: scalar
+1
+
+
+# name: wicked
+# type: scalar
+1
+
+
+# name: widow
+# type: scalar
+1
+
+
+# name: wildcat
+# type: scalar
+1
+
+
+# name: willing
+# type: scalar
+1
+
+
+# name: windows
+# type: scalar
+1
+
+
+# name: wireless
+# type: scalar
+1
+
+
+# name: wisdom
+# type: scalar
+1
+
+
+# name: wishes
+# type: scalar
+1
+
+
+# name: wondered
+# type: scalar
+1
+
+
+# name: wooden
+# type: scalar
+1
+
+
+# name: worker
+# type: scalar
+1
+
+
+# name: worship
+# type: scalar
+1
+
+
+# name: wounded
+# type: scalar
+1
+
+
+# name: wretched
+# type: scalar
+1
+
+
+# name: writer
+# type: scalar
+1
+
+
+# name: writers
+# type: scalar
+1
+
+
+# name: xenon
+# type: scalar
+1
+
+
+# name: yearly
+# type: scalar
+1
+
+
+# name: yellowish
+# type: scalar
+1
+
+
+# name: younger
+# type: scalar
+1
+
+
+# name: yummy
+# type: scalar
+1
+
+
+# name: zucchini
+# type: scalar
+2
+
+
+# name: arent
+# type: scalar
+1
+
+
+# name: everythings
+# type: scalar
+1
+
+
+# name: acknowledgment
+# type: scalar
+2
+
+
+# name: allegation
+# type: scalar
+3
+
+
+# name: amphibious
+# type: scalar
+2
+
+
+# name: angelica
+# type: scalar
+2
+
+
+# name: anthrax
+# type: scalar
+1
+
+
+# name: antibody
+# type: scalar
+1
+
+
+# name: aquatic
+# type: scalar
+2
+
+
+# name: arbiter
+# type: scalar
+1
+
+
+# name: arctic
+# type: scalar
+1
+
+
+# name: argent
+# type: scalar
+1
+
+
+# name: armour
+# type: scalar
+1
+
+
+# name: armrest
+# type: scalar
+1
+
+
+# name: ascend
+# type: scalar
+2
+
+
+# name: asparagus
+# type: scalar
+2
+
+
+# name: asphalt
+# type: scalar
+1
+
+
+# name: assess
+# type: scalar
+2
+
+
+# name: assign
+# type: scalar
+2
+
+
+# name: assignment
+# type: scalar
+2
+
+
+# name: astronomer
+# type: scalar
+2
+
+
+# name: attest
+# type: scalar
+2
+
+
+# name: audacity
+# type: scalar
+2
+
+
+# name: background
+# type: scalar
+1
+
+
+# name: banquet
+# type: scalar
+1
+
+
+# name: barley
+# type: scalar
+1
+
+
+# name: barrack
+# type: scalar
+1
+
+
+# name: basilica
+# type: scalar
+2
+
+
+# name: beggar
+# type: scalar
+1
+
+
+# name: bespectacled
+# type: scalar
+2
+
+
+# name: bikini
+# type: scalar
+2
+
+
+# name: birthmark
+# type: scalar
+1
+
+
+# name: blacken
+# type: scalar
+1
+
+
+# name: blender
+# type: scalar
+1
+
+
+# name: bloodstream
+# type: scalar
+1
+
+
+# name: blueprint
+# type: scalar
+1
+
+
+# name: bobcat
+# type: scalar
+1
+
+
+# name: border
+# type: scalar
+1
+
+
+# name: boring
+# type: scalar
+1
+
+
+# name: breadfruit
+# type: scalar
+1
+
+
+# name: breastfeed
+# type: scalar
+1
+
+
+# name: brothel
+# type: scalar
+1
+
+
+# name: buckwheat
+# type: scalar
+1
+
+
+# name: butcher
+# type: scalar
+1
+
+
+# name: buttercup
+# type: scalar
+1
+
+
+# name: buzzword
+# type: scalar
+1
+
+
+# name: cactus
+# type: scalar
+1
+
+
+# name: cahoots
+# type: scalar
+2
+
+
+# name: cannonball
+# type: scalar
+1
+
+
+# name: category
+# type: scalar
+1
+
+
+# name: cathedral
+# type: scalar
+2
+
+
+# name: cauldron
+# type: scalar
+1
+
+
+# name: caveman
+# type: scalar
+1
+
+
+# name: cedar
+# type: scalar
+1
+
+
+# name: census
+# type: scalar
+1
+
+
+# name: channel
+# type: scalar
+1
+
+
+# name: chemicals
+# type: scalar
+1
+
+
+# name: chemist
+# type: scalar
+1
+
+
+# name: cherish
+# type: scalar
+1
+
+
+# name: chimney
+# type: scalar
+1
+
+
+# name: chisel
+# type: scalar
+1
+
+
+# name: chopper
+# type: scalar
+1
+
+
+# name: cider
+# type: scalar
+1
+
+
+# name: circular
+# type: scalar
+1
+
+
+# name: circus
+# type: scalar
+1
+
+
+# name: cleanliness
+# type: scalar
+1
+
+
+# name: cobweb
+# type: scalar
+1
+
+
+# name: colonel
+# type: scalar
+1
+
+
+# name: combat
+# type: scalar
+1
+
+
+# name: comber
+# type: scalar
+1
+
+
+# name: commonly
+# type: scalar
+1
+
+
+# name: compassion
+# type: scalar
+2
+
+
+# name: competently
+# type: scalar
+1
+
+
+# name: complain
+# type: scalar
+2
+
+
+# name: confession
+# type: scalar
+2
+
+
+# name: conquer
+# type: scalar
+1
+
+
+# name: constrain
+# type: scalar
+2
+
+
+# name: contest
+# type: scalar
+1
+
+
+# name: contradictory
+# type: scalar
+3
+
+
+# name: corkscrew
+# type: scalar
+1
+
+
+# name: cormorant
+# type: scalar
+1
+
+
+# name: cornflower
+# type: scalar
+1
+
+
+# name: corridor
+# type: scalar
+1
+
+
+# name: craftsman
+# type: scalar
+1
+
+
+# name: custard
+# type: scalar
+1
+
+
+# name: cynic
+# type: scalar
+1
+
+
+# name: cypress
+# type: scalar
+1
+
+
+# name: daylight
+# type: scalar
+1
+
+
+# name: defend
+# type: scalar
+2
+
+
+# name: dentist
+# type: scalar
+1
+
+
+# name: deputy
+# type: scalar
+1
+
+
+# name: detain
+# type: scalar
+2
+
+
+# name: deter
+# type: scalar
+2
+
+
+# name: detest
+# type: scalar
+2
+
+
+# name: devour
+# type: scalar
+2
+
+
+# name: diary
+# type: scalar
+1
+
+
+# name: dilapidated
+# type: scalar
+2
+
+
+# name: dinghy
+# type: scalar
+1
+
+
+# name: disaster
+# type: scalar
+2
+
+
+# name: discus
+# type: scalar
+1
+
+
+# name: diseased
+# type: scalar
+2
+
+
+# name: doomsday
+# type: scalar
+1
+
+
+# name: drastic
+# type: scalar
+1
+
+
+# name: effortless
+# type: scalar
+1
+
+
+# name: embassy
+# type: scalar
+1
+
+
+# name: embroider
+# type: scalar
+2
+
+
+# name: eminent
+# type: scalar
+1
+
+
+# name: emphasis
+# type: scalar
+1
+
+
+# name: employ
+# type: scalar
+2
+
+
+# name: endless
+# type: scalar
+1
+
+
+# name: engineer
+# type: scalar
+1
+
+
+# name: entry
+# type: scalar
+1
+
+
+# name: estonian
+# type: scalar
+2
+
+
+# name: excursion
+# type: scalar
+2
+
+
+# name: exemplar
+# type: scalar
+2
+
+
+# name: expectation
+# type: scalar
+3
+
+
+# name: eyebrow
+# type: scalar
+1
+
+
+# name: fabric
+# type: scalar
+1
+
+
+# name: falsify
+# type: scalar
+1
+
+
+# name: fanatic
+# type: scalar
+2
+
+
+# name: fervor
+# type: scalar
+1
+
+
+# name: fingertip
+# type: scalar
+1
+
+
+# name: fisher
+# type: scalar
+1
+
+
+# name: fishing
+# type: scalar
+1
+
+
+# name: flapper
+# type: scalar
+1
+
+
+# name: flatter
+# type: scalar
+1
+
+
+# name: flutter
+# type: scalar
+1
+
+
+# name: foreground
+# type: scalar
+1
+
+
+# name: foreman
+# type: scalar
+1
+
+
+# name: forgery
+# type: scalar
+1
+
+
+# name: forthcoming
+# type: scalar
+1
+
+
+# name: forthwith
+# type: scalar
+1
+
+
+# name: foster
+# type: scalar
+1
+
+
+# name: furnish
+# type: scalar
+1
+
+
+# name: furrow
+# type: scalar
+1
+
+
+# name: gingerbread
+# type: scalar
+1
+
+
+# name: girlish
+# type: scalar
+1
+
+
+# name: gloomy
+# type: scalar
+1
+
+
+# name: goblin
+# type: scalar
+1
+
+
+# name: gorgeous
+# type: scalar
+1
+
+
+# name: gorilla
+# type: scalar
+2
+
+
+# name: graceful
+# type: scalar
+1
+
+
+# name: gradient
+# type: scalar
+1
+
+
+# name: graveyard
+# type: scalar
+1
+
+
+# name: gypsy
+# type: scalar
+1
+
+
+# name: hacksaw
+# type: scalar
+1
+
+
+# name: hairy
+# type: scalar
+1
+
+
+# name: handcuff
+# type: scalar
+1
+
+
+# name: handpicked
+# type: scalar
+1
+
+
+# name: handyman
+# type: scalar
+1
+
+
+# name: hangover
+# type: scalar
+1
+
+
+# name: happily
+# type: scalar
+1
+
+
+# name: hardback
+# type: scalar
+1
+
+
+# name: harvest
+# type: scalar
+1
+
+
+# name: haven
+# type: scalar
+1
+
+
+# name: hazard
+# type: scalar
+1
+
+
+# name: headhunter
+# type: scalar
+1
+
+
+# name: helix
+# type: scalar
+1
+
+
+# name: heresy
+# type: scalar
+1
+
+
+# name: heroin
+# type: scalar
+1
+
+
+# name: herring
+# type: scalar
+1
+
+
+# name: hickory
+# type: scalar
+1
+
+
+# name: highlight
+# type: scalar
+1
+
+
+# name: hijack
+# type: scalar
+1
+
+
+# name: holly
+# type: scalar
+1
+
+
+# name: hollyhock
+# type: scalar
+1
+
+
+# name: homeless
+# type: scalar
+1
+
+
+# name: honour
+# type: scalar
+1
+
+
+# name: horizon
+# type: scalar
+2
+
+
+# name: hunger
+# type: scalar
+1
+
+
+# name: implement
+# type: scalar
+1
+
+
+# name: inborn
+# type: scalar
+1
+
+
+# name: inception
+# type: scalar
+2
+
+
+# name: inhabitant
+# type: scalar
+2
+
+
+# name: injury
+# type: scalar
+1
+
+
+# name: insistently
+# type: scalar
+2
+
+
+# name: iris
+# type: scalar
+1
+
+
+# name: item
+# type: scalar
+1
+
+
+# name: ivy
+# type: scalar
+1
+
+
+# name: jealous
+# type: scalar
+1
+
+
+# name: lacy
+# type: scalar
+1
+
+
+# name: ladder
+# type: scalar
+1
+
+
+# name: lather
+# type: scalar
+1
+
+
+# name: lesson
+# type: scalar
+1
+
+
+# name: lettering
+# type: scalar
+1
+
+
+# name: linden
+# type: scalar
+1
+
+
+# name: lipstick
+# type: scalar
+1
+
+
+# name: locked
+# type: scalar
+1
+
+
+# name: mandatory
+# type: scalar
+1
+
+
+# name: manna
+# type: scalar
+1
+
+
+# name: manpower
+# type: scalar
+1
+
+
+# name: margin
+# type: scalar
+1
+
+
+# name: markup
+# type: scalar
+1
+
+
+# name: martyrdom
+# type: scalar
+1
+
+
+# name: meadow
+# type: scalar
+1
+
+
+# name: medfly
+# type: scalar
+1
+
+
+# name: medley
+# type: scalar
+1
+
+
+# name: mermaid
+# type: scalar
+1
+
+
+# name: miller
+# type: scalar
+1
+
+
+# name: minus
+# type: scalar
+1
+
+
+# name: moldy
+# type: scalar
+1
+
+
+# name: mourning
+# type: scalar
+1
+
+
+# name: mulberry
+# type: scalar
+1
+
+
+# name: murky
+# type: scalar
+1
+
+
+# name: mutton
+# type: scalar
+1
+
+
+# name: needless
+# type: scalar
+1
+
+
+# name: needy
+# type: scalar
+1
+
+
+# name: networking
+# type: scalar
+1
+
+
+# name: nightclub
+# type: scalar
+1
+
+
+# name: nightfall
+# type: scalar
+1
+
+
+# name: obvious
+# type: scalar
+1
+
+
+# name: odour
+# type: scalar
+1
+
+
+# name: optimism
+# type: scalar
+1
+
+
+# name: orphan
+# type: scalar
+1
+
+
+# name: overcoat
+# type: scalar
+1
+
+
+# name: oyster
+# type: scalar
+1
+
+
+# name: pacemaker
+# type: scalar
+1
+
+
+# name: painter
+# type: scalar
+1
+
+
+# name: panel
+# type: scalar
+1
+
+
+# name: paperback
+# type: scalar
+1
+
+
+# name: parish
+# type: scalar
+1
+
+
+# name: parsley
+# type: scalar
+1
+
+
+# name: passenger
+# type: scalar
+1
+
+
+# name: pastry
+# type: scalar
+1
+
+
+# name: peaceful
+# type: scalar
+1
+
+
+# name: peafowl
+# type: scalar
+1
+
+
+# name: peasant
+# type: scalar
+1
+
+
+# name: peninsula
+# type: scalar
+2
+
+
+# name: perish
+# type: scalar
+1
+
+
+# name: pharmacy
+# type: scalar
+1
+
+
+# name: pigsty
+# type: scalar
+1
+
+
+# name: pillar
+# type: scalar
+1
+
+
+# name: pillow
+# type: scalar
+1
+
+
+# name: piston
+# type: scalar
+1
+
+
+# name: playground
+# type: scalar
+1
+
+
+# name: politeness
+# type: scalar
+2
+
+
+# name: ponder
+# type: scalar
+1
+
+
+# name: poplar
+# type: scalar
+1
+
+
+# name: poppy
+# type: scalar
+1
+
+
+# name: portrait
+# type: scalar
+1
+
+
+# name: postcard
+# type: scalar
+1
+
+
+# name: poster
+# type: scalar
+1
+
+
+# name: postman
+# type: scalar
+1
+
+
+# name: potter
+# type: scalar
+1
+
+
+# name: predict
+# type: scalar
+2
+
+
+# name: primer
+# type: scalar
+1
+
+
+# name: proffer
+# type: scalar
+1
+
+
+# name: prohibit
+# type: scalar
+2
+
+
+# name: projecting
+# type: scalar
+2
+
+
+# name: proponent
+# type: scalar
+2
+
+
+# name: provision
+# type: scalar
+2
+
+
+# name: publisher
+# type: scalar
+1
+
+
+# name: pygmy
+# type: scalar
+1
+
+
+# name: rabbi
+# type: scalar
+1
+
+
+# name: raincoat
+# type: scalar
+1
+
+
+# name: raisin
+# type: scalar
+1
+
+
+# name: ratio
+# type: scalar
+1
+
+
+# name: rebel
+# type: scalar
+1
+
+
+# name: recorder
+# type: scalar
+2
+
+
+# name: regularly
+# type: scalar
+1
+
+
+# name: reject
+# type: scalar
+2
+
+
+# name: remotely
+# type: scalar
+2
+
+
+# name: rescind
+# type: scalar
+2
+
+
+# name: revolt
+# type: scalar
+2
+
+
+# name: rocket
+# type: scalar
+1
+
+
+# name: rudder
+# type: scalar
+1
+
+
+# name: ruler
+# type: scalar
+1
+
+
+# name: runway
+# type: scalar
+1
+
+
+# name: sailor
+# type: scalar
+1
+
+
+# name: salami
+# type: scalar
+2
+
+
+# name: sandpaper
+# type: scalar
+1
+
+
+# name: sandstorm
+# type: scalar
+1
+
+
+# name: satisfy
+# type: scalar
+1
+
+
+# name: scallop
+# type: scalar
+1
+
+
+# name: scapegoat
+# type: scalar
+1
+
+
+# name: scary
+# type: scalar
+1
+
+
+# name: seagull
+# type: scalar
+1
+
+
+# name: seatbelt
+# type: scalar
+1
+
+
+# name: secrecy
+# type: scalar
+1
+
+
+# name: securely
+# type: scalar
+2
+
+
+# name: selfless
+# type: scalar
+1
+
+
+# name: semen
+# type: scalar
+1
+
+
+# name: sergeant
+# type: scalar
+1
+
+
+# name: sewer
+# type: scalar
+1
+
+
+# name: sicilian
+# type: scalar
+2
+
+
+# name: skateboard
+# type: scalar
+1
+
+
+# name: skeptic
+# type: scalar
+1
+
+
+# name: skilled
+# type: scalar
+1
+
+
+# name: slanting
+# type: scalar
+1
+
+
+# name: sledgehammer
+# type: scalar
+1
+
+
+# name: slippery
+# type: scalar
+1
+
+
+# name: smokestack
+# type: scalar
+1
+
+
+# name: smoking
+# type: scalar
+1
+
+
+# name: sober
+# type: scalar
+1
+
+
+# name: southbound
+# type: scalar
+1
+
+
+# name: specialty
+# type: scalar
+1
+
+
+# name: spectator
+# type: scalar
+1
+
+
+# name: speedboat
+# type: scalar
+1
+
+
+# name: stadium
+# type: scalar
+1
+
+
+# name: starfish
+# type: scalar
+1
+
+
+# name: sticker
+# type: scalar
+1
+
+
+# name: stingy
+# type: scalar
+1
+
+
+# name: stockholder
+# type: scalar
+1
+
+
+# name: stoned
+# type: scalar
+1
+
+
+# name: straitjacket
+# type: scalar
+1
+
+
+# name: subset
+# type: scalar
+1
+
+
+# name: suggest
+# type: scalar
+2
+
+
+# name: sullen
+# type: scalar
+1
+
+
+# name: sunglasses
+# type: scalar
+1
+
+
+# name: sunny
+# type: scalar
+1
+
+
+# name: superstition
+# type: scalar
+3
+
+
+# name: suppress
+# type: scalar
+2
+
+
+# name: surfboard
+# type: scalar
+1
+
+
+# name: surgery
+# type: scalar
+1
+
+
+# name: sympathetic
+# type: scalar
+3
+
+
+# name: syrup
+# type: scalar
+1
+
+
+# name: tactic
+# type: scalar
+1
+
+
+# name: takeover
+# type: scalar
+1
+
+
+# name: talon
+# type: scalar
+1
+
+
+# name: tasty
+# type: scalar
+1
+
+
+# name: telegram
+# type: scalar
+1
+
+
+# name: temporary
+# type: scalar
+1
+
+
+# name: temptation
+# type: scalar
+2
+
+
+# name: timid
+# type: scalar
+1
+
+
+# name: testimony
+# type: scalar
+1
+
+
+# name: tether
+# type: scalar
+1
+
+
+# name: textbook
+# type: scalar
+1
+
+
+# name: threefold
+# type: scalar
+1
+
+
+# name: threshold
+# type: scalar
+1
+
+
+# name: tiddlywinks
+# type: scalar
+1
+
+
+# name: tiny
+# type: scalar
+1
+
+
+# name: toothbrush
+# type: scalar
+1
+
+
+# name: topic
+# type: scalar
+1
+
+
+# name: trachea
+# type: scalar
+1
+
+
+# name: tradition
+# type: scalar
+2
+
+
+# name: tragedy
+# type: scalar
+1
+
+
+# name: traitor
+# type: scalar
+1
+
+
+# name: tranquil
+# type: scalar
+1
+
+
+# name: trenchant
+# type: scalar
+1
+
+
+# name: tricky
+# type: scalar
+1
+
+
+# name: trivial
+# type: scalar
+1
+
+
+# name: tropical
+# type: scalar
+1
+
+
+# name: typesetting
+# type: scalar
+1
+
+
+# name: typo
+# type: scalar
+1
+
+
+# name: unbroken
+# type: scalar
+2
+
+
+# name: unfortunately
+# type: scalar
+2
+
+
+# name: unleaded
+# type: scalar
+2
+
+
+# name: unnecessary
+# type: scalar
+2
+
+
+# name: unsolicited
+# type: scalar
+3
+
+
+# name: utensil
+# type: scalar
+2
+
+
+# name: vanity
+# type: scalar
+1
+
+
+# name: velvet
+# type: scalar
+1
+
+
+# name: vinegar
+# type: scalar
+1
+
+
+# name: virgin
+# type: scalar
+1
+
+
+# name: wagon
+# type: scalar
+1
+
+
+# name: warlord
+# type: scalar
+1
+
+
+# name: wavelength
+# type: scalar
+1
+
+
+# name: welterweight
+# type: scalar
+1
+
+
+# name: wheelbarrow
+# type: scalar
+1
+
+
+# name: wheelchair
+# type: scalar
+1
+
+
+# name: whimper
+# type: scalar
+1
+
+
+# name: willingly
+# type: scalar
+1
+
+
+# name: windmill
+# type: scalar
+1
+
+
+# name: wormwood
+# type: scalar
+1
+
+
+# name: worthless
+# type: scalar
+1
+
+
+# name: yesteryear
+# type: scalar
+1
+
+
+# name: accompanied
+# type: scalar
+2
+
+
+# name: distributing
+# type: scalar
+2
+
+
+# name: friendship
+# type: scalar
+1
+
+
+# name: population
+# type: scalar
+3
+
+
+
+
+# name: negative_files
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 644
+# name: account
+# type: scalar
+1
+
+
+# name: addition
+# type: scalar
+1
+
+
+# name: admit
+# type: scalar
+1
+
+
+# name: adorn
+# type: scalar
+1
+
+
+# name: advertisement
+# type: scalar
+1
+
+
+# name: aesthetic
+# type: scalar
+3
+
+
+# name: affairs
+# type: scalar
+1
+
+
+# name: affirm
+# type: scalar
+1
+
+
+# name: afraid
+# type: scalar
+1
+
+
+# name: aftermath
+# type: scalar
+2
+
+
+# name: afternoon
+# type: scalar
+1
+
+
+# name: ago
+# type: scalar
+1
+
+
+# name: agog
+# type: scalar
+1
+
+
+# name: agreement
+# type: scalar
+1
+
+
+# name: allowed
+# type: scalar
+1
+
+
+# name: along
+# type: scalar
+1
+
+
+# name: already
+# type: scalar
+1
+
+
+# name: alright
+# type: scalar
+1
+
+
+# name: although
+# type: scalar
+1
+
+
+# name: altogether
+# type: scalar
+1
+
+
+# name: amorphous
+# type: scalar
+1
+
+
+# name: anachronistic
+# type: scalar
+1
+
+
+# name: anaerobic
+# type: scalar
+1
+
+
+# name: anarchic
+# type: scalar
+1
+
+
+# name: anathema
+# type: scalar
+1
+
+
+# name: anemometer
+# type: scalar
+1
+
+
+# name: annoyed
+# type: scalar
+1
+
+
+# name: antidisestablishmentarianism
+# type: scalar
+5
+
+
+# name: anyway
+# type: scalar
+2
+
+
+# name: apparatus
+# type: scalar
+1
+
+
+# name: apropos
+# type: scalar
+1
+
+
+# name: around
+# type: scalar
+1
+
+
+# name: arrived
+# type: scalar
+1
+
+
+# name: articulation
+# type: scalar
+1
+
+
+# name: ascertain
+# type: scalar
+1
+
+
+# name: astronomical
+# type: scalar
+1
+
+
+# name: attack
+# type: scalar
+1
+
+
+# name: attain
+# type: scalar
+1
+
+
+# name: attracts
+# type: scalar
+1
+
+
+# name: augment
+# type: scalar
+1
+
+
+# name: autobiography
+# type: scalar
+1
+
+
+# name: automatic
+# type: scalar
+1
+
+
+# name: autonomy
+# type: scalar
+1
+
+
+# name: balloon
+# type: scalar
+1
+
+
+# name: barbarian
+# type: scalar
+1
+
+
+# name: barometer
+# type: scalar
+1
+
+
+# name: batik
+# type: scalar
+1
+
+
+# name: began
+# type: scalar
+1
+
+
+# name: begin
+# type: scalar
+1
+
+
+# name: behemoth
+# type: scalar
+1
+
+
+# name: behind
+# type: scalar
+1
+
+
+# name: bereft
+# type: scalar
+1
+
+
+# name: biennial
+# type: scalar
+1
+
+
+# name: bonanza
+# type: scalar
+1
+
+
+# name: bonsai
+# type: scalar
+1
+
+
+# name: buffoon
+# type: scalar
+1
+
+
+# name: canopy
+# type: scalar
+2
+
+
+# name: careen
+# type: scalar
+1
+
+
+# name: carrot
+# type: scalar
+2
+
+
+# name: celerity
+# type: scalar
+1
+
+
+# name: circuitous
+# type: scalar
+3
+
+
+# name: coincident
+# type: scalar
+1
+
+
+# name: colorization
+# type: scalar
+1
+
+
+# name: command
+# type: scalar
+1
+
+
+# name: competition
+# type: scalar
+1
+
+
+# name: compress
+# type: scalar
+2
+
+
+# name: conflagration
+# type: scalar
+2
+
+
+# name: conflict
+# type: scalar
+2
+
+
+# name: conscientious
+# type: scalar
+1
+
+
+# name: consistency
+# type: scalar
+1
+
+
+# name: consternation
+# type: scalar
+1
+
+
+# name: contract
+# type: scalar
+2
+
+
+# name: conversation
+# type: scalar
+1
+
+
+# name: convert
+# type: scalar
+2
+
+
+# name: convict
+# type: scalar
+2
+
+
+# name: cosmetic
+# type: scalar
+1
+
+
+# name: cosmopolitan
+# type: scalar
+1
+
+
+# name: curious
+# type: scalar
+2
+
+
+# name: curtail
+# type: scalar
+1
+
+
+# name: debut
+# type: scalar
+1
+
+
+# name: declared
+# type: scalar
+1
+
+
+# name: decor
+# type: scalar
+1
+
+
+# name: decoy
+# type: scalar
+1
+
+
+# name: deduction
+# type: scalar
+1
+
+
+# name: delight
+# type: scalar
+1
+
+
+# name: derail
+# type: scalar
+1
+
+
+# name: descend
+# type: scalar
+1
+
+
+# name: desert
+# type: scalar
+2
+
+
+# name: design
+# type: scalar
+1
+
+
+# name: detail
+# type: scalar
+1
+
+
+# name: devoid
+# type: scalar
+1
+
+
+# name: digest
+# type: scalar
+1
+
+
+# name: digestion
+# type: scalar
+1
+
+
+# name: dilemma
+# type: scalar
+1
+
+
+# name: diplomatic
+# type: scalar
+1
+
+
+# name: directly
+# type: scalar
+1
+
+
+# name: disagreement
+# type: scalar
+1
+
+
+# name: disavow
+# type: scalar
+1
+
+
+# name: discerned
+# type: scalar
+1
+
+
+# name: disconcerting
+# type: scalar
+1
+
+
+# name: discontinued
+# type: scalar
+1
+
+
+# name: disembark
+# type: scalar
+1
+
+
+# name: disquiet
+# type: scalar
+1
+
+
+# name: distribution
+# type: scalar
+1
+
+
+# name: divert
+# type: scalar
+1
+
+
+# name: division
+# type: scalar
+1
+
+
+# name: domain
+# type: scalar
+1
+
+
+# name: draconian
+# type: scalar
+3
+
+
+# name: ductility
+# type: scalar
+1
+
+
+# name: dynamic
+# type: scalar
+1
+
+
+# name: education
+# type: scalar
+1
+
+
+# name: elastomers
+# type: scalar
+1
+
+
+# name: elated
+# type: scalar
+1
+
+
+# name: electronic
+# type: scalar
+1
+
+
+# name: elicit
+# type: scalar
+1
+
+
+# name: eliciting
+# type: scalar
+1
+
+
+# name: embarrass
+# type: scalar
+1
+
+
+# name: embroil
+# type: scalar
+1
+
+
+# name: encompass
+# type: scalar
+1
+
+
+# name: ennui
+# type: scalar
+1
+
+
+# name: enough
+# type: scalar
+1
+
+
+# name: environmentally
+# type: scalar
+3
+
+
+# name: equatorial
+# type: scalar
+4
+
+
+# name: espalier
+# type: scalar
+1
+
+
+# name: ethereal
+# type: scalar
+3
+
+
+# name: ethnicity
+# type: scalar
+1
+
+
+# name: euthanasia
+# type: scalar
+1
+
+
+# name: event
+# type: scalar
+1
+
+
+# name: everybody
+# type: scalar
+2
+
+
+# name: exclaimed
+# type: scalar
+1
+
+
+# name: excruciating
+# type: scalar
+3
+
+
+# name: expedient
+# type: scalar
+3
+
+
+# name: express
+# type: scalar
+1
+
+
+# name: expression
+# type: scalar
+1
+
+
+# name: facility
+# type: scalar
+1
+
+
+# name: fastidious
+# type: scalar
+1
+
+
+# name: fermata
+# type: scalar
+1
+
+
+# name: flexibility
+# type: scalar
+1
+
+
+# name: foreseen
+# type: scalar
+1
+
+
+# name: foretold
+# type: scalar
+1
+
+
+# name: forever
+# type: scalar
+1
+
+
+# name: forget
+# type: scalar
+1
+
+
+# name: freely
+# type: scalar
+2
+
+
+# name: functionality
+# type: scalar
+1
+
+
+# name: geronimo
+# type: scalar
+1
+
+
+# name: gobbledygook
+# type: scalar
+1
+
+
+# name: haphazard
+# type: scalar
+1
+
+
+# name: hedonism
+# type: scalar
+2
+
+
+# name: hello
+# type: scalar
+1
+
+
+# name: herself
+# type: scalar
+1
+
+
+# name: hiatus
+# type: scalar
+1
+
+
+# name: hospitality
+# type: scalar
+4
+
+
+# name: hullabaloo
+# type: scalar
+2
+
+
+# name: hypotheses
+# type: scalar
+1
+
+
+# name: iconoclast
+# type: scalar
+1
+
+
+# name: idyllic
+# type: scalar
+1
+
+
+# name: ignominious
+# type: scalar
+1
+
+
+# name: impediment
+# type: scalar
+3
+
+
+# name: implementation
+# type: scalar
+2
+
+
+# name: impugn
+# type: scalar
+1
+
+
+# name: inasmuch
+# type: scalar
+1
+
+
+# name: indeed
+# type: scalar
+1
+
+
+# name: individual
+# type: scalar
+1
+
+
+# name: inexorably
+# type: scalar
+1
+
+
+# name: initial
+# type: scalar
+1
+
+
+# name: inquiry
+# type: scalar
+1
+
+
+# name: inspect
+# type: scalar
+1
+
+
+# name: instrumental
+# type: scalar
+1
+
+
+# name: intact
+# type: scalar
+1
+
+
+# name: intended
+# type: scalar
+1
+
+
+# name: interaction
+# type: scalar
+2
+
+
+# name: interbred
+# type: scalar
+2
+
+
+# name: intermittent
+# type: scalar
+1
+
+
+# name: interrogation
+# type: scalar
+2
+
+
+# name: interrupt
+# type: scalar
+1
+
+
+# name: interrupting
+# type: scalar
+2
+
+
+# name: interruption
+# type: scalar
+2
+
+
+# name: intransigent
+# type: scalar
+1
+
+
+# name: intrusion
+# type: scalar
+1
+
+
+# name: iota
+# type: scalar
+1
+
+
+# name: itself
+# type: scalar
+1
+
+
+# name: july
+# type: scalar
+1
+
+
+# name: juxtaposed
+# type: scalar
+1
+
+
+# name: legerdemain
+# type: scalar
+3
+
+
+# name: liaison
+# type: scalar
+1
+
+
+# name: lieutenant
+# type: scalar
+1
+
+
+# name: loquacious
+# type: scalar
+1
+
+
+# name: lugubrious
+# type: scalar
+1
+
+
+# name: macroeconomics
+# type: scalar
+1
+
+
+# name: malfunction
+# type: scalar
+1
+
+
+# name: malign
+# type: scalar
+1
+
+
+# name: malignant
+# type: scalar
+1
+
+
+# name: mentality
+# type: scalar
+3
+
+
+# name: miasma
+# type: scalar
+1
+
+
+# name: miniaturization
+# type: scalar
+4
+
+
+# name: ministerial
+# type: scalar
+1
+
+
+# name: minuet
+# type: scalar
+1
+
+
+# name: misbehavior
+# type: scalar
+1
+
+
+# name: miscellaneous
+# type: scalar
+1
+
+
+# name: misunderstood
+# type: scalar
+1
+
+
+# name: motif
+# type: scalar
+1
+
+
+# name: motivational
+# type: scalar
+1
+
+
+# name: myself
+# type: scalar
+1
+
+
+# name: narrator
+# type: scalar
+2
+
+
+# name: naysayer
+# type: scalar
+1
+
+
+# name: nirvana
+# type: scalar
+1
+
+
+# name: nonessential
+# type: scalar
+1
+
+
+# name: nugatory
+# type: scalar
+2
+
+
+# name: obliged
+# type: scalar
+1
+
+
+# name: obsequious
+# type: scalar
+1
+
+
+# name: observation
+# type: scalar
+1
+
+
+# name: obstreperous
+# type: scalar
+3
+
+
+# name: obtain
+# type: scalar
+1
+
+
+# name: obtained
+# type: scalar
+1
+
+
+# name: okay
+# type: scalar
+1
+
+
+# name: omnipresent
+# type: scalar
+1
+
+
+# name: oncologists
+# type: scalar
+3
+
+
+# name: operation
+# type: scalar
+1
+
+
+# name: opportunities
+# type: scalar
+1
+
+
+# name: opportunity
+# type: scalar
+1
+
+
+# name: organisation
+# type: scalar
+1
+
+
+# name: orthogonal
+# type: scalar
+3
+
+
+# name: ourselves
+# type: scalar
+1
+
+
+# name: outlandish
+# type: scalar
+1
+
+
+# name: overdid
+# type: scalar
+2
+
+
+# name: overhung
+# type: scalar
+1
+
+
+# name: overstatement
+# type: scalar
+3
+
+
+# name: overwinter
+# type: scalar
+1
+
+
+# name: oxymoron
+# type: scalar
+1
+
+
+# name: panama
+# type: scalar
+2
+
+
+# name: paradoxically
+# type: scalar
+1
+
+
+# name: parallel
+# type: scalar
+2
+
+
+# name: paraphernalia
+# type: scalar
+1
+
+
+# name: participating
+# type: scalar
+1
+
+
+# name: particular
+# type: scalar
+1
+
+
+# name: perhaps
+# type: scalar
+1
+
+
+# name: phantasmagoria
+# type: scalar
+1
+
+
+# name: philadelphia
+# type: scalar
+1
+
+
+# name: philanderer
+# type: scalar
+1
+
+
+# name: philatelist
+# type: scalar
+1
+
+
+# name: pizzazz
+# type: scalar
+1
+
+
+# name: polemic
+# type: scalar
+1
+
+
+# name: polygamy
+# type: scalar
+1
+
+
+# name: polygonal
+# type: scalar
+1
+
+
+# name: pontoon
+# type: scalar
+1
+
+
+# name: position
+# type: scalar
+1
+
+
+# name: possess
+# type: scalar
+1
+
+
+# name: pragmatic
+# type: scalar
+1
+
+
+# name: prefer
+# type: scalar
+1
+
+
+# name: preoccupied
+# type: scalar
+1
+
+
+# name: preoccupy
+# type: scalar
+1
+
+
+# name: present
+# type: scalar
+2
+
+
+# name: prevail
+# type: scalar
+1
+
+
+# name: prevent
+# type: scalar
+1
+
+
+# name: proceeds
+# type: scalar
+1
+
+
+# name: proclivity
+# type: scalar
+3
+
+
+# name: procrastination
+# type: scalar
+2
+
+
+# name: productivity
+# type: scalar
+1
+
+
+# name: profusely
+# type: scalar
+1
+
+
+# name: progress
+# type: scalar
+2
+
+
+# name: pronunciation
+# type: scalar
+1
+
+
+# name: propensity
+# type: scalar
+1
+
+
+# name: rambunctious
+# type: scalar
+1
+
+
+# name: reaction
+# type: scalar
+1
+
+
+# name: receipt
+# type: scalar
+1
+
+
+# name: reconnoiter
+# type: scalar
+1
+
+
+# name: reflection
+# type: scalar
+1
+
+
+# name: refused
+# type: scalar
+1
+
+
+# name: regarded
+# type: scalar
+1
+
+
+# name: registration
+# type: scalar
+1
+
+
+# name: regret
+# type: scalar
+1
+
+
+# name: rehash
+# type: scalar
+1
+
+
+# name: relax
+# type: scalar
+1
+
+
+# name: relation
+# type: scalar
+1
+
+
+# name: reinterpret
+# type: scalar
+2
+
+
+# name: religion
+# type: scalar
+1
+
+
+# name: remain
+# type: scalar
+1
+
+
+# name: remained
+# type: scalar
+1
+
+
+# name: remiss
+# type: scalar
+1
+
+
+# name: repeated
+# type: scalar
+1
+
+
+# name: replenish
+# type: scalar
+1
+
+
+# name: report
+# type: scalar
+1
+
+
+# name: request
+# type: scalar
+1
+
+
+# name: resolution
+# type: scalar
+1
+
+
+# name: return
+# type: scalar
+1
+
+
+# name: returned
+# type: scalar
+1
+
+
+# name: revamp
+# type: scalar
+1
+
+
+# name: reward
+# type: scalar
+1
+
+
+# name: rework
+# type: scalar
+1
+
+
+# name: rhinoceros
+# type: scalar
+1
+
+
+# name: rudiments
+# type: scalar
+2
+
+
+# name: saloon
+# type: scalar
+1
+
+
+# name: sanitation
+# type: scalar
+1
+
+
+# name: satisfactory
+# type: scalar
+1
+
+
+# name: scientific
+# type: scalar
+1
+
+
+# name: scooter
+# type: scalar
+2
+
+
+# name: selection
+# type: scalar
+1
+
+
+# name: semiannual
+# type: scalar
+2
+
+
+# name: serendipity
+# type: scalar
+1
+
+
+# name: serenity
+# type: scalar
+1
+
+
+# name: serious
+# type: scalar
+2
+
+
+# name: situation
+# type: scalar
+2
+
+
+# name: smithereens
+# type: scalar
+2
+
+
+# name: sometimes
+# type: scalar
+1
+
+
+# name: sporadic
+# type: scalar
+1
+
+
+# name: squeamish
+# type: scalar
+2
+
+
+# name: stochastic
+# type: scalar
+1
+
+
+# name: studious
+# type: scalar
+2
+
+
+# name: succeeded
+# type: scalar
+3
+
+
+# name: superfluous
+# type: scalar
+2
+
+
+# name: surreptitiously
+# type: scalar
+1
+
+
+# name: teenager
+# type: scalar
+2
+
+
+# name: terribly
+# type: scalar
+2
+
+
+# name: themselves
+# type: scalar
+1
+
+
+# name: thenceforth
+# type: scalar
+1
+
+
+# name: throughout
+# type: scalar
+1
+
+
+# name: toward
+# type: scalar
+1
+
+
+# name: towards
+# type: scalar
+1
+
+
+# name: transaction
+# type: scalar
+1
+
+
+# name: transfix
+# type: scalar
+1
+
+
+# name: trepidation
+# type: scalar
+1
+
+
+# name: unabashed
+# type: scalar
+2
+
+
+# name: uncanny
+# type: scalar
+1
+
+
+# name: underfoot
+# type: scalar
+2
+
+
+# name: understand
+# type: scalar
+1
+
+
+# name: understood
+# type: scalar
+1
+
+
+# name: unfettered
+# type: scalar
+1
+
+
+# name: unflagging
+# type: scalar
+1
+
+
+# name: unhurried
+# type: scalar
+1
+
+
+# name: unless
+# type: scalar
+1
+
+
+# name: unprecedented
+# type: scalar
+1
+
+
+# name: unprincipled
+# type: scalar
+1
+
+
+# name: unrequited
+# type: scalar
+1
+
+
+# name: unrest
+# type: scalar
+1
+
+
+# name: unsavory
+# type: scalar
+1
+
+
+# name: unscathed
+# type: scalar
+1
+
+
+# name: unspoken
+# type: scalar
+1
+
+
+# name: unswerving
+# type: scalar
+1
+
+
+# name: untried
+# type: scalar
+1
+
+
+# name: upset
+# type: scalar
+1
+
+
+# name: upstairs
+# type: scalar
+1
+
+
+# name: upswing
+# type: scalar
+1
+
+
+# name: usually
+# type: scalar
+2
+
+
+# name: vicarious
+# type: scalar
+1
+
+
+# name: vociferously
+# type: scalar
+1
+
+
+# name: volcanologist
+# type: scalar
+1
+
+
+# name: voracious
+# type: scalar
+1
+
+
+# name: water
+# type: scalar
+2
+
+
+# name: whatever
+# type: scalar
+1
+
+
+# name: whatsoever
+# type: scalar
+1
+
+
+# name: whosoever
+# type: scalar
+2
+
+
+# name: withdraw
+# type: scalar
+1
+
+
+# name: withdrawn
+# type: scalar
+1
+
+
+# name: without
+# type: scalar
+1
+
+
+# name: withstand
+# type: scalar
+1
+
+
+# name: yourself
+# type: scalar
+1
+
+
+# name: ziggurat
+# type: scalar
+2
+
+
+# name: abash
+# type: scalar
+1
+
+
+# name: abdomen
+# type: scalar
+1
+
+
+# name: abdominal
+# type: scalar
+3
+
+
+# name: aberration
+# type: scalar
+2
+
+
+# name: abnormal
+# type: scalar
+1
+
+
+# name: abort
+# type: scalar
+1
+
+
+# name: abound
+# type: scalar
+1
+
+
+# name: abroad
+# type: scalar
+1
+
+
+# name: absolutism
+# type: scalar
+3
+
+
+# name: acceleration
+# type: scalar
+3
+
+
+# name: accelerator
+# type: scalar
+3
+
+
+# name: accidental
+# type: scalar
+1
+
+
+# name: accompany
+# type: scalar
+3
+
+
+# name: accounts
+# type: scalar
+1
+
+
+# name: accumulation
+# type: scalar
+3
+
+
+# name: activity
+# type: scalar
+3
+
+
+# name: address
+# type: scalar
+2
+
+
+# name: admiration
+# type: scalar
+2
+
+
+# name: adopted
+# type: scalar
+1
+
+
+# name: affirmation
+# type: scalar
+1
+
+
+# name: alarm
+# type: scalar
+1
+
+
+# name: alas
+# type: scalar
+1
+
+
+# name: aloud
+# type: scalar
+1
+
+
+# name: anaconda
+# type: scalar
+1
+
+
+# name: anchovy
+# type: scalar
+1
+
+
+# name: anniversary
+# type: scalar
+1
+
+
+# name: announced
+# type: scalar
+1
+
+
+# name: announcement
+# type: scalar
+1
+
+
+# name: anterior
+# type: scalar
+1
+
+
+# name: archaeology
+# type: scalar
+2
+
+
+# name: area
+# type: scalar
+2
+
+
+# name: arranged
+# type: scalar
+1
+
+
+# name: array
+# type: scalar
+1
+
+
+# name: artificial
+# type: scalar
+1
+
+
+# name: begun
+# type: scalar
+1
+
+
+# name: atheism
+# type: scalar
+1
+
+
+# name: autonomous
+# type: scalar
+3
+
+
+# name: avocado
+# type: scalar
+1
+
+
+# name: avoid
+# type: scalar
+1
+
+
+# name: await
+# type: scalar
+1
+
+
+# name: award
+# type: scalar
+1
+
+
+# name: bacterium
+# type: scalar
+3
+
+
+# name: bellboy
+# type: scalar
+2
+
+
+# name: belonged
+# type: scalar
+1
+
+
+# name: belong
+# type: scalar
+1
+
+
+# name: belonging
+# type: scalar
+1
+
+
+# name: bimonthly
+# type: scalar
+1
+
+
+# name: biweekly
+# type: scalar
+1
+
+
+# name: bulgarian
+# type: scalar
+1
+
+
+# name: carrying
+# type: scalar
+2
+
+
+# name: campaign
+# type: scalar
+1
+
+
+# name: cardoon
+# type: scalar
+1
+
+
+# name: career
+# type: scalar
+1
+
+
+# name: carnation
+# type: scalar
+1
+
+
+# name: cement
+# type: scalar
+1
+
+
+# name: characteristic
+# type: scalar
+1
+
+
+# name: citizens
+# type: scalar
+2
+
+
+# name: civilization
+# type: scalar
+3
+
+
+# name: collected
+# type: scalar
+1
+
+
+# name: collection
+# type: scalar
+1
+
+
+# name: colon
+# type: scalar
+2
+
+
+# name: comply
+# type: scalar
+1
+
+
+# name: computer
+# type: scalar
+3
+
+
+# name: concluded
+# type: scalar
+3
+
+
+# name: confusion
+# type: scalar
+1
+
+
+# name: connected
+# type: scalar
+1
+
+
+# name: demand
+# type: scalar
+1
+
+
+# name: constitution
+# type: scalar
+1
+
+
+# name: continually
+# type: scalar
+4
+
+
+# name: corporation
+# type: scalar
+1
+
+
+# name: curiosity
+# type: scalar
+1
+
+
+# name: delay
+# type: scalar
+1
+
+
+# name: delighted
+# type: scalar
+1
+
+
+# name: deny
+# type: scalar
+1
+
+
+# name: derived
+# type: scalar
+1
+
+
+# name: details
+# type: scalar
+1
+
+
+# name: developed
+# type: scalar
+1
+
+
+# name: develop
+# type: scalar
+1
+
+
+# name: devotion
+# type: scalar
+1
+
+
+# name: dictator
+# type: scalar
+1
+
+
+# name: dimension
+# type: scalar
+1
+
+
+# name: directed
+# type: scalar
+1
+
+
+# name: direct
+# type: scalar
+1
+
+
+# name: discuss
+# type: scalar
+1
+
+
+# name: distress
+# type: scalar
+1
+
+
+# name: diurnal
+# type: scalar
+1
+
+
+# name: divided
+# type: scalar
+1
+
+
+# name: eager
+# type: scalar
+2
+
+
+# name: economics
+# type: scalar
+2
+
+
+# name: economy
+# type: scalar
+3
+
+
+# name: edition
+# type: scalar
+1
+
+
+# name: editions
+# type: scalar
+1
+
+
+# name: eighteenth
+# type: scalar
+1
+
+
+# name: electricity
+# type: scalar
+1
+
+
+# name: electron
+# type: scalar
+1
+
+
+# name: electronically
+# type: scalar
+2
+
+
+# name: element
+# type: scalar
+2
+
+
+# name: email
+# type: scalar
+1
+
+
+# name: enchant
+# type: scalar
+1
+
+
+# name: encyclopaedia
+# type: scalar
+3
+
+
+# name: encyclopedia
+# type: scalar
+3
+
+
+# name: enigma
+# type: scalar
+1
+
+
+# name: entertain
+# type: scalar
+1
+
+
+# name: enthusiasm
+# type: scalar
+3
+
+
+# name: essay
+# type: scalar
+1
+
+
+# name: evolution
+# type: scalar
+1
+
+
+# name: examination
+# type: scalar
+2
+
+
+# name: execution
+# type: scalar
+1
+
+
+# name: experienced
+# type: scalar
+3
+
+
+# name: exploit
+# type: scalar
+2
+
+
+# name: federation
+# type: scalar
+1
+
+
+# name: forbid
+# type: scalar
+1
+
+
+# name: foretell
+# type: scalar
+1
+
+
+# name: imagination
+# type: scalar
+2
+
+
+# name: generation
+# type: scalar
+1
+
+
+# name: generations
+# type: scalar
+1
+
+
+# name: gravitation
+# type: scalar
+1
+
+
+# name: highly
+# type: scalar
+2
+
+
+# name: homosexuality
+# type: scalar
+1
+
+
+# name: honeymoon
+# type: scalar
+2
+
+
+# name: horizontal
+# type: scalar
+1
+
+
+# name: icelandic
+# type: scalar
+1
+
+
+# name: imagined
+# type: scalar
+1
+
+
+# name: inclined
+# type: scalar
+1
+
+
+# name: increased
+# type: scalar
+1
+
+
+# name: increasing
+# type: scalar
+1
+
+
+# name: independent
+# type: scalar
+2
+
+
+# name: indonesian
+# type: scalar
+2
+
+
+# name: innocent
+# type: scalar
+2
+
+
+# name: insisted
+# type: scalar
+1
+
+
+# name: intellectual
+# type: scalar
+1
+
+
+# name: intention
+# type: scalar
+1
+
+
+# name: interjection
+# type: scalar
+1
+
+
+# name: interrupted
+# type: scalar
+1
+
+
+# name: interview
+# type: scalar
+2
+
+
+# name: itinerary
+# type: scalar
+3
+
+
+# name: leading
+# type: scalar
+2
+
+
+# name: limitation
+# type: scalar
+2
+
+
+# name: location
+# type: scalar
+1
+
+
+# name: magnificent
+# type: scalar
+1
+
+
+# name: maintained
+# type: scalar
+1
+
+
+# name: maintain
+# type: scalar
+1
+
+
+# name: materials
+# type: scalar
+3
+
+
+# name: mathematics
+# type: scalar
+1
+
+
+# name: mechanical
+# type: scalar
+1
+
+
+# name: mechanic
+# type: scalar
+1
+
+
+# name: misheard
+# type: scalar
+1
+
+
+# name: mislead
+# type: scalar
+1
+
+
+# name: adolescent
+# type: scalar
+1
+
+
+# name: muffler
+# type: scalar
+2
+
+
+# name: mustard
+# type: scalar
+2
+
+
+# name: mysterious
+# type: scalar
+3
+
+
+# name: necessarily
+# type: scalar
+1
+
+
+# name: nonalcoholic
+# type: scalar
+1
+
+
+# name: norwegian
+# type: scalar
+1
+
+
+# name: noted
+# type: scalar
+2
+
+
+# name: obey
+# type: scalar
+1
+
+
+# name: occasionally
+# type: scalar
+3
+
+
+# name: occupation
+# type: scalar
+1
+
+
+# name: opposition
+# type: scalar
+1
+
+
+# name: outstanding
+# type: scalar
+1
+
+
+# name: performed
+# type: scalar
+1
+
+
+# name: permitted
+# type: scalar
+1
+
+
+# name: potassium
+# type: scalar
+1
+
+
+# name: relations
+# type: scalar
+1
+
+
+# name: preaching
+# type: scalar
+2
+
+
+# name: preceded
+# type: scalar
+3
+
+
+# name: relief
+# type: scalar
+1
+
+
+# name: profession
+# type: scalar
+1
+
+
+# name: profound
+# type: scalar
+1
+
+
+# name: propaganda
+# type: scalar
+1
+
+
+# name: prostitution
+# type: scalar
+1
+
+
+# name: protection
+# type: scalar
+1
+
+
+# name: quotation
+# type: scalar
+1
+
+
+# name: raven
+# type: scalar
+2
+
+
+# name: reality
+# type: scalar
+1
+
+
+# name: realized
+# type: scalar
+2
+
+
+# name: recovered
+# type: scalar
+1
+
+
+# name: albeit
+# type: scalar
+1
+
+
+# name: refrigerator
+# type: scalar
+1
+
+
+# name: related
+# type: scalar
+1
+
+
+# name: satisfaction
+# type: scalar
+1
+
+
+# name: remains
+# type: scalar
+1
+
+
+# name: remarked
+# type: scalar
+1
+
+
+# name: remark
+# type: scalar
+1
+
+
+# name: remarks
+# type: scalar
+1
+
+
+# name: replacement
+# type: scalar
+1
+
+
+# name: reports
+# type: scalar
+1
+
+
+# name: represented
+# type: scalar
+1
+
+
+# name: reputation
+# type: scalar
+1
+
+
+# name: results
+# type: scalar
+1
+
+
+# name: returning
+# type: scalar
+1
+
+
+# name: scandinavian
+# type: scalar
+1
+
+
+# name: security
+# type: scalar
+3
+
+
+# name: selected
+# type: scalar
+1
+
+
+# name: sixteenth
+# type: scalar
+1
+
+
+# name: slavery
+# type: scalar
+2
+
+
+# name: superior
+# type: scalar
+3
+
+
+# name: supernatural
+# type: scalar
+2
+
+
+# name: supply
+# type: scalar
+1
+
+
+# name: supported
+# type: scalar
+1
+
+
+# name: surrounded
+# type: scalar
+1
+
+
+# name: thereof
+# type: scalar
+1
+
+
+# name: transformation
+# type: scalar
+1
+
+
+# name: transform
+# type: scalar
+1
+
+
+# name: unhappy
+# type: scalar
+1
+
+
+# name: universal
+# type: scalar
+2
+
+
+# name: university
+# type: scalar
+2
+
+
+# name: unusual
+# type: scalar
+1
+
+
+# name: uterus
+# type: scalar
+2
+
+
+# name: utterly
+# type: scalar
+2
+
+
+# name: vacation
+# type: scalar
+1
+
+
+# name: vagina
+# type: scalar
+1
+
+
+# name: velocity
+# type: scalar
+1
+
+
+# name: vertebra
+# type: scalar
+2
+
+
+# name: violin
+# type: scalar
+1
+
+
+# name: volunteers
+# type: scalar
+1
+
+
+# name: whenever
+# type: scalar
+1
+
+
+# name: whereas
+# type: scalar
+1
+
+
+# name: alphabetic
+# type: scalar
+1
+
+
+# name: anonymity
+# type: scalar
+1
+
+
+# name: appendicitis
+# type: scalar
+2
+
+
+# name: archaeological
+# type: scalar
+3
+
+
+# name: arithmetic
+# type: scalar
+2
+
+
+# name: aromatic
+# type: scalar
+2
+
+
+# name: authoritarian
+# type: scalar
+3
+
+
+# name: bazaar
+# type: scalar
+1
+
+
+# name: cartoon
+# type: scalar
+1
+
+
+# name: cholera
+# type: scalar
+2
+
+
+# name: cinema
+# type: scalar
+2
+
+
+# name: comfy
+# type: scalar
+2
+
+
+# name: commend
+# type: scalar
+1
+
+
+# name: composition
+# type: scalar
+1
+
+
+# name: critic
+# type: scalar
+2
+
+
+# name: decoration
+# type: scalar
+2
+
+
+# name: diarrhea
+# type: scalar
+1
+
+
+# name: discount
+# type: scalar
+1
+
+
+# name: dishwashing
+# type: scalar
+2
+
+
+# name: disrupt
+# type: scalar
+1
+
+
+# name: egress
+# type: scalar
+1
+
+
+# name: erupt
+# type: scalar
+1
+
+
+# name: foundation
+# type: scalar
+1
+
+
+# name: furious
+# type: scalar
+2
+
+
+# name: geometry
+# type: scalar
+1
+
+
+# name: heroism
+# type: scalar
+2
+
+
+# name: imperialism
+# type: scalar
+3
+
+
+# name: inferior
+# type: scalar
+3
+
+
+# name: inform
+# type: scalar
+1
+
+
+# name: insult
+# type: scalar
+1
+
+
+# name: malaria
+# type: scalar
+1
+
+
+# name: manifestation
+# type: scalar
+1
+
+
+# name: mineral
+# type: scalar
+2
+
+
+# name: misnomer
+# type: scalar
+1
+
+
+# name: mortality
+# type: scalar
+1
+
+
+# name: motor
+# type: scalar
+2
+
+
+# name: museum
+# type: scalar
+1
+
+
+# name: mythology
+# type: scalar
+1
+
+
+# name: nonetheless
+# type: scalar
+1
+
+
+# name: nonprofit
+# type: scalar
+1
+
+
+# name: ongoing
+# type: scalar
+2
+
+
+# name: precisely
+# type: scalar
+1
+
+
+# name: presentation
+# type: scalar
+1
+
+
+# name: privation
+# type: scalar
+1
+
+
+# name: proposition
+# type: scalar
+1
+
+
+# name: recommend
+# type: scalar
+1
+
+
+# name: reflect
+# type: scalar
+1
+
+
+# name: rely
+# type: scalar
+1
+
+
+# name: repel
+# type: scalar
+1
+
+
+# name: represent
+# type: scalar
+1
+
+
+# name: representation
+# type: scalar
+3
+
+
+# name: revolution
+# type: scalar
+1
+
+
+# name: ridiculous
+# type: scalar
+1
+
+
+# name: salon
+# type: scalar
+1
+
+
+# name: salvation
+# type: scalar
+1
+
+
+# name: siberian
+# type: scalar
+1
+
+
+# name: slovenian
+# type: scalar
+1
+
+
+# name: speciality
+# type: scalar
+1
+
+
+# name: submit
+# type: scalar
+1
+
+
+# name: supermajority
+# type: scalar
+3
+
+
+# name: surrender
+# type: scalar
+1
+
+
+# name: surround
+# type: scalar
+1
+
+
+# name: teeny
+# type: scalar
+2
+
+
+# name: toenail
+# type: scalar
+2
+
+
+# name: whereabouts
+# type: scalar
+2
+
+
+# name: wholeheartedly
+# type: scalar
+2
+
+
+# name: widower
+# type: scalar
+2
+
+
+# name: consideration
+# type: scalar
+3
+
+
+
+

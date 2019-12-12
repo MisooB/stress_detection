@@ -1,0 +1,6 @@
+1.k - Teoreticky popis pozadia clankov
+
+--- 2.k - Popisat - datasety, slovnik, metodu merania vyhodnocovania (dg_shrikanth) a matching (krivka)
+        - mozno ukazat "aspirin", spravit rozhlad o datasetoch, recnikoch(country, vek, pohlavie), percenta,
+
+3.k - Testy, vysledky

@@ -1,0 +1,1450 @@
+# Created by Octave 5.1.0, Tue Oct 22 13:33:23 2019 GMT <unknown@Alienovo>
+# name: positive_files
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 244
+# name: aspirin
+# type: scalar
+1
+
+
+# name: appointment
+# type: scalar
+2
+
+
+# name: anesthetic
+# type: scalar
+3
+
+
+# name: almost
+# type: scalar
+1
+
+
+# name: allergic
+# type: scalar
+2
+
+
+# name: airmail
+# type: scalar
+1
+
+
+# name: agricultural
+# type: scalar
+3
+
+
+# name: aerial
+# type: scalar
+1
+
+
+# name: admission
+# type: scalar
+2
+
+
+# name: adapter
+# type: scalar
+2
+
+
+# name: ability
+# type: scalar
+2
+
+
+# name: abbey
+# type: scalar
+1
+
+
+# name: spanish
+# type: scalar
+1
+
+
+# name: portugal
+# type: scalar
+1
+
+
+# name: netherlands
+# type: scalar
+1
+
+
+# name: mister
+# type: scalar
+1
+
+
+# name: kleenex
+# type: scalar
+1
+
+
+# name: italy
+# type: scalar
+1
+
+
+# name: italian
+# type: scalar
+2
+
+
+# name: internet
+# type: scalar
+1
+
+
+# name: holland
+# type: scalar
+1
+
+
+# name: germany
+# type: scalar
+1
+
+
+# name: german
+# type: scalar
+1
+
+
+# name: chilly
+# type: scalar
+1
+
+
+# name: checkout
+# type: scalar
+1
+
+
+# name: chapel
+# type: scalar
+1
+
+
+# name: chairwoman
+# type: scalar
+1
+
+
+# name: chairperson
+# type: scalar
+1
+
+
+# name: centimeter
+# type: scalar
+1
+
+
+# name: cavity
+# type: scalar
+1
+
+
+# name: catty
+# type: scalar
+1
+
+
+# name: caravan
+# type: scalar
+1
+
+
+# name: cancel
+# type: scalar
+1
+
+
+# name: camping
+# type: scalar
+1
+
+
+# name: button
+# type: scalar
+1
+
+
+# name: butchers
+# type: scalar
+1
+
+
+# name: bucket
+# type: scalar
+1
+
+
+# name: bronchitis
+# type: scalar
+2
+
+
+# name: breakdown
+# type: scalar
+1
+
+
+# name: bookshop
+# type: scalar
+1
+
+
+# name: bonus
+# type: scalar
+1
+
+
+# name: boarding
+# type: scalar
+1
+
+
+# name: blossom
+# type: scalar
+1
+
+
+# name: blister
+# type: scalar
+1
+
+
+# name: blackout
+# type: scalar
+1
+
+
+# name: billfold
+# type: scalar
+1
+
+
+# name: beginner
+# type: scalar
+2
+
+
+# name: battery
+# type: scalar
+1
+
+
+# name: basic
+# type: scalar
+1
+
+
+# name: bashful
+# type: scalar
+1
+
+
+# name: basement
+# type: scalar
+1
+
+
+# name: bankrupt
+# type: scalar
+1
+
+
+# name: bakers
+# type: scalar
+1
+
+
+# name: backpack
+# type: scalar
+1
+
+
+# name: babysitter
+# type: scalar
+1
+
+
+# name: autumn
+# type: scalar
+1
+
+
+# name: asthma
+# type: scalar
+1
+
+
+# name: earrings
+# type: scalar
+1
+
+
+# name: dynasty
+# type: scalar
+1
+
+
+# name: dustbin
+# type: scalar
+1
+
+
+# name: dressing
+# type: scalar
+1
+
+
+# name: downtown
+# type: scalar
+1
+
+
+# name: dormitory
+# type: scalar
+1
+
+
+# name: doorway
+# type: scalar
+1
+
+
+# name: diving
+# type: scalar
+1
+
+
+# name: disturb
+# type: scalar
+2
+
+
+# name: disinfect
+# type: scalar
+3
+
+
+# name: dishwasher
+# type: scalar
+1
+
+
+# name: dishes
+# type: scalar
+1
+
+
+# name: disgusting
+# type: scalar
+2
+
+
+# name: disco
+# type: scalar
+1
+
+
+# name: disabled
+# type: scalar
+2
+
+
+# name: director
+# type: scalar
+2
+
+
+# name: diesel
+# type: scalar
+1
+
+
+# name: dialog
+# type: scalar
+1
+
+
+# name: depend
+# type: scalar
+2
+
+
+# name: department
+# type: scalar
+2
+
+
+# name: deodorant
+# type: scalar
+2
+
+
+# name: delivery
+# type: scalar
+2
+
+
+# name: deli
+# type: scalar
+1
+
+
+# name: damaged
+# type: scalar
+1
+
+
+# name: customs
+# type: scalar
+1
+
+
+# name: cupboard
+# type: scalar
+1
+
+
+# name: cultural
+# type: scalar
+1
+
+
+# name: crossroads
+# type: scalar
+1
+
+
+# name: covering
+# type: scalar
+1
+
+
+# name: cover
+# type: scalar
+1
+
+
+# name: counter
+# type: scalar
+1
+
+
+# name: cotton
+# type: scalar
+1
+
+
+# name: cooking
+# type: scalar
+1
+
+
+# name: continuously
+# type: scalar
+2
+
+
+# name: companionship
+# type: scalar
+2
+
+
+# name: collect
+# type: scalar
+2
+
+
+# name: closing
+# type: scalar
+1
+
+
+# name: closet
+# type: scalar
+1
+
+
+# name: cloakroom
+# type: scalar
+1
+
+
+# name: climbing
+# type: scalar
+1
+
+
+# name: classroom
+# type: scalar
+1
+
+
+# name: classical
+# type: scalar
+1
+
+
+# name: classic
+# type: scalar
+1
+
+
+# name: city
+# type: scalar
+1
+
+
+# name: genuinely
+# type: scalar
+1
+
+
+# name: general
+# type: scalar
+1
+
+
+# name: garlic
+# type: scalar
+1
+
+
+# name: garden
+# type: scalar
+1
+
+
+# name: gallery
+# type: scalar
+1
+
+
+# name: freezer
+# type: scalar
+1
+
+
+# name: fragrant
+# type: scalar
+1
+
+
+# name: forest
+# type: scalar
+1
+
+
+# name: fondness
+# type: scalar
+1
+
+
+# name: folder
+# type: scalar
+1
+
+
+# name: flavor
+# type: scalar
+1
+
+
+# name: flashlight
+# type: scalar
+1
+
+
+# name: flasher
+# type: scalar
+1
+
+
+# name: fireworks
+# type: scalar
+1
+
+
+# name: fire
+# type: scalar
+1
+
+
+# name: filling
+# type: scalar
+1
+
+
+# name: feverish
+# type: scalar
+1
+
+
+# name: faucet
+# type: scalar
+1
+
+
+# name: factory
+# type: scalar
+1
+
+
+# name: extra
+# type: scalar
+1
+
+
+# name: exhausted
+# type: scalar
+2
+
+
+# name: exceptional
+# type: scalar
+2
+
+
+# name: everyday
+# type: scalar
+1
+
+
+# name: evening
+# type: scalar
+1
+
+
+# name: euro
+# type: scalar
+1
+
+
+# name: espresso
+# type: scalar
+2
+
+
+# name: erect
+# type: scalar
+2
+
+
+# name: emergency
+# type: scalar
+2
+
+
+# name: illness
+# type: scalar
+1
+
+
+# name: hundred
+# type: scalar
+1
+
+
+# name: housework
+# type: scalar
+1
+
+
+# name: hospital
+# type: scalar
+1
+
+
+# name: homosexual
+# type: scalar
+3
+
+
+# name: homeland
+# type: scalar
+1
+
+
+# name: holidays
+# type: scalar
+1
+
+
+# name: holiday
+# type: scalar
+1
+
+
+# name: hitchhiking
+# type: scalar
+1
+
+
+# name: historical
+# type: scalar
+2
+
+
+# name: hiking
+# type: scalar
+1
+
+
+# name: helmet
+# type: scalar
+1
+
+
+# name: headlight
+# type: scalar
+1
+
+
+# name: hashish
+# type: scalar
+2
+
+
+# name: handicraft
+# type: scalar
+1
+
+
+# name: handicapped
+# type: scalar
+1
+
+
+# name: hairdresser
+# type: scalar
+1
+
+
+# name: gynecologist
+# type: scalar
+3
+
+
+# name: guidebook
+# type: scalar
+1
+
+
+# name: grocers
+# type: scalar
+1
+
+
+# name: greatness
+# type: scalar
+1
+
+
+# name: goodnight
+# type: scalar
+1
+
+
+# name: glasses
+# type: scalar
+1
+
+
+# name: management
+# type: scalar
+1
+
+
+# name: mama
+# type: scalar
+1
+
+
+# name: mailman
+# type: scalar
+1
+
+
+# name: lorry
+# type: scalar
+1
+
+
+# name: locker
+# type: scalar
+1
+
+
+# name: lively
+# type: scalar
+1
+
+
+# name: liter
+# type: scalar
+1
+
+
+# name: lighter
+# type: scalar
+1
+
+
+# name: lifeguards
+# type: scalar
+1
+
+
+# name: lenses
+# type: scalar
+1
+
+
+# name: leader
+# type: scalar
+1
+
+
+# name: lazy
+# type: scalar
+1
+
+
+# name: laundromat
+# type: scalar
+1
+
+
+# name: laptop
+# type: scalar
+1
+
+
+# name: landmark
+# type: scalar
+1
+
+
+# name: label
+# type: scalar
+1
+
+
+# name: kitchen
+# type: scalar
+1
+
+
+# name: kidneys
+# type: scalar
+1
+
+
+# name: kidney
+# type: scalar
+1
+
+
+# name: jumper
+# type: scalar
+1
+
+
+# name: journey
+# type: scalar
+1
+
+
+# name: jolly
+# type: scalar
+1
+
+
+# name: jogging
+# type: scalar
+1
+
+
+# name: jewelry
+# type: scalar
+1
+
+
+# name: itchy
+# type: scalar
+1
+
+
+# name: intermission
+# type: scalar
+3
+
+
+# name: intend
+# type: scalar
+2
+
+
+# name: inspection
+# type: scalar
+2
+
+
+# name: injured
+# type: scalar
+1
+
+
+# name: injection
+# type: scalar
+2
+
+
+# name: infection
+# type: scalar
+2
+
+
+# name: incoming
+# type: scalar
+1
+
+
+# name: panties
+# type: scalar
+1
+
+
+# name: painting
+# type: scalar
+1
+
+
+# name: painkiller
+# type: scalar
+1
+
+
+# name: packet
+# type: scalar
+1
+
+
+# name: packed
+# type: scalar
+1
+
+
+# name: overcast
+# type: scalar
+1
+
+
+# name: outing
+# type: scalar
+1
+
+
+# name: originally
+# type: scalar
+2
+
+
+# name: organic
+# type: scalar
+2
+
+
+# name: optician
+# type: scalar
+2
+
+
+# name: open
+# type: scalar
+1
+
+
+# name: ointment
+# type: scalar
+1
+
+
+# name: notebook
+# type: scalar
+1
+
+
+# name: noisy
+# type: scalar
+1
+
+
+# name: newsstand
+# type: scalar
+1
+
+
+# name: neighbor
+# type: scalar
+1
+
+
+# name: napkin
+# type: scalar
+1
+
+
+# name: naked
+# type: scalar
+1
+
+
+# name: mussels
+# type: scalar
+1
+
+
+# name: mountain
+# type: scalar
+1
+
+
+# name: mosquito
+# type: scalar
+2
+
+
+# name: moped
+# type: scalar
+1
+
+
+# name: monument
+# type: scalar
+1
+
+
+# name: monastery
+# type: scalar
+1
+
+
+# name: moisturizer
+# type: scalar
+1
+
+
+# name: midday
+# type: scalar
+1
+
+
+# name: master
+# type: scalar
+1
+
+
+# name: continuous
+# type: scalar
+2
+
+
+# name: contemporary
+# type: scalar
+2
+
+
+# name: contagious
+# type: scalar
+2
+
+
+# name: construction
+# type: scalar
+2
+
+
+# name: constipated
+# type: scalar
+1
+
+
+# name: congregation
+# type: scalar
+3
+
+
+# name: concession
+# type: scalar
+2
+
+
+# name: concert
+# type: scalar
+1
+
+
+# name: belgium
+# type: scalar
+1
+
+
+# name: belgian
+# type: scalar
+1
+
+
+# name: august
+# type: scalar
+1
+
+
+# name: american
+# type: scalar
+2
+
+
+# name: compartment
+# type: scalar
+2
+
+
+# name: receptionist
+# type: scalar
+2
+
+
+# name: reception
+# type: scalar
+2
+
+
+# name: recently
+# type: scalar
+1
+
+
+# name: razor
+# type: scalar
+1
+
+
+# name: rather
+# type: scalar
+1
+
+
+# name: rarely
+# type: scalar
+1
+
+
+# name: racket
+# type: scalar
+1
+
+
+# name: program
+# type: scalar
+1
+
+
+# name: probably
+# type: scalar
+1
+
+
+# name: preview
+# type: scalar
+1
+
+
+# name: prescription
+# type: scalar
+2
+
+
+# name: preparation
+# type: scalar
+3
+
+
+# name: possibility
+# type: scalar
+3
+
+
+# name: portray
+# type: scalar
+2
+
+
+# name: plumber
+# type: scalar
+1
+
+
+# name: platform
+# type: scalar
+1
+
+
+# name: plastic
+# type: scalar
+1
+
+
+# name: picnic
+# type: scalar
+1
+
+
+# name: physics
+# type: scalar
+1
+
+
+# name: photocopy
+# type: scalar
+1
+
+
+
+
+# name: negative_files
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 43
+# name: antibiotic
+# type: scalar
+2
+
+
+# name: accommodations
+# type: scalar
+3
+
+
+# name: accommodation
+# type: scalar
+2
+
+
+# name: japan
+# type: scalar
+1
+
+
+# name: hungary
+# type: scalar
+2
+
+
+# name: european
+# type: scalar
+1
+
+
+# name: english
+# type: scalar
+2
+
+
+# name: easter
+# type: scalar
+2
+
+
+# name: busily
+# type: scalar
+2
+
+
+# name: below
+# type: scalar
+1
+
+
+# name: auditorium
+# type: scalar
+1
+
+
+# name: disappointed
+# type: scalar
+1
+
+
+# name: directory
+# type: scalar
+1
+
+
+# name: diploma
+# type: scalar
+1
+
+
+# name: diabetes
+# type: scalar
+2
+
+
+# name: delayed
+# type: scalar
+1
+
+
+# name: cutlery
+# type: scalar
+2
+
+
+# name: criticism
+# type: scalar
+2
+
+
+# name: comparatively
+# type: scalar
+3
+
+
+# name: fundamental
+# type: scalar
+2
+
+
+# name: forbidden
+# type: scalar
+2
+
+
+# name: falsification
+# type: scalar
+1
+
+
+# name: exhibition
+# type: scalar
+1
+
+
+# name: excess
+# type: scalar
+2
+
+
+# name: exam
+# type: scalar
+1
+
+
+# name: epileptic
+# type: scalar
+1
+
+
+# name: enthusiastic
+# type: scalar
+3
+
+
+# name: elevator
+# type: scalar
+2
+
+
+# name: economic
+# type: scalar
+1
+
+
+# name: hippopotamus
+# type: scalar
+2
+
+
+# name: mailbox
+# type: scalar
+2
+
+
+# name: lateral
+# type: scalar
+2
+
+
+# name: introduction
+# type: scalar
+2
+
+
+# name: initially
+# type: scalar
+3
+
+
+# name: overweight
+# type: scalar
+1
+
+
+# name: organization
+# type: scalar
+3
+
+
+# name: oneself
+# type: scalar
+1
+
+
+# name: motorist
+# type: scalar
+2
+
+
+# name: mathematic
+# type: scalar
+1
+
+
+# name: connecting
+# type: scalar
+1
+
+
+# name: congratulations
+# type: scalar
+2
+
+
+# name: quality
+# type: scalar
+2
+
+
+# name: policeman
+# type: scalar
+1
+
+
+
+
